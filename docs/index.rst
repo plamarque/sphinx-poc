@@ -13,6 +13,7 @@ Contents:
 
    all-about-exo
    manageApplications
+   UserGuide
 
 
 
