@@ -26,12 +26,12 @@ page will appear.
 .. |image0| image:: images/common/administration_navigation.png
    :width: 18mm
 .. |image1| image:: images/common/1.png
-   :width: 3mm
+   :width: 5mm
 .. |image2| image:: images/common/2.png
-   :width: 3mm
+   :width: 5mm
 .. |image3| image:: images/common/3.png
-   :width: 3mm
+   :width: 5mm
 .. |image4| image:: images/common/4.png
-   :width: 3mm
+   :width: 5mm
 .. |image5| image:: images/common/5.png
-   :width: 3mm
+   :width: 5mm
