@@ -64,7 +64,7 @@ has all permissions on all features of PRODUCT.
 A set of menus (sometimes so-called node tree) that contains hyperlinks
 to other parts of a site. The default navigation menus in PRODUCT are
 located in the top navigation bar:
-|image0|
+.. image:: /images/platform/top_navigation_bar.png
 
 **Space**
 
@@ -187,7 +187,3 @@ using symlinks, you can easily access specific nodes (target) to which
 symlinks point. In **Documents**, a symlink has a small chain symbol
 next to its icon.
 
-
-.. |image0| image:: images/platform/top_navigation_bar.png
-   :width: 150mm
-   :align: center
