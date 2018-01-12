@@ -32,10 +32,10 @@ The main guides in eXo Platform documentation:
    wiki
    documents
    forum
-   calendars
+   calendar
    website
-   searching
-   administering-eXo-Platform
+   search-in-exo
+   administrate-exo
 
 
 Contents:
