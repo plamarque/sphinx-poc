@@ -201,3 +201,10 @@ next to its icon.
 
 .. |image0| image:: images/platform/top_navigation_bar.png
    :width: 150mm
+   
+.. _Welcome to eXo Platform:
+
+Welcome to eXo Platform
+~~~~~~~~~
+
+eXo Platform is a full-featured application for users to have many experiences in building and deploying transactional websites, authoring web and social content, creating gadgets and dashboards with reliable capabilities of collaboration and knowledge. When you initialize eXo Platform for the first time, the **Terms and Conditions Agreement** screen is displayed as follows:
