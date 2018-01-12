@@ -13,37 +13,36 @@ Introduction
     readers when approaching PRODUCT, this guide is organized into the
     following chapters:
     
-    :ref:`Getting Started <getting-started>`
-
-    -  **`Getting Started`_**
+    - :ref:**`Getting Started** <getting-started>`
 
        All the most basic things you need to know when approaching
-       PRODUCT for the first time, for example, commonly used
-       glossaries, interface of PRODUCT, sign-in/sign-out, management of
+       eXo Platform for the first time, for example, commonly used
+       glossaries, interface of eXo Platform, sign-in/sign-out, management of
        your accounts and language.
 
-    -  **`Managing Your Personal Applications`_**
+    - :ref:**`Managing Your Personal Applications** <managing-personal-apps>`
 
        Introduction you to accessing personal applications that allow
        you to manage your profiles, activity stream, connections,
        dashboard and email notification and to work with Wiki quickly.
 
-    -  **`Working With Tasks`_**
+    - :ref:**`Working With Tasks** <tasks>`
 
        Instructions on how to work with the Task Management application,
        including capturing a task and managing projects effectively.
 
-    -  **`Discussing in Chat`_**
+    - :ref:**`Discussing in Chat** <chat>`
 
-       Instructions on how to use BRAND_CHAT.
+       Instructions on how to use eXo Chat.
 
-    -  **`Working With Spaces`_**
+    - :ref:**`Working With Spaces** <spaces>`
 
        All related to a space, including accessing, creating/editing,
        joining/leaving/deleting a space, and accepting/denying
        invitations.
 
-    -  **`Working With Wikis`_**
+    - :ref:**`Working With Wikis** <wiki>`
+
 
        How to build a wiki, to manage the Wiki content, and to do
        advanced settings supported in Wiki.
