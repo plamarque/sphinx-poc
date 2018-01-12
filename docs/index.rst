@@ -6,6 +6,37 @@
 Welcome to sphinx-poc's documentation!
 =====================================
 
+The main guides in eXo Platform documentation:
+
+* :ref:`user-docs`
+* :ref:`admin-docs`
+* :ref:`dev-docs`
+* :ref:`addons-docs`
+* :ref:`mobile-docs`
+* :ref:`reference-JCR-docs`
+* :ref:`reference-eXo-foundations-docs`
+* :ref:`reference-platform-docs`
+
+.. _user-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: User Guide
+
+   getting-started
+   managing-personal-apps
+   tasks
+   chat
+   spaces
+   wiki
+   documents
+   forum
+   calendars
+   website
+   searching
+   administering-eXo-Platform
+
+
 Contents:
 
 .. toctree::
@@ -13,7 +44,6 @@ Contents:
 
    all-about-exo
    manageApplications
-   UserGuide
 
 
 
