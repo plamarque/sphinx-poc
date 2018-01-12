@@ -12,6 +12,8 @@ Introduction
     user interface and functions) provided in PRODUCT. To make easy for
     readers when approaching PRODUCT, this guide is organized into the
     following chapters:
+    
+    :ref:`Getting Started <getting-started>`
 
     -  **`Getting Started`_**
 
@@ -46,9 +48,3 @@ Introduction
        How to build a wiki, to manage the Wiki content, and to do
        advanced settings supported in Wiki.
 
-.. _Getting Started: getting-started
-.. _Managing Your Personal Applications: #PLFUserGuide.ManagingYourPersonalApplications
-.. _Working With Tasks: #PLFUserGuide.WorkingWithTasks
-.. _Discussing in Chat: #PLFUserGuide.Chat
-.. _Working With Spaces: #PLFUserGuide.WorkingWithSpaces
-.. _Working With Wikis: #PLFUserGuide.WorkingWithWikis
