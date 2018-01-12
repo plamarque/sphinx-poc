@@ -4,6 +4,8 @@ Getting started
 
 This user guide covers all the basic and advanced features/functions that are available in eXo Platform. Throughout a series of in-depth examples and clear explanations, users will easily realize benefits when implementing eXo Platform. 
 
+.. _getting-started:
+
 Getting Started
 ---------------
 
