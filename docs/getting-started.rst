@@ -8,7 +8,7 @@ Getting Started
 ---------------
 
  This chapter covers the following topics:
- 
+
  * :ref:`Glossary`
  * :ref:`Welcome to eXo Platform` 
  * :ref:`Social Intranet Homepage` 
@@ -16,6 +16,8 @@ Getting Started
  * :ref:`Changing your account settings`
  * :ref:`Forgot Password`
  * :ref:`Using the Activity Stream`
+ 
+
 
 .. _Glossary:
 

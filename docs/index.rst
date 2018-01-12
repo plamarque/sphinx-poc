@@ -22,7 +22,8 @@ The main guides in eXo Platform documentation:
 .. toctree::
    :maxdepth: 2
    :caption: User Guide
-
+   
+   introduction
    getting-started
    managing-personal-apps
    tasks
