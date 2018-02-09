@@ -24,7 +24,7 @@ The main guides in eXo Platform documentation:
    :caption: User Guide
    
    introduction
-   Getting started/index
+   getting-started
    managing-personal-apps
    tasks
    chat
