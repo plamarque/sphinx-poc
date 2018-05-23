@@ -23,24 +23,18 @@ The main guides in eXo Platform documentation:
    :maxdepth: 2
    :caption: User Guide
    
-    GettingStarted
-	PersonalApplications
-	TaskManagement
-	Chat
-	webconferencing
-	Space
-	Wiki
-	Documents
-	Forum
-	Calendar
-	Sites
-	Search
-	Administration
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   introduction
+   GettingStarted
+   PersonalApplications
+   Manage-Task
+   Chat
+   webconferencing
+   Manage-Space
+   Wiki
+   Manage-Documents
+   Forum
+   Calendar
+   Manage-Sites
+   Search
+   Administration
 
