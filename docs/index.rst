@@ -23,7 +23,19 @@ The main guides in eXo Platform documentation:
    :maxdepth: 2
    :caption: User Guide
    
-   user
+    GettingStarted
+	PersonalApplications
+	TaskManagement
+	Chat
+	webconferencing
+	Space
+	Wiki
+	Documents
+	Forum
+	Calendar
+	Sites
+	Search
+	Administration
 
 Indices and tables
 ==================
