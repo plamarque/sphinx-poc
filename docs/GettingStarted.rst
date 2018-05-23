@@ -28,8 +28,7 @@ Getting started
  * :ref:`Forgot Password <Forgot-Password>` 
        How to request a link to reset your password.
 
- * :ref:`using the Activity stream <Managing-Activities>`
-
+ * :ref:`Using the Activity stream <Managing-Activities>`
        How to post status updates, share links and documents, delete
        activities/comments, comment on activities, or like/unlike
        activities.

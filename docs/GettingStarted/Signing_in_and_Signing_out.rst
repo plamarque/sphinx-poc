@@ -1,3 +1,5 @@
+.. _Signing-in-and-Signing-out:
+
 Signing in/Signing out Social Intranet
 ======================================
 

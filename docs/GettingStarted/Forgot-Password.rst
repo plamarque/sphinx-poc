@@ -1,3 +1,5 @@
+.. _Forgot-Password:
+
 Forgot Password
 ===============
 

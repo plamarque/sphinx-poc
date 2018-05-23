@@ -1,3 +1,5 @@
+.. _Welcome-screens:
+
 Welcome to PRODUCT
 ==================
 
