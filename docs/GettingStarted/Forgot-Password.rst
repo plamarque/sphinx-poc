@@ -1,7 +1,7 @@
 .. _Forgot-Password:
 
 Forgot Password
-===============
+~~~~~~~~~~~~~~~~~~
 
 If you forget your password, you can request the system to send you a
 link to reset it. The link will be sent to your email. It helps if you

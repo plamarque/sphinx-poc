@@ -1,10 +1,10 @@
 .. _Glossary:
 
 Glossary
-========
+~~~~~~~~~
 
 This section provides a number of terms that you will encounter when
-implementing PRODUCT.
+implementing eXo Platform.
 
 **Site**
 
@@ -28,24 +28,26 @@ divided into two following types:
    are built into the site and accessed via toolbar links when the
    site-related tasks are performed.
 
--  **Interface portlets** which constitute the PRODUCT interface as
+-  **Interface portlets** which constitute the eXo Platform interface as
    front-end components of the site.
 
 **Super-user**
 
 A super-user is a special user who has full privileges and used for the
-administration. In PRODUCT, this account is configured with Root, Root,
+administration. In eXo Platform, this account is configured with Root, Root,
 root@localhost and its memberships are
 member:/organization/management/executive-board,
 \*:/platform/administrators, \*:/platform/users,
 \*:/platform/web-contributors, \*:/organization/employees. A super-user
-has all permissions on all features of PRODUCT.
+has all permissions on all features of eXo Platform.
 
 **Navigation**
 
 A set of menus (sometimes so-called node tree) that contains hyperlinks
-to other parts of a site. The default navigation menus in PRODUCT are
+to other parts of a site. The default navigation menus in eXo Platform are
 located in the top navigation bar:
+
+|image0|
 
 **Space**
 
@@ -92,7 +94,7 @@ dashboards by yourself.
 
 **Modes**
 
-PRODUCT offers two access modes by default:
+eXo Platform offers two access modes by default:
 
 -  **Public mode** is for guest users (visitors) who are not registered.
    In this mode, you are not required to sign in, but limited to public
@@ -157,7 +159,7 @@ very large and complex data structure can be formed.
 **WebDAV**
 
 This term stands for Web-based Distributed Authoring and Versioning. In
-PRODUCT, it is used as a mean to access the content repository directly
+eXo Platform, it is used as a mean to access the content repository directly
 from the **Sites Explorer**.
 
 **Symlink**
@@ -166,3 +168,6 @@ A special file which contains a reference to a document or a folder. By
 using symlinks, you can easily access specific nodes (target) to which
 symlinks point. In **Documents**, a symlink has a small chain symbol
 next to its icon.
+
+.. |image0| image:: images/platform/top_navigation_bar.png
+   :width: 150mm

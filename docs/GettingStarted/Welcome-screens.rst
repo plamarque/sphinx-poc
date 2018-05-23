@@ -1,7 +1,7 @@
 .. _Welcome-screens:
 
-Welcome to PRODUCT
-==================
+Welcome to eXo Platform
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 PRODUCT is a full-featured application for users to have many
 experiences in building and deploying transactional websites, authoring

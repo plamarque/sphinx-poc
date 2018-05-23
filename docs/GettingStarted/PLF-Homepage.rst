@@ -1,7 +1,7 @@
 .. _PLFHomepage:
 
 Social Intranet Homepage
-========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This section introduces you to the Social Intranet homepage. Besides,
 you will further learn about the following topics:
