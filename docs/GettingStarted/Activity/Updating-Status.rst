@@ -73,9 +73,7 @@ Click Post to post your message in the activity stream.
 
 Your new activity will appear in All Activities and My Activities.
 
-    **Note**
-
-    Once you have posted your activity with the selected My Spaces
+.. note:: Once you have posted your activity with the selected My Spaces
     filter, you are redirected to **Activity Stream** which is at the
     All Activities filter.
 

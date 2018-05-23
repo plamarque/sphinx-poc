@@ -1,3 +1,5 @@
+.. _Managing-Activity-Stream:
+
 Managing your activity stream
 =============================
 
