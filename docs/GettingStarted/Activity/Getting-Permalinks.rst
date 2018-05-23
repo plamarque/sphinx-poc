@@ -1,3 +1,5 @@
+.. _Getting-Permalinks:
+
 Getting permalinks of activities/comments
 =========================================
 

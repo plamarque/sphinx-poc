@@ -6,22 +6,16 @@ Social Intranet Homepage
 This section introduces you to the Social Intranet homepage. Besides,
 you will further learn about the following topics:
 
--  **`Creating content
-   quickly <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly>`__**
-
+ * :ref:`Creating content quickly <Creating-content>`
    How to create your preferred content without navigating to its
    relevant application, including events, tasks, polls, topics and Wiki
    pages.
-
--  **`Social Intranet
-   applications <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.SocialIntranetApplications>`__**
-
+   
+ * :ref:`Social Intranet applications <Intranet-Gadgets>`
    Introduction to applications that come with the Social Intranet
    homepage.
-
--  **`Changing the UI
-   language <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.ChangingLanguage>`__**
-
+   
+ * :ref:`Changing the UI language <Change-Language>`
    Instructions on how to change the UI language of PRODUCT.
 
 After signing in your account successfully, you are redirected to the

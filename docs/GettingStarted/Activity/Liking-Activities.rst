@@ -1,3 +1,5 @@
+.. _Liking-Activities:
+
 Liking activities
 =================
 

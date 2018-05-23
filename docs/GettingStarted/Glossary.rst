@@ -49,6 +49,10 @@ located in the top navigation bar:
 
 |image0|
 
+.. |image0| image:: images/platform/top_navigation_bar.png
+   :width: 150mm
+
+
 **Space**
 
 A collaboration workspace where you can share documents, tasks, events,

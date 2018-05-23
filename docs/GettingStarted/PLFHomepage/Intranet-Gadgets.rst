@@ -1,3 +1,5 @@
+.. _Intranet-Gadgets:
+
 Social Intranet applications
 ============================
 

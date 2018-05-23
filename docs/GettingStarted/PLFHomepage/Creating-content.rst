@@ -1,3 +1,5 @@
+.. _Creating-content:
+
 Creating content quickly
 ========================
 

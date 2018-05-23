@@ -1,3 +1,5 @@
+.. _Deleting-Activities-Comments:
+
 Deleting activities/comments
 ============================
 

@@ -1,3 +1,5 @@
+.. _Commenting-Activities:
+
 Commenting on activities
 ========================
 

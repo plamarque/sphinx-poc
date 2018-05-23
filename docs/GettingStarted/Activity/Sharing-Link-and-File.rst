@@ -1,3 +1,5 @@
+.. _Sharing-Link-and-File:
+
 Sharing a link/file
 ===================
 

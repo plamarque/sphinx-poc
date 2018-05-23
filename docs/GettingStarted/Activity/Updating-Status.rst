@@ -1,3 +1,5 @@
+.. _Updating-Status:
+
 Posting Status Updates
 ======================
 

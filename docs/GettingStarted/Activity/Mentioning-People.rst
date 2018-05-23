@@ -1,3 +1,5 @@
+.. _Mentioning-People:
+
 Mentioning someone
 ==================
 

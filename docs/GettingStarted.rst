@@ -35,6 +35,6 @@ Getting started
 
     **Note**
 
-    According to your roles, not all features described in this guide
+.. note:: According to your roles, not all features described in this guide
     are available to you. Check with your administrator to assure which
     features are for your account or ask for more appropriate rights.

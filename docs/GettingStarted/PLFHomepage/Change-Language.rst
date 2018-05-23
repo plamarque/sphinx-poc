@@ -1,3 +1,6 @@
+.. _Change-Language:
+
+
 Changing the UI language
 ========================
 
