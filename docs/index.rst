@@ -23,30 +23,7 @@ The main guides in eXo Platform documentation:
    :maxdepth: 2
    :caption: User Guide
    
-   introduction
-   getting-started
-   managing-personal-apps
-   tasks
-   chat
-   spaces
-   wiki
-   documents
-   forum
-   calendar
-   website
-   search-in-exo
-   administrate-exo
-
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   all-about-exo
-   manageApplications
-
-
+   user
 
 Indices and tables
 ==================
