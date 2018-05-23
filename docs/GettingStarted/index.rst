@@ -5,7 +5,6 @@ Getting started
 .. toctree::
    :caption:Getting started
 
-	GettingStarted
 	Glossary
 	Welcome-screens
 	PLFHomepage
