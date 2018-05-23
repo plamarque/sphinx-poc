@@ -1,9 +1,12 @@
-Getting Started
-===============
+.. _GettingStarted:
+
+################
+Getting started
+################
 
     This chapter covers the following topics:
 
-    -  **`Glossary <#PLFUserGuide.GettingStarted.Glossary>`__**
+    -  **`Glossary <Glossary>`__**
 
        Terms which are commonly used in PRODUCT applications.
 

@@ -1,5 +1,5 @@
-Searching In PRODUCT
-====================
+Searching In eXo Platform
+==========================
 
     In this chapter, you will learn about the search feature in PRODUCT.
     You can search for content via various ways:
