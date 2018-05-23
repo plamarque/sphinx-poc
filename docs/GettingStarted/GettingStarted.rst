@@ -5,40 +5,30 @@ Getting started
 ################
 
     This chapter covers the following topics:
+    
 
-    -  **`Glossary <Glossary>`__**
+ * :ref:`Glossary <Glossary>`
+       Terms which are commonly used in eXo Platform applications.
 
-       Terms which are commonly used in PRODUCT applications.
-
-    -  **`Welcome to
-       PRODUCT <#PLFUserGuide.GettingStarted.WelcomeScreens>`__**
-
+ * :ref:`Welcome to eXo Platform <Welcome-screens>`
        Introduction to what you need to do for the first startup of
-       PRODUCT.
-
-    -  **`Social Intranet
-       Homepage <#PLFUserGuide.GettingStarted.SocialIntranetHomepage>`__**
-
+       eXo Platform.
+       
+ * :ref:`Social Intranet Homepage <PLFHomepage>`
        Introduction to the Social Intranet homepage, the Social Intranet
        applications and how to change your language.
-
-    -  **`Signing in/Signing out Social
-       Intranet <#PLFUserGuide.GettingStarted.SigningInSigningOut>`__**
-
+       
+       
+ * :ref:`Signing in/Signing out Social Intranet <Signing-in-and-Signing-out>`       
        How to sign in and sign out Social Intranet.
-
-    -  **`Changing your account
-       settings <#PLFUserGuide.GettingStarted.ManagingAccounts.ChangingAccountSettings>`__**
-
+       
+ * :ref:`Changing your account settings <Managing-Account>`   
        How to change your account profile and password.
-
-    -  **`Forgot
-       Password <#PLFUserGuide.GettingStarted.Forgot_Password>`__**
-
+       
+ * :ref:`Forgot Password <Forgot-Password>` 
        How to request a link to reset your password.
 
-    -  **`Using the Activity
-       Stream <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream>`__**
+ * :ref:`using the Activity stream <Managing-Activities>`
 
        How to post status updates, share links and documents, delete
        activities/comments, comment on activities, or like/unlike
