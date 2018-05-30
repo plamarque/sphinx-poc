@@ -1,3 +1,5 @@
+.. _Share-AS:
+
 Sharing in the activity stream
 ==============================
 

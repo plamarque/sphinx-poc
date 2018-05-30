@@ -3,24 +3,24 @@
 Welcome to eXo Platform
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-PRODUCT is a full-featured application for users to have many
+eXo Platform is a full-featured application for users to have many
 experiences in building and deploying transactional websites, authoring
 web and social content, creating gadgets and dashboards with reliable
-capabilities of collaboration and knowledge. When you initialize PRODUCT
+capabilities of collaboration and knowledge. When you initialize eXo Platform
 for the first time, the **Terms and Conditions Agreement** screen is
 displayed as follows:
 
 |image0|
 
-    **Note**
+    .. note::
 
     The **Terms and Conditions Agreement** screen appears in the
     Commercial editions only. In the Community edition, the `Account
     Setup <#AccountSetUpForm>`__ form appears for the first time.
 
 This agreement contains all terms and conditions that you need to read
-carefully before deciding to use PRODUCT. By ticking the checkbox at the
-screen bottom, you totally agree with the PRODUCT's terms and
+carefully before deciding to use eXo Platform. By ticking the checkbox at the
+screen bottom, you totally agree with the eXo Platform's terms and
 conditions. Next, click Continue to move to the Account Setup form.
 
 |image1|
@@ -30,7 +30,7 @@ The Account Setup window consists of 2 sub-forms:
 -  Create your account: Create your primary account.
 
 -  Admin Password: Change the default password of the "root" user. You
-   can use this account to log in PRODUCT as a *super-user* who has the
+   can use this account to log in eXo Platform as a *super-user* who has the
    highest rights in the system.
 
 You can select Skip to ignore this step, then sign in as the root user
@@ -48,7 +48,7 @@ Enter your information in fields.
 
 -  Values entered in both Password and Confirm fields must be the same.
 
--  You can change these entered information after logging in PRODUCT.
+-  You can change these entered information after logging in eXo Platform.
    See `Changing your account
    settings <#PLFUserGuide.GettingStarted.ManagingAccounts.ChangingAccountSettings>`__
    for more details.
@@ -66,7 +66,7 @@ homepage <#PLFUserGuide.GettingStarted.SocialIntranetHomepage>`__. Now,
 you can start adding more users to collaborate, creating/joining spaces,
 or creating/following activities.
 
-    **Note**
+    .. note::
 
     -  After your accounts have been submitted successfully, the
        following memberships will be granted to your primary account:

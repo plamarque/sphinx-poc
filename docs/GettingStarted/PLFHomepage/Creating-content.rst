@@ -11,24 +11,15 @@ menu.
 
 Here, you can do the following actions quickly:
 
--  `Creating a
-   task <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly.EventTask>`__
+ * :ref:`Creating a task`
+ * :ref:`Creating an event`
+ * :ref:`Creating a poll`
+ * :ref:`Creating a topic` 
+ * :ref:`Uploading a document`
+ * :ref:`Creating a Wiki`
 
--  `Creating an
-   event <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly.EventTask>`__
 
--  `Creating a
-   poll <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly.Poll>`__
-
--  `Creating a
-   topic <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly.Topic>`__
-
--  `Uploading a
-   document <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly.UploadingFile>`__
-
--  `Creating a Wiki
-   page <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly.CreatingWikiPage>`__
-
+.. _Creating a task:
 **Creating a task**
 
 Simply select Task from the drop-down menu. The menu will be updated
@@ -40,6 +31,8 @@ Fill in the Title field, and then hit the button Add.
 
 After saving, a pop up link appears\ |image3| which points to the
 created task.
+
+.. _Creating an event:
 
 **Creating an event**
 
@@ -59,9 +52,11 @@ Click Save to add your event.
 
 A pop up |image5|
 
-    **Note**
+    .. note::
 
     Click Cancel at any time to dismiss the Add event form.
+    
+.. _Creating a poll:    
 
 **Creating a poll**
 
@@ -70,7 +65,7 @@ form as below:
 
 |image6|
 
-    **Note**
+    .. note::
 
     If there is no forum available in Intranet and the user has no space
     forum yet, the following warning is displayed: "Sorry, no forum is
@@ -96,11 +91,12 @@ Fill in the Poll form. See `Creating a
 poll <#PLFUserGuide.BuildingYourForum.RegularUser.Topics.CreatingPoll>`__
 for more details.
 
+.. _Creating a topic:  
 **Creating a topic**
 
 Click Topic from the drop-down menu.
 
-    **Note**
+    .. note::
 
     If there is no forum available in Intranet and the user has no space
     forum yet, the following warning is displayed: "Sorry, no forum is
@@ -125,12 +121,15 @@ Fill in the New Topic form. See `Creating a
 topic <#PLFUserGuide.BuildingYourForum.RegularUser.Topics.CreatingTopic>`__
 for more details.
 
+.. _Uploading a document: 
+
 **Uploading a file**
 
 Simply select Upload a File from the drop-down menu. See `Sharing a
 File <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.SharingLinkAndFile.SharingFile>`__
 for more details.
 
+.. _Creating a Wiki: 
 **Creating a Wiki page**
 
 Click Wiki Page from the drop-down menu.
@@ -158,3 +157,4 @@ for more details.
 .. |image7| image:: images/platform/poll_select_forum.png
 .. |image8| image:: images/platform/topic_select_forum.png
 .. |image9| image:: images/platform/create_wiki_page.png
+

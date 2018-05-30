@@ -4,22 +4,24 @@
 Changing the UI language
 ========================
 
-To change the language of PRODUCT, do as follows:
+To change the language of eXo Platform, do as follows:
 
 Click your display name on the top navigation bar, then select Change
 Language from the drop-down menu.
 
+|image0|
+
 In the Interface Language Setting form, you will see 23 languages that
-PRODUCT supports. Select your preferred language to display, for
+eXo Platform supports. Select your preferred language to display, for
 instance *English*:
 
-|image0|
+|image1|
 
 Click Apply to commit your changes.
 
-    **Note**
+    .. note::
 
-    In PRODUCT, the priority order of the display language is as the
+    In eXo Platform, the priority order of the display language is as the
     following:
 
     User's language Cookies' language Browser's language Site's language
@@ -31,3 +33,4 @@ Click Apply to commit your changes.
     your preferred display language.
 
 .. |image0| image:: images/platform/language_setting.png
+.. |image1| image:: images/platform/language_setting.png

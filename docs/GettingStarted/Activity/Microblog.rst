@@ -1,3 +1,5 @@
+.. _Formatting-toolbar:
+
 The formatting toolbar in activity messages and comments
 ========================================================
 

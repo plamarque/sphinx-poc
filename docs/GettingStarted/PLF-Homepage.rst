@@ -16,12 +16,12 @@ you will further learn about the following topics:
    homepage.
    
  * :ref:`Changing the UI language <Change-Language>`
-   Instructions on how to change the UI language of PRODUCT.
+   Instructions on how to change the UI language of eXo Platform.
 
 After signing in your account successfully, you are redirected to the
-**Social Intranet** homepage, the starting point for exploring PRODUCT.
+**Social Intranet** homepage, the starting point for exploring eXo Platform.
 This homepage provides you a perfect overview of all social and
-collaboration activities available in PRODUCT.
+collaboration activities available in eXo Platform.
 
 |image0|
 
@@ -47,10 +47,10 @@ There are 3 main divisions in the **Social Intranet** homepage:
       notifications <#PLFUserGuide.ManagingYourPersonalApplications.ManagingNotification>`__
       for more details.
 
-   -  **Search**: Search for any types in PRODUCT, such as people,
+   -  **Search**: Search for any types in eXo Platform, such as people,
       spaces, files, events, tasks, activities, by clicking |image5|.
       See `Searching In
-      PRODUCT <#PLFUserGuide.SearchingIneXoPlatform>`__ for more
+      eXo Platform <#PLFUserGuide.SearchingIneXoPlatform>`__ for more
       details.
 
    -  **Create**: Quickly create content (Wiki pages, topics, polls,
@@ -64,13 +64,13 @@ There are 3 main divisions in the **Social Intranet** homepage:
       sites, by clicking |image7|. This menu is only visible to members
       of the web-contributors and administrator group.
 
-   -  **Edit**: Manage certain aspects of PRODUCT, including content,
+   -  **Edit**: Manage certain aspects of eXo Platform, including content,
       pages and sites by clicking |image8|. This menu is only visible to
       members of editor and administrator groups. See `Customizing
-      PRODUCT <#PLFUserGuide.AdministeringeXoPlatform.Customizing>`__
+      eXo Platform <#PLFUserGuide.AdministeringeXoPlatform.Customizing>`__
       for details.
 
-       **Note**
+       .. note::
 
        The number of menus which are displayed on the top navigation may
        vary, depending on your role. For example the administration menu
@@ -119,7 +119,7 @@ There are 3 main divisions in the **Social Intranet** homepage:
    icons. Mousing over an icon displays a tooltip with the application's
    name. Clicking on an icon redirects you to the concerned application.
 
-       **Note**
+       .. note::
 
        -  The order of applications and pages in the COMPANY list may
           change in case some applications are not deployed, or some

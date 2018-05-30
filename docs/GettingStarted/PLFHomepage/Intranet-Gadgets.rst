@@ -6,18 +6,13 @@ Social Intranet applications
 Intranet applications are ones which come with the Social Intranet
 homepage, including:
 
--  `Getting
-   Started <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.GettingStartedApplication>`__
+ * :ref:`Getting Started`
+ * :ref:`Calendar`
+ * :ref:`Invitations`
+ * :ref:`Suggestions`
+ * :ref:`Who's Online?`
 
--  `Calendar <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.CalendarApplication>`__
-
--  `Invitations <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.InvitationsApplication>`__
-
--  `Suggestions <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.SuggestionsApplication>`__
-
--  `Who's
-   Online? <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.WhoIsOnlineApplication>`__
-
+.. _Getting Started:
 **Getting Started**
 
 The Getting Started application is displayed first in the list of the
@@ -54,14 +49,16 @@ Close or by hovering your cursor over the application header, and click
 
 |image2|
 
-    **Note**
+    .. note::
 
     You cannot get the Getting Started application back when it is
     removed.
 
     The "Upload a document" action is considered as completed only when
     a document has been uploaded in your Personal Documents drive.
-
+    
+    
+.. _Calendar:
 **Calendar**
 
 The Calendar application displays some calendars and all of their events
@@ -92,10 +89,11 @@ previous/next day by clicking the previous/next arrow respectively.
 
    -  Click **OK** to accept your settings.
 
-    **Note**
+    .. note::
 
     When a task is completed, it will be remarked with a strike-through.
 
+.. _Invitations:
 **Invitations**
 
 The Invitations application shows a list of spaces and users who have
@@ -116,11 +114,12 @@ user/space's name, then clicking Accept or |image8| respectively.
 When the invitation is accepted or refused, it will permanently removed
 from the list.
 
-    **Note**
+    .. note::
 
     The Invitations application is not displayed when there is no
     invitation.
 
+.. _Suggestions:
 **Suggestions**
 
 The Suggestions application suggests you to connect with other users or
@@ -140,14 +139,16 @@ latest created space in the portal.
 When the suggestion is accepted or refused, it will permanently removed
 from the list.
 
-    **Note**
+    .. note::
 
     -  You can click a person's name suggested in the list to see his
        profile.
 
     -  If there is no suggestion, the Suggestions application is not
        displayed.
-
+       
+       
+.. _Who's Online?:
 **Who's Online?**
 
 The Who's Online? application shows all users who are already logged in
@@ -175,7 +176,7 @@ corresponding button at the pop-up bottom:
 -  If you are already connected with him, the Remove Connection button
    is to delete connection between you and him.
 
-    **Note**
+    .. note::
 
     From the pop-up, you can click his avatar or display name to jump to
     his activity stream page.

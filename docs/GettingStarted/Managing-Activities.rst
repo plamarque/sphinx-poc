@@ -3,24 +3,30 @@
 Using the Activity Stream
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- * :ref:`Posting status updates <Updating-Status>`
+ * :ref:`Sharing in the activity stream <Share-AS>`
    Steps to post status updates through the **Activity Stream**. 
+   
+ * :ref:`The formatting toolbar in activity messages and comments <Formatting-toolbar>`
+   This sections describes possible actions with the microblog toolbar.  
    
  * :ref:`Mentioning someone <Mentioning-People>`
    Steps to refer to someone in your activity composer or comment box. 
-   
- * :ref:`Sharing a link/file <Sharing-Link-and-File>`
-   Steps to add a link or file to your status and share it on **Activity Stream**.
    
  * :ref:`Deleting activities/comments <Deleting-Activities-Comments>`
    Steps to remove activities or comments from **Activity Stream**.
    
  * :ref:`Commenting on activities <Commenting-Activities>`
-   Steps to comment on an activity that allows you to get ideas, answers, and any additional information. 
+   Steps to comment on an activity that allows you to get ideas, answers, and any additional information.     
    
  * :ref:`Liking activities <Liking-Activities>`
-   Steps to show you reaction (like/unlike) towards an activity. .
+   Steps to show your reaction (like/unlike) towards an activity.    
+      
+ * :ref:`Liking comments <Liking-comments>`
+   Steps to express emotion (like or remove like) on a comment to an activity. 
    
+ * :ref:`Replying to comments <Replying-comments>`
+   Steps to reply to a comment.    
+      
  * :ref:`Getting permalinks of activities/comments <Getting-Permalinks>`
    Steps to get permanent links of activities/comments.      
    

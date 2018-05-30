@@ -1,3 +1,5 @@
+.. _Liking-comments:
+
 Liking comments
 ===============
 
