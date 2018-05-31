@@ -1,3 +1,5 @@
+.. _Edit-Your-Profile:
+
 Edit your profile
 =================
 

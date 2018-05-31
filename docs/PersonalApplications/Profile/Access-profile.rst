@@ -1,3 +1,5 @@
+.. _Access-profile:
+
 Access your profile
 ===================
 

@@ -46,3 +46,10 @@ If any social network is integrated, you will see the following that allows you 
   Hence, if one attempts to link with a username that is already linked to another account, an error message is displayed: This {$Network} username ({$Username}) is already linked to an eXo username. 
   Please enter another one or ask your administrator to unlink it.
 - When you click the Unlink button, the link between the social network and the eXo Platform account is reset to blank. Hence, this username can be used to link another eXo account.
+
+
+.. |image0| image:: images/platform/account_settings.png
+.. |image1| image:: images/platform/account_settings_form.png
+.. |image2| image:: images/platform/change_password_form.png
+.. |image3| image:: images/platform/social_networks_form.png
+
