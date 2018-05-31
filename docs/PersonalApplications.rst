@@ -4,7 +4,9 @@
 Managing Your Personal Applications
 ################################################
 
-eXo Platform features a list of personal applications which you can access quickly. In this chapter, you will have opportunity to learn about them via the following topics:
+eXo Platform features a list of personal applications which you can access quickly. 
+In this chapter, you will have opportunity to learn about them via the following topics:
+
 * :ref:`Managing your profile <Managing-Profile>`
 How to update your current position/avatar and to edit your information.
 

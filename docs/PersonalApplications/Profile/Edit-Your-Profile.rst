@@ -8,7 +8,7 @@ Profile** page:
 
 |image1|
 
-    **Note**
+    .. note::
 
     In the Contact Information and Experience sections, click |image2|
     corresponding to one field which you want to add more or click
@@ -95,7 +95,7 @@ will not be displayed on your profile page.
 |                      | `here <#CreateNewAccountFormDetails>`__.)           |
 +----------------------+-----------------------------------------------------+
 
-    **Note**
+    .. note::
 
     You can also change the above information in the Account Profiles
     tab by clicking your display name, then select Settings from the
@@ -139,7 +139,7 @@ Click Select File to pick up an image from your local device.
 Select your desired image, then click Open, or double-click the image to
 upload.
 
-    **Note**
+    .. note::
 
     The uploaded image must be smaller than 2 MB.
 
@@ -161,12 +161,12 @@ Double click on the desired image.
 
 The profile icon will be automatically changed.
 
-    **Note**
+    .. note::
 
     This second way is only available in web version. On mobile devices,
     you should follow the first way to update/edit your profile avatar.
 
-    **Note**
+    .. note::
 
     Your image will be automatically resized to a specified value to
     correspond to the image allowed size.
@@ -192,7 +192,7 @@ The profile icon will be automatically changed.
 | position             | position.                                           |
 +----------------------+-----------------------------------------------------+
 
-    **Note**
+    .. note::
 
     The information entered in the Skill Used field will be retrieved
     when you `search for

@@ -1,3 +1,5 @@
+.. _Working-Wiki:
+
 Working with your wiki
 ======================
 

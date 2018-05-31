@@ -10,16 +10,14 @@ will be redirected to your own activity stream page.
 
 Here, you can see your activities (inside and outside a space) and
 activities where you were
-`mentioned <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.MentioningSomeone>`__,
-liked or left comments.
+:ref:`mentioned <Mentioning-People>`__, liked or left comments.
 
 The activities in My Activities are similar to those in `My
-Activities <#MyActivities>`__ of the Social Intranet homepage. See
+Activities <Managing-Activities>`__ of the Social Intranet homepage. See
 `Using the Activity
-Stream <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream>`__ for
-more details.
+Stream <Managing-Activities>`__ for more details.
 
-    **Note**
+    .. note::
 
     Your activity stream page (``../activities/[username]``) is visible
     to anyone even if they are not your connections. They can comment or
