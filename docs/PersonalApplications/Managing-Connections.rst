@@ -11,15 +11,11 @@ activity stream, but also improve your communication and collaboration.
 This section shows you how to make connection with your desired users
 via the following topics:
 
--  `Viewing profile of other contacts <View-Profile-Contacts>`__
-
--  `Sending connection requests <Send-Connection-Request>`__
-
--  `Revoking a connection request <Revoke-Connection-Request>`__
-
--  `Accepting/Denying a connection request <Accept-Deny-Connection-Request>`__
-
--  `Disconnecting from your contacts <Disconnect-Contact>`__
+ * :ref:`Viewing profile of other contacts <View-Profile-Contacts>`
+ * :ref:`Sending connection requests <Send-Connection-Request>`
+ * :ref:`Revoking a connection request <Revoke-Connection-Request>`
+ * :ref:`Accepting/Denying a connection request <Accept-Deny-Connection-Request>`
+ * :ref:`Disconnecting from your contacts <Disconnect-Contact>`
 
 To build your connections, you first need to click your display name on
 the top navigation bar and select My Connections from the drop-down

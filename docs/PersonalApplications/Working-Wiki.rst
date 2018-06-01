@@ -11,7 +11,7 @@ Wikis <#PLFUserGuide.WorkingWithWikis>`__ chapter for the full details.
 
 |image0|
 
-    **Note**
+    .. note::
 
     Your wiki page is private by default. This means only you and your
     administrator can access this via the link
