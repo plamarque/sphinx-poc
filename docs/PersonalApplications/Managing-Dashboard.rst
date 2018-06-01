@@ -38,6 +38,7 @@ Workspace window which lists all available gadgets.
 
 
 .. _add-more-external-gadgets:
+
 Adding more external gadgets from Dashboard
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1- Obtain the URL (.xml or .rss) of the gadget you want to add from the gadgets source. For

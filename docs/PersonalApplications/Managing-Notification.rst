@@ -65,10 +65,10 @@ following topics:
 * :ref:`Notifications settings <Notification-Settings>`
    How to choose specific settings for email and on-site notification.
 
-* :ref:`Managing notification streams <Managing-Intranet-Email-Notification.rst>`
+* :ref:`Managing notification streams <Managing-Intranet-Email-Notification>`
    How to manage different notification streams via email and on-site.
 
-* :ref:`Actions in email notifications <Email-notification-Open-action.rst>`
+* :ref:`Actions in email notifications <Email-notification-Open-action>`
    Describes different actions in the email notifications.
 
 .. |image0| image:: images/social/notification_board_1.png
