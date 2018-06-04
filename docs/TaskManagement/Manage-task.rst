@@ -5,13 +5,13 @@ Managing tasks
 
 This part introduces you how to:
 
--  `Create a task <CreateTask>`
--  `Edit a task <EditTask>`
--  `Schedule a task <ScheduleTask>`
--  `Get permalink of a task <GetPermalink>`
--  `Clone a task <CloneTask>`
--  `Delete a task <DeleteTask>`
--  `Filtering tasks <Filtering>`
+* :ref:`Create a task <CreateTask>`
+* :ref:`Edit a task <EditTask>`
+* :ref:`Schedule a task <ScheduleTask>`
+* :ref:`Get permalink of a task <GetPermalink>`
+* :ref:`Clone a task <CloneTask>`
+* :ref:`Delete a task <DeleteTask>`
+* :ref:`Filtering tasks <Filtering>`
 
 
 .. _CreateTask:
@@ -33,9 +33,7 @@ button:
 
 Hit **Enter** key to create this task.
 
-    .. note::
-
-    -  If you choose to create the task in a filter, it will be put into
+    .. note:: -  If you choose to create the task in a filter, it will be put into
        that filter and automatically assigned to the currently logged-in
        user. Note that for the *Upcoming* filter, the due date will be
        the next seven days, while for the *Today* and *Tomorrow*
@@ -77,9 +75,7 @@ You will see that there are two new tasks created as below:
 
 |image3|
 
-    .. note::
-
-    -  Anyone that has access permission to a task can do anything on
+    .. note:: - Anyone that has access permission to a task can do anything on
        the task.
 
     -  By default, tasks inherit permissions from the project they are
@@ -106,9 +102,7 @@ In which:
    the task is not assigned to any project, this field says "*No
    Project*\ ".
 
-       .. note::
-
-       -  To select a project for a task, you must have permission on
+       .. note:: -  To select a project for a task, you must have permission on
           that project. Besides, a task should belong to only one
           project, so you should remove the existing project from the
           task before adding a new one.
@@ -156,9 +150,7 @@ In which:
    `Filter <#PLFUserGuide.WorkingWithTasks.ManageTask.Filtering>`__ is
    set to show completed tasks.
 
-    .. note::
-
-    A formatting toolbar appears once you click in the comment composer.
+    .. note:: A formatting toolbar appears once you click in the comment composer.
     It allows you to change the formatting of your message, attaching
     images and links and preview how it will look once posted. (like
     what we have for `the activity stream
@@ -206,9 +198,7 @@ schedule:
 
    |image23|
 
-    .. note::
-
-    -  When the today's date is the task's due date, a blue exclamation
+    .. note:: -  When the today's date is the task's due date, a blue exclamation
        mark |image24| precedes the task's name in the list/board view.
 
     -  When the task's due date has already expired, i.e. today's date
@@ -254,10 +244,7 @@ Click OK in the confirmation message to delete the task.
 
 |image30|
 
-    .. note::
-
-    This action is available to the task creator and the project manager
-    only.
+    .. note:: This action is available to the task creator and the project manager only.
 
 
 .. _Filtering:
@@ -291,9 +278,7 @@ In which:
 -  *Show completed tasks*: filters tasks that are completed. Unchecking
    this box will show uncompleted tasks.
 
-    .. note::
-
-    Depending on the view you select from the left pane such as `Task
+    .. note:: Depending on the view you select from the left pane such as `Task
     filters <#PLFUserGuide.WorkingWithTasks.Introduction.TaskFilter>`__,
     Projects or Labels views, some of the options above may be disabled.
 

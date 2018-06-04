@@ -65,9 +65,7 @@ top navigation bar, then select **My Activities**.
 
 You will be then directed to your **Activity Stream** page.
 
-    .. note::
-
-    In **Activity Stream**, the order of activities is based on the last
+    .. note:: In **Activity Stream**, the order of activities is based on the last
     date when you create a publication action, or post a new comment.
     This means the last publication or comment will be auto-updated and
     pushed up to the top of the **Activity Stream** so that you will not

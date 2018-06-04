@@ -6,10 +6,10 @@ Getting permalinks of activities/comments
 You can easily get the link of any activity or comment from the activity
 stream to share with others. With this feature, you can bring the
 attention of other users to an activity/comment without the need to
-`mention
-them <#Mentioning-People>`__.
+`mention them <Mentioning-People>`.
 
-**Getting permalinks of an activity**
+Getting permalinks of an activity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hover your cursor over the activity you want to get the permalink, then
 click on the link icon |image0| that appears.
@@ -19,7 +19,8 @@ click on the link icon |image0| that appears.
 This permalink will then take you to the activity with all comments
 expanded.
 
-**Getting permalinks of a comment**
+Getting permalinks of a comment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hover your cursor over the comment you want to get the permalink, then
 click on the link icon |image2| that appears.

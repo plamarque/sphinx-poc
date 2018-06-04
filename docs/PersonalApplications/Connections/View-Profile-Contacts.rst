@@ -25,9 +25,6 @@ connection status with you and current status.
 
 -  To return his/her profile page, click Profile on the navigation bar.
 
-    .. note::
-
-    Regardless of being an administrator, you do not have right to edit
-    profiles of other contacts.
+    .. note:: Regardless of being an administrator, you do not have right to edit profiles of other contacts.
 
 .. |image0| image:: images/social/contact_profile.png

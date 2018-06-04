@@ -21,6 +21,7 @@ In this section, the following notification streams will be presented:
 
 
 .. _NewUsers:
+
 New users
 ---------
 
@@ -42,6 +43,7 @@ up or is added to your network.
    stream to go to her/his profile page.
 
 .. _ConnectionRequest:
+
 Connection request
 ------------------
 
@@ -108,6 +110,7 @@ someone requests to join a space where you are the manager.
 
 
 .. _Mention:
+
 Mention
 -------
 
@@ -135,6 +138,7 @@ mentions (@) you in the activity stream.
 
 
 .. _Comment:
+
 Comment on activity
 -------------------
 
@@ -163,6 +167,7 @@ commented or liked.
 
 
 .. _Like:
+
 Like activity
 -------------
 
@@ -188,6 +193,7 @@ when someone likes your activity.
 
 
 .. _PostOnYourActivityStream:
+
 Post on your activity stream
 ----------------------------
 
@@ -213,6 +219,7 @@ when someone posts on your activity stream.
 
 
 .. _PostInSpace:
+
 Post in your space
 ------------------
 
@@ -253,6 +260,7 @@ someone posts on the activity streams of your spaces:
    all comments expanded.
 
 .. _TaskManagement:
+
 Task Management activities
 --------------------------
 

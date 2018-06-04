@@ -40,9 +40,7 @@ This layout enables you to view:
    contacts <#PLFUserGuide.SearchingIneXoPlatform.RefiningYourSearch.SearchingForContact>`__
    page.
 
-    .. note::
-
-    When you change the information of your profile at the first time,
+    .. note:: When you change the information of your profile at the first time,
     an activity will be created on the activity stream. Also, a comment
     informing your change is added to the activity. Your later changes
     will automatically create comments updated to the activity.

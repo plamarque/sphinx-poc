@@ -12,9 +12,7 @@ displayed as follows:
 
 |image0|
 
-    .. note::
-
-    The **Terms and Conditions Agreement** screen appears in the
+    .. note:: The **Terms and Conditions Agreement** screen appears in the
     Commercial editions only. In the Community edition, the `Account
     Setup <#AccountSetUpForm>`__ form appears for the first time.
 
@@ -36,7 +34,8 @@ The Account Setup window consists of 2 sub-forms:
 You can select Skip to ignore this step, then sign in as the root user
 with the default password (gtn).
 
-**Setting up your account**
+Setting up your account
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Enter your information in fields.
 
@@ -66,20 +65,14 @@ homepage <#PLFUserGuide.GettingStarted.SocialIntranetHomepage>`__. Now,
 you can start adding more users to collaborate, creating/joining spaces,
 or creating/following activities.
 
-    .. note::
-
-    -  After your accounts have been submitted successfully, the
+    .. note:: * After your accounts have been submitted successfully, the
        following memberships will be granted to your primary account:
-
        -  \*:/platform/administrators
-
        -  \*:/platform/web-contributors
-
        -  \*:/platform/users
-
        -  \*:/developers
 
-    -  If the server stops before your account setup data is submitted,
+	* If the server stops before your account setup data is submitted,
        the Account Setup screen will appear at your next startup.
 
 .. |image0| image:: images/platform/Unlock-termsentskin.jpg

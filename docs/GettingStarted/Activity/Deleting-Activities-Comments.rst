@@ -19,9 +19,7 @@ Hover your cursor over the activity you want to delete, then click
 
 Click **OK** in the confirmation message to accept your deletion.
 
-    **Note**
-
-    As an PRODUCT user, you can only delete your own activities.
+    .. note:: As an PRODUCT user, you can only delete your own activities.
 
     If you are manager of a space, you can delete any activities related
     to this space.

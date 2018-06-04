@@ -14,9 +14,8 @@ Click |image0| on the the activity you want to comment.
 Enter your comment into the Comment box and press the Comment button.
 Your comment will be displayed right after the activity.
 
-    **Note**
 
-    A formatting toolbar appears once you click in the comment composer.
+    .. note:: A formatting toolbar appears once you click in the comment composer.
     It allows you to change the formatting of your message, attaching
     images and links and preview how it will look once posted. (like
     what we have for `the activity stream
@@ -33,11 +32,6 @@ composer, then type the person name you want to mention. See `Mentioning
 someone <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.MentioningSomeone>`__
 for more details.
 
-    **Note**
-
-    You can use some `HTML
-    tags <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.HTMLTags>`__
-    when commenting on activities.
 
 .. |image0| image:: images/platform/comment_icon.png
 .. |image1| image:: images/platform/comment_activity.png

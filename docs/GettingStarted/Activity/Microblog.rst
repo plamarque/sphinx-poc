@@ -16,7 +16,8 @@ place where you can add text message. It allows you to:
 
 |image0|
 
-**Text formatting in the microblog**
+Text formatting in the microblog
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can format your text to make it richer and more readable by using
 different effects.
@@ -41,7 +42,8 @@ from the formatting toolbar to apply its effect:
    list. When you finish your listing, you need to double click on Enter
    button of the keyboard.
 
-**Quote text in the microblog**
+Quote text in the microblog
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The formatting toolbar allows you to quote a previous text message. To
 do this, click on the Quote button |image6| and then copy and paste the
@@ -52,7 +54,8 @@ area.
 
 |image7|
 
-**Insert link in the microblog**
+Insert link in the microblog
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To insert a link in your text message/comment, click on the link button
 |image8| to bring up a Link form . Type the text and link into this
@@ -71,14 +74,14 @@ finish, type the link.
 
 |image11|
 
-    **Note**
 
-    It is also possible to add a link by right-clicking in the text area
+    .. note:: It is also possible to add a link by right-clicking in the text area
     then selecting Link.
 
     |image12|
 
-**Insert image in the microblog**
+Insert image in the microblog
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The last button of the formatting toolbar in the microblog is the Insert
 Image button allowing you to insert an image in your message/comment.
@@ -126,9 +129,8 @@ You have four options:
    When the upload has ended, the image will appear in the dedicated
    area and the OK button will become clickable.
 
-    **Note**
 
-    Click on the Cancel button to return to the screen showing the
+    .. note:: Click on the Cancel button to return to the screen showing the
     options.
 
     When picking an image online, click on the Back button. This button
@@ -169,11 +171,7 @@ When you right click on the image, a contextual menu appears:
 -  Click on Link to open the Link form allowing you to insert an image
    using its URL.
 
-    **Tip**
-
-    After you’ve finished resizing the image and posted it in the
-    activity stream, the image will appear with the exact size you
-    defined. Otherwise it appears in its default size.
+    .. note:: After you’ve finished resizing the image and posted it in the activity stream, the image will appear with the exact size you defined. Otherwise it appears in its default size.
 
 .. |image0| image:: images/platform/formatting_toolbar_actions.png
 .. |image1| image:: images/common/1.png

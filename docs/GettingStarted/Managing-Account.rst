@@ -14,20 +14,21 @@ Changing your profile information
 2- Change your **First Name**, **Last Name** and **Email**. Your Username cannot be changed. 
 3- Click Save button to submit your changes. 
 
-.. note::
-The email address changed must be in the valid format. See details about the Email Address format here.
+.. note:: The email address changed must be in the valid format. See details about the Email Address format here.
 
 Changing your password
 -----------------------
 1- Select the **Change Password** tab. 
 |image2|
 2- Input your current password to identify that you are the owner of this account.
+
 3- Input your new password which must have at least 6 characters.
+
 4- Re-enter your password in the **Confirm New Password** field. 
+
 5- Click **Save** button to accept your changes. 
 
-.. note::
-The users who just did their login via the social networks will not have a password defined. 
+.. note:: The users who just did their login via the social networks will not have a password defined. 
 They should be able to reset a password via their Account Settings or via the Forgot Password feature or ask the administrator to set it (in the Manage Community page). 
 Once the password is set, the user can either log in via the login/password or via the social networks.
 When the reset password link is clicked:

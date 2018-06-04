@@ -3,9 +3,7 @@
 Replying to comments
 ====================
 
-In addition to `Liking
-comments <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.LikingComment>`__
-feature in PRODUCT, it is possible to reply to a comment.
+In addition to `Liking comments <Liking-comments>` feature in eXo Platform, it is possible to reply to a comment.
 
 Under each comment, a Reply button appears allowing you to reply to that
 comment:
@@ -28,9 +26,8 @@ replies) is displayed allowing to view the whole replies.
 
 |image3|
 
-    **Note**
 
-    Some other details about the reply to comment feature:
+    .. note:: Some other details about the reply to comment feature:
 
     -  There is only one level of replies, it is the reply to comment.
        There is not a reply to a reply.
@@ -44,7 +41,8 @@ replies) is displayed allowing to view the whole replies.
     -  Same as for comments, it is possible to like replies except in
        tasks application.
 
-**Reply to comment for Forum application**
+Reply to comment for Forum application
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As mentioned above, the reply to comment is also available for forum
 posts activities:
@@ -59,14 +57,14 @@ posts activities:
    will appear as a reply to the first comment of level 1 in the
    corresponding activity.
 
-    **Note**
 
-    When you use the quote option |image5| of the CKeditor toolbar in
+    .. note:: When you use the quote option |image5| of the CKeditor toolbar in
     the reply to comment, it will be considered as a simple quote.
 
     |image6|
 
-**Reply to comment notifications**
+Reply to comment notifications
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When someone replies to your comment, you receive an onsite notification
 which contains:

@@ -13,7 +13,9 @@ homepage, including:
  * :ref:`Who's Online?`
 
 .. _Getting Started:
-**Getting Started**
+
+Getting Started
+~~~~~~~~~~~~~~~~
 
 The Getting Started application is displayed first in the list of the
 Intranet homepage applications on the top right. This application helps
@@ -49,17 +51,16 @@ Close or by hovering your cursor over the application header, and click
 
 |image2|
 
-    .. note::
-
-    You cannot get the Getting Started application back when it is
+    .. note::You cannot get the Getting Started application back when it is
     removed.
-
-    The "Upload a document" action is considered as completed only when
+	The "Upload a document" action is considered as completed only when
     a document has been uploaded in your Personal Documents drive.
     
     
 .. _Calendar:
-**Calendar**
+
+Calendar
+~~~~~~~~~
 
 The Calendar application displays some calendars and all of their events
 and tasks scheduled in the Calendar applications of Intranet and spaces.
@@ -89,12 +90,12 @@ previous/next day by clicking the previous/next arrow respectively.
 
    -  Click **OK** to accept your settings.
 
-    .. note::
-
-    When a task is completed, it will be remarked with a strike-through.
+    .. note:: When a task is completed, it will be remarked with a strike-through.
 
 .. _Invitations:
-**Invitations**
+
+Invitations
+~~~~~~~~~~~~
 
 The Invitations application shows a list of spaces and users who have
 sent you connection requests. You can see the number of requests
@@ -114,13 +115,12 @@ user/space's name, then clicking Accept or |image8| respectively.
 When the invitation is accepted or refused, it will permanently removed
 from the list.
 
-    .. note::
-
-    The Invitations application is not displayed when there is no
-    invitation.
+    .. note:: The Invitations application is not displayed when there is no invitation.
 
 .. _Suggestions:
-**Suggestions**
+
+Suggestions
+~~~~~~~~~~~~
 
 The Suggestions application suggests you to connect with other users or
 to join spaces. Usually, it suggests two people having the most common
@@ -139,17 +139,16 @@ latest created space in the portal.
 When the suggestion is accepted or refused, it will permanently removed
 from the list.
 
-    .. note::
-
-    -  You can click a person's name suggested in the list to see his
-       profile.
+    .. note:: -  You can click a person's name suggested in the list to see his profile.
 
     -  If there is no suggestion, the Suggestions application is not
        displayed.
        
        
 .. _Who's Online?:
-**Who's Online?**
+
+Who's Online?
+~~~~~~~~~~~~~~
 
 The Who's Online? application shows all users who are already logged in
 the portal.
@@ -176,9 +175,7 @@ corresponding button at the pop-up bottom:
 -  If you are already connected with him, the Remove Connection button
    is to delete connection between you and him.
 
-    .. note::
-
-    From the pop-up, you can click his avatar or display name to jump to
+    .. note:: From the pop-up, you can click his avatar or display name to jump to
     his activity stream page.
 
 .. |image0| image:: images/gatein/getting_started_gadget.png

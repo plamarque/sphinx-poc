@@ -70,9 +70,7 @@ There are 3 main divisions in the **Social Intranet** homepage:
       eXo Platform <#PLFUserGuide.AdministeringeXoPlatform.Customizing>`__
       for details.
 
-       .. note::
-
-       The number of menus which are displayed on the top navigation may
+       .. note:: The number of menus which are displayed on the top navigation may
        vary, depending on your role. For example the administration menu
        appears only for members of the group /platform/administrators.
 
@@ -119,9 +117,7 @@ There are 3 main divisions in the **Social Intranet** homepage:
    icons. Mousing over an icon displays a tooltip with the application's
    name. Clicking on an icon redirects you to the concerned application.
 
-       .. note::
-
-       -  The order of applications and pages in the COMPANY list may
+       .. note:: -  The order of applications and pages in the COMPANY list may
           change in case some applications are not deployed, or some
           additional applications/pages are implemented.
 

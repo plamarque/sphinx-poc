@@ -3,7 +3,7 @@
 Creating content quickly
 ========================
 
-In PRODUCT, you easily create your preferred content without navigating
+In eXo Pltaform, you easily create your preferred content without navigating
 to its relevant application. Simply click |image0| to open the drop-down
 menu.
 
@@ -20,7 +20,9 @@ Here, you can do the following actions quickly:
 
 
 .. _Creating a task:
-**Creating a task**
+
+Creating a task
+~~~~~~~~~~~~~~~
 
 Simply select Task from the drop-down menu. The menu will be updated
 into the Create a new task form.
@@ -34,48 +36,44 @@ created task.
 
 .. _Creating an event:
 
-**Creating an event**
+Creating an event
+~~~~~~~~~~~~~~~~~~
 
-Simply select Event from the drop-down menu. The menu will be updated
+1. Simply select Event from the drop-down menu. The menu will be updated
 into the Add event form.
 
 |image4|
 
-Give details for your event, including: Title, From and To dates, time.
-For more details, see `Creating a new
-event <#PLFUserGuide.ManagingYourCalendars.SchedulingEvent.CreatingNewEvent>`__.
+2. Give details for your event, including: Title, From and To dates, time.
+For more details, see `Creating a new event <#PLFUserGuide.ManagingYourCalendars.SchedulingEvent.CreatingNewEvent>`.
 
-Select the calendar where your event will be created from the Select
-Calendar drop-down menu.
+3. Select the calendar where your event will be created from the Select Calendar drop-down menu.
 
-Click Save to add your event.
+4. Click Save to add your event.
 
 A pop up |image5|
 
-    .. note::
-
-    Click Cancel at any time to dismiss the Add event form.
+    .. note:: Click Cancel at any time to dismiss the Add event form.
     
 .. _Creating a poll:    
 
-**Creating a poll**
+Creating a poll
+~~~~~~~~~~~~~~~
 
-Click Poll from the drop-down menu. This menu will be updated into the
+1. Click Poll from the drop-down menu. This menu will be updated into the
 form as below:
 
 |image6|
 
-    .. note::
-
-    If there is no forum available in Intranet and the user has no space
+    .. note:: If there is no forum available in Intranet and the user has no space
     forum yet, the following warning is displayed: "Sorry, no forum is
     available yet to create a poll. Start by creating your own space."
 
-Select the location where your poll is created from the In Location
+2. Select the location where your poll is created from the In Location
 menu. If you have at least one public forum, the "intranet" location is
 selected by default.
 
-Click Next to open the Poll form, or Cancel to dismiss the form.
+3. Click Next to open the Poll form, or Cancel to dismiss the form.
 
 -  If you select a space forum, you will be redirected to the **Forums**
    application of the selected space after clicking Next.
@@ -87,25 +85,26 @@ Click Next to open the Poll form, or Cancel to dismiss the form.
 
    |image7|
 
-Fill in the Poll form. See `Creating a
+4. Fill in the Poll form. See `Creating a
 poll <#PLFUserGuide.BuildingYourForum.RegularUser.Topics.CreatingPoll>`__
 for more details.
 
-.. _Creating a topic:  
-**Creating a topic**
+.. _Creating a topic: 
+ 
+Creating a topic
+~~~~~~~~~~~~~~~~~~~~~
 
-Click Topic from the drop-down menu.
 
-    .. note::
+1. Click Topic from the drop-down menu.
 
-    If there is no forum available in Intranet and the user has no space
+    .. note:: If there is no forum available in Intranet and the user has no space
     forum yet, the following warning is displayed: "Sorry, no forum is
     available yet to create a topic. Start by creating your own space."
 
-Select the location where your topic is created from the In Location
+2. Select the location where your topic is created from the In Location
 drop-down menu. The "intranet" is selected by default.
 
-Click Next to open the New Topic form.
+3. Click Next to open the New Topic form.
 
 -  If you select a space forum, you will be redirected to the **Forums**
    application of the selected space after clicking Next.
@@ -117,33 +116,36 @@ Click Next to open the New Topic form.
 
    |image8|
 
-Fill in the New Topic form. See `Creating a
+4. Fill in the New Topic form. See `Creating a
 topic <#PLFUserGuide.BuildingYourForum.RegularUser.Topics.CreatingTopic>`__
 for more details.
 
 .. _Uploading a document: 
 
-**Uploading a file**
+Uploading a file
+~~~~~~~~~~~~~~~~~~~~~
 
 Simply select Upload a File from the drop-down menu. See `Sharing a
 File <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.SharingLinkAndFile.SharingFile>`__
 for more details.
 
 .. _Creating a Wiki: 
-**Creating a Wiki page**
+
+Creating a Wiki page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Click Wiki Page from the drop-down menu.
 
 |image9|
 
-Select the location where your Wiki page is created from the In Location
+1. Select the location where your Wiki page is created from the In Location
 drop-down menu. The "Intranet" space is selected by default.
 
-Click Next to be redirected to the Wiki application of your selected
+2. Click Next to be redirected to the Wiki application of your selected
 location. Here, you can `navigate across
 spaces <#PLFUserGuide.BuildWiki.Overview.NavigatingAcrossAspaces>`__.
 
-Enter the content of your Wiki page. See `Creating a
+3. Enter the content of your Wiki page. See `Creating a
 page <#PLFUserGuide.WorkingWithWikis.ManagingContent.AddingAndEditingPages.CreatingPage>`__
 for more details.
 

@@ -16,9 +16,7 @@ This portlet is to host mini-applications known as gadgets. The
 dashboard uses a variety of graphical effects for displaying, opening
 and using gadgets.
 
-    .. note::
-
-    You can open many gadgets with different settings at once.
+    .. note:: You can open many gadgets with different settings at once.
 
 .. _use-dashboard-workspace:
 
@@ -44,8 +42,7 @@ Adding more external gadgets from Dashboard
 1- Obtain the URL (.xml or .rss) of the gadget you want to add from the gadgets source. For
 example, *http://bejeweledg.googlecode.com/svn/trunk/bejeweled.xml.
 
-.. note::
-Remote gadgets can be only created using an .xml link or RSS URL.
+.. note:: Remote gadgets can be only created using an .xml link or RSS URL.
 However, if you use a link that generates an RSS feed (for example,
 http://feeds.feedburner.com/gatein), a new RSS reader gadget will be
 created automatically even if the URL does not end with *.rss*. 

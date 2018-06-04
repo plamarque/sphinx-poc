@@ -11,9 +11,7 @@ Wikis <#PLFUserGuide.WorkingWithWikis>`__ chapter for the full details.
 
 |image0|
 
-    .. note::
-
-    Your wiki page is private by default. This means only you and your
+    .. note:: Your wiki page is private by default. This means only you and your
     administrator can access this via the link
     (``.../wiki/user/[username]``). However, if you have `made
     public <#PLFUserGuide.WorkingWithWikis.ManagingContent.SpreadingContent.SharingLink.MakingPublic>`__

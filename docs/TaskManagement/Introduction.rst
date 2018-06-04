@@ -82,9 +82,7 @@ the project's tasks more easily.
 This pane displays details of the task that is selected from the central
 pane where you can modify any information of the task.
 
-    **Note**
-
-    Inside spaces, the BRAND\_TASK\_MANAGEMENT overview is similar as
+    .. note:: Inside spaces, the BRAND\_TASK\_MANAGEMENT overview is similar as
     above, but the project list is filtered to display only projects
     that are accessible for the members of the spaces. Besides, there
     will be no *Incoming* filter on the left menu and clicking on a

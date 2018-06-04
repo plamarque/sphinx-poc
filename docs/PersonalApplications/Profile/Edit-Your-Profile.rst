@@ -8,9 +8,7 @@ Profile** page:
 
 |image1|
 
-    .. note::
-
-    In the Contact Information and Experience sections, click |image2|
+    .. note:: In the Contact Information and Experience sections, click |image2|
     corresponding to one field which you want to add more or click
     |image3| to delete your input information. After making changes,
     click **Save** or **Cancel** to respectively save or ignore them.
@@ -95,9 +93,7 @@ will not be displayed on your profile page.
 |                      | `here <#CreateNewAccountFormDetails>`__.)           |
 +----------------------+-----------------------------------------------------+
 
-    .. note::
-
-    You can also change the above information in the Account Profiles
+    .. note:: You can also change the above information in the Account Profiles
     tab by clicking your display name, then select Settings from the
     drop-down menu. These changes will be automatically synchronized
     with details in the Contact information of your profile and vice
@@ -139,9 +135,7 @@ Click Select File to pick up an image from your local device.
 Select your desired image, then click Open, or double-click the image to
 upload.
 
-    .. note::
-
-    The uploaded image must be smaller than 2 MB.
+    .. note:: The uploaded image must be smaller than 2 MB.
 
 Click Confirm to open the Avatar Preview form to see some related
 information, such as file name, file type, and image size.
@@ -161,14 +155,10 @@ Double click on the desired image.
 
 The profile icon will be automatically changed.
 
-    .. note::
-
-    This second way is only available in web version. On mobile devices,
+    .. note:: This second way is only available in web version. On mobile devices,
     you should follow the first way to update/edit your profile avatar.
 
-    .. note::
-
-    Your image will be automatically resized to a specified value to
+    .. note:: Your image will be automatically resized to a specified value to
     correspond to the image allowed size.
 
 **Experience**
@@ -192,9 +182,7 @@ The profile icon will be automatically changed.
 | position             | position.                                           |
 +----------------------+-----------------------------------------------------+
 
-    .. note::
-
-    The information entered in the Skill Used field will be retrieved
+    .. note:: The information entered in the Skill Used field will be retrieved
     when you `search for
     contacts <#PLFUserGuide.SearchingIneXoPlatform.RefiningYourSearch.SearchingForContact>`__.
 

@@ -51,9 +51,7 @@ When this function is enabled, you will receive emails in 2 ways:
 
    |image4|
 
-    .. note::
-
-    To receive notification and digest emails as well as on-site
+    .. note:: To receive notification and digest emails as well as on-site
     notifications, your administrator must enable notification plugins
     first. See `Notification
     administration <#PLFUserGuide.AdministeringeXoPlatform.NotificationAdministration>`__

@@ -6,7 +6,8 @@ Liking activities
 You can "Like" an activity to show your interest and support to that
 activity.
 
-**Liking an activity**
+Liking an activity
+~~~~~~~~~~~~~~~~~~
 
 Click |image0| under the activity you like, a tooltip appears\ |image1|.
 When you like an activity, the "Like" button will be highlighted to show
@@ -15,7 +16,8 @@ the information of like numbers or people who also like the activity
 right below it. If many people have liked the activity, you can click
 |image2| to expand the view to see other "likers".
 
-**Unliking an activity**
+Unliking an activity
+~~~~~~~~~~~~~~~~~~~~
 
 To unlike a "Liked" activity, simply click |image3|.
 

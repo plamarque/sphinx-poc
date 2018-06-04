@@ -3,7 +3,7 @@
 Liking comments
 ===============
 
-With PRODUCT 5, it is possible to express emotion on a user's comment to
+With eXo Platform 5, it is possible to express emotion on a user's comment to
 a status or any other activity by liking the comment.
 
 Under the comment text, a like icon is displayed |image0| which has 2
@@ -50,7 +50,9 @@ inactive and the number is decreased by 1.
 
    |image3|
 
-**Liking comments on documents preview**
+Liking comments on documents preview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 The like on comments feature is available for the `documents
 preview <#PLFUserGuide.ManagingYourDocuments.DocumentViewer>`__.

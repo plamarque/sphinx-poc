@@ -5,9 +5,7 @@ Signing in/Signing out Social Intranet
 
 **Signing in Social Intranet**
 
-    .. note::
-
-    To sign in Social Intranet, you must have an account. Your account
+    .. note:: To sign in Social Intranet, you must have an account. Your account
     is created by the Administrators and you can `change your
     profile <#Managing-Account>`__ and
     `password <#Managing-Account>`__ later.
@@ -30,9 +28,7 @@ Click Sign in. If your account has been suspended, one message says that
 "*This user account has been suspended. If you think this is an error,
 please contact the administrator.*\ ".
 
-    .. note::
-
-    After selecting Stay signed in, if you do not sign out when you
+    .. note:: After selecting Stay signed in, if you do not sign out when you
     leave the portal, you will be automatically authenticated for your
     next visit.
 

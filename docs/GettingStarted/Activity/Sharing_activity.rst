@@ -14,7 +14,8 @@ other space members (in the space's activity stream):
 
 |image0|
 
-**Posting a text message in the activity stream**
+Posting a text message in the activity stream
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To share a text message with your connections or to other space's
 members, follow these steps:
@@ -50,7 +51,8 @@ Click on |image10| button to share the message in the activity stream.
 
 |image11|
 
-**Posting files in the activity stream**
+Posting files in the activity stream
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can share a file or many files with your connections or in a space's
 activity stream by following this procedure:
@@ -69,7 +71,8 @@ share the file(s) in the activity stream.
 
 |image14|
 
-**Posting link in the activity stream**
+Posting link in the activity stream
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In additions to posting messages and files in activity stream, you can
 also share link by making these steps:
@@ -96,9 +99,9 @@ the link.
 
 |image19|
 
-    **Note**
+    Note
 
-    If the activity composer is empty, the |image20| button still grey
+    .. note:: If the activity composer is empty, the |image20| button still grey
     and unclickable until adding something (a text message, a link or a
     file) in the activity composer area.
 
