@@ -15,7 +15,7 @@ Besides, you can comment by yourself about any activities as follows:
 Your comment will be displayed right after the activity.
 
 
-    .. note:: A formatting toolbar appears once you click in the comment composer. It allows you to change the formatting of your message, attaching images and links and preview how it will look once posted. (like what we have for `the activity stream composer <#share-as>`__)
+    .. note:: A formatting toolbar appears once you click in the comment composer. It allows you to change the formatting of your message, attaching images and links and preview how it will look once posted. (like what we have for :ref:`the activity stream composer <share-as>`)
 
 When there are more than two comments on activity, 2 latest comments
 will be displayed below the activity. You can click "View all XX
@@ -24,8 +24,8 @@ If some comments left are not displayed yet, click View previous
 comments on the top of the comment part to view more.
 
 You can mention people in your comment by "@" symbol into your activity
-composer, then type the person name you want to mention. See `Mentioning
-someone <#mentioning-people>`__ for more details.
+composer, then type the person name you want to mention. See :ref:`Mentioning
+someone <mentioning-people>` for more details.
 
 
 .. |image0| image:: images/platform/comment_icon.png

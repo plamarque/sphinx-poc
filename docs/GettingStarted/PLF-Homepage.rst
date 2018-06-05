@@ -135,15 +135,15 @@ Navigations
 Quickly perform key actions through the following applications:
 
 -  **Getting Started**: See a list of suggested actions you can start.
-   See `Getting Started application <#Getting Started>`__ for more details.
+   See :ref:`Getting Started application <Getting Started>` for more details.
 
--  **Calendar**: Get an overview of calendar events. See `Calendar application <#CalendarApp>`__ for more details.
+-  **Calendar**: Get an overview of calendar events. See :ref:`Calendar application <CalendarApp>` for more details.
 
--  **Invitation**: See a list of spaces and users who have sent connection requests to you. See `Invitations application <#InvitationsApp>`__ for more details.
+-  **Invitation**: See a list of spaces and users who have sent connection requests to you. See :ref:`Invitations application <InvitationsApp>` for more details.
 
--  **Suggestions**: See who you may want to connect with and spaces which you can ask to join. See `Suggestions application <#SuggestionsApp>`__ for more details.
+-  **Suggestions**: See who you may want to connect with and spaces which you can ask to join. See :ref:`Suggestions application <SuggestionsApp>` for more details.
 
--  **Who's Online?**: See who are online or send your connection request to them. See `Who's Online? application <#WhoIsOnlineApp>`__ for more details.
+-  **Who's Online?**: See who are online or send your connection request to them. See :ref:`Who's Online? application <WhoIsOnlineApp>` for more details.
 
 .. |image0| image:: images/platform/social_intranet_homepage.png
 .. |image1| image:: images/common/1.png
