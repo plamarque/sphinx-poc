@@ -8,19 +8,19 @@ link to reset it. The link will be sent to your email. It helps if you
 forget the username also, but it requires an email that is set in your
 account properly.
 
-In Login screen, click *Can't access your account?* link.
+1. In Login screen, click *Can't access your account?* link.
 
 |image0|
 
-In next screen, input your username or email, then click Send.
+2. In next screen, input your username or email, then click Send.
 
 |image1|
 
-Check your mailbox. The email looks like this:
+3. Check your mailbox. The email looks like this:
 
 |image2|
 
-Click the link in the email, then input your new password and click
+4. Click the link in the email, then input your new password and click
 Save.
 
 |image3|

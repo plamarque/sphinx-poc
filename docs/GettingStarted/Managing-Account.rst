@@ -3,8 +3,11 @@
 Managing Account
 ~~~~~~~~~~~~~~~~~~
 To change your account information, click your display name on the top navigation bar of the site and click Settings from the drop-down menu. 
+
 |image0|
+
 The account settings appears. 
+
 |image1|
 
 

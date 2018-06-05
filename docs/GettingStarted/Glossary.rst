@@ -1,19 +1,22 @@
 .. _Glossary:
 
+========
 Glossary
-~~~~~~~~~
+========
 
 This section provides a number of terms that you will encounter when
 implementing eXo Platform.
 
-**Site**
+Site
+~~~~
 
 A web-based environment which is used for aggregating and personalizing
 information via specific applications with an interactive and consistent
 look and feel. Users and administrators are able to integrate
 information, people and processes via a web-based user interface.
 
-**Portlet**
+Portlet
+~~~~~~~~~
 
 An applicative component pluggable to a site through which users can
 access some specific information, including supports, updates, or
@@ -31,7 +34,8 @@ divided into two following types:
 -  **Interface portlets** which constitute the eXo Platform interface as
    front-end components of the site.
 
-**Super-user**
+Super-user
+~~~~~~~~~~~
 
 A super-user is a special user who has full privileges and used for the
 administration. In eXo Platform, this account is configured with Root, Root,
@@ -41,7 +45,8 @@ member:/organization/management/executive-board,
 \*:/platform/web-contributors, \*:/organization/employees. A super-user
 has all permissions on all features of eXo Platform.
 
-**Navigation**
+Navigation
+~~~~~~~~~~~
 
 A set of menus (sometimes so-called node tree) that contains hyperlinks
 to other parts of a site. The default navigation menus in eXo Platform are
@@ -51,19 +56,22 @@ located in the top navigation bar:
 
 
 
-**Space**
+Space
+~~~~~~
 
 A collaboration workspace where you can share documents, tasks, events,
 wikis and more. A space can be open or closed, private or public and
 space administrators can manage members and applications that are
 available.
 
-**Connection**
+Connection
+~~~~~~~~~~~
 
 A bond among people in a network. By connecting to other people, you
 will be able you to track their activities through the activity stream.
 
-**Activity**
+Activity
+~~~~~~~~
 
 An activity is published on the Activity Stream and allows you to follow
 what your connections are sharing, such as links to documents or just
@@ -88,13 +96,15 @@ moods. An activity can be made out of different parts:
 
 -  The comment section
 
-**Gadget**
+Gadget
+~~~~~~~
 
 A mini web application which is run on a platform and can be integrated
 and customized in the website. You can add these gadgets to your
 dashboards by yourself.
 
-**Modes**
+Modes
+~~~~~
 
 eXo Platform offers two access modes by default:
 
@@ -112,19 +122,22 @@ eXo Platform offers two access modes by default:
    changing languages to their individual needs, managing private
    information.
 
-**Permission**
+Permission
+~~~~~~~~~~~
 
 **Permission** settings control actions of a user within the site and
 are set by the administrators. See `Managing
 permissions <#PLFUserGuide.AdministeringeXoPlatform.ManagingPermissions>`__
 for more details.
 
-**Repository**
+Repository
+~~~~~~~~~~~
 
 A locus where content or digital data are maintained. Users can access
 without traveling across a network.
 
-**Drive**
+Drive
+~~~~~~
 
 A shortcut to a specific location in the content repository that enables
 administrators to limit visibility of each workspace for groups of
@@ -146,7 +159,8 @@ In details, a drive consists of:
 -  A set of options to describe the behavior of the drive when the users
    browse it.
 
-**Node**
+Node
+~~~~~~
 
 An abstract unit used to build linked data structures, such as linked
 lists and trees, and computer-based representation of graphs. Nodes
@@ -158,13 +172,15 @@ memory block which contains some data units, and optionally a reference
 to some other data. By linking one node with other interlinked nodes,
 very large and complex data structure can be formed.
 
-**WebDAV**
+WebDAV
+~~~~~~~~
 
 This term stands for Web-based Distributed Authoring and Versioning. In
 eXo Platform, it is used as a mean to access the content repository directly
 from the **Sites Explorer**.
 
-**Symlink**
+Symlink
+~~~~~~~~
 
 A special file which contains a reference to a document or a folder. By
 using symlinks, you can easily access specific nodes (target) to which

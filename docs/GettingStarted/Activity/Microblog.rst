@@ -34,9 +34,7 @@ from the formatting toolbar to apply its effect:
 -  |image4| Writing a text then clicking on the fourth button adds the
    text to a numbered list. Clicking on Enter button of the keyboard
    adds a new line with the following number.
-
-   When the listing is finished, to exit from the numbered list, you
-   should click twice on Enter button of the keyboard.
+   When the listing is finished, to exit from the numbered list, you should click twice on Enter button of the keyboard.
 
 -  |image5| Typing a text then clicking on that button adds a bullet
    list. When you finish your listing, you need to double click on Enter
@@ -75,10 +73,8 @@ finish, type the link.
 |image11|
 
 
-    .. note:: It is also possible to add a link by right-clicking in the text area
-    then selecting Link.
-
-    |image12|
+    .. note:: It is also possible to add a link by right-clicking in the text area then selecting Link.
+				|image12|
 
 Insert image in the microblog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,14 +84,13 @@ Image button allowing you to insert an image in your message/comment.
 
 To insert an image in your text message/comment, follow these steps:
 
-Click on the Insert Image button |image13| to open the Select image
-form.
+1. Click on the Insert Image button |image13| to open the Select image form.
 
 |image14|
 
 You have four options:
 
--  Drop an image: drag and drop an image from your computer. A progress
+-  **Drop an image**: drag and drop an image from your computer. A progress
    bar will appear to indicate the upload progress.
 
    |image15|
@@ -105,14 +100,14 @@ You have four options:
 
    |image16|
 
--  Upload an image from your desktop: It allows you to select an image
+-  **Upload an image from your desktop**: It allows you to select an image
    from your computer. Browse for the image and double-click on it to
    select. A progress bar will appear to indicate the upload progress.
 
    When the upload has ended, the image will appear in the dedicated
    area.
 
--  Select on server: select an image already on the server from your
+-  **Select on server**: select an image already on the server from your
    drives. Clicking on the link opens the Select files form.
 
    |image17|
@@ -120,7 +115,7 @@ You have four options:
    Navigate through your drives and then select an image. This will be
    directly displayed in the dedicated area.
 
--  Pick an image online: insert an image using its URL. Paste the image
+-  **Pick an image online**: insert an image using its URL. Paste the image
    link into the Image URL field. An upload time will appear and the OK
    button will be greyed.
 
@@ -130,27 +125,22 @@ You have four options:
    area and the OK button will become clickable.
 
 
-    .. note:: Click on the Cancel button to return to the screen showing the
-    options.
+    .. note:: Click on the Cancel button to return to the screen showing the options. When picking an image online, click on the Back button. This button will disappear when the image is fully uploaded.
 
-    When picking an image online, click on the Back button. This button
-    will disappear when the image is fully uploaded.
-
-To choose the alignement you want, click on one of the three buttons.
+2. To choose the alignement you want, click on one of the three buttons.
 
 |image19|
 
-Click on the OK button. The image will appear in the comment/message
+3. Click on the OK button. The image will appear in the comment/message
 area.
 
 |image20|
 
-To resize, hover over the image to bring up a black frame. Manipulate
-the frame to the size you want.
+4. To resize, hover over the image to bring up a black frame. Manipulate the frame to the size you want.
 
 |image21|
 
-When you right click on the image, a contextual menu appears:
+5. When you right click on the image, a contextual menu appears:
 
 |image22|
 

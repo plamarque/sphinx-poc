@@ -7,19 +7,15 @@ This action allows you to get ideas, answers, and any additional
 information when your collaborators respond to your status updates.
 Besides, you can comment by yourself about any activities as follows:
 
-Click |image0| on the the activity you want to comment.
+1. Click |image0| on the the activity you want to comment.
 
 |image1|
 
-Enter your comment into the Comment box and press the Comment button.
+2. Enter your comment into the Comment box and press the **Comment** button.
 Your comment will be displayed right after the activity.
 
 
-    .. note:: A formatting toolbar appears once you click in the comment composer.
-    It allows you to change the formatting of your message, attaching
-    images and links and preview how it will look once posted. (like
-    what we have for `the activity stream
-    composer <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.UpdatingStatus>`__)
+    .. note:: A formatting toolbar appears once you click in the comment composer. It allows you to change the formatting of your message, attaching images and links and preview how it will look once posted. (like what we have for `the activity stream composer <share-as>`__)
 
 When there are more than two comments on activity, 2 latest comments
 will be displayed below the activity. You can click "View all XX
@@ -29,8 +25,7 @@ comments on the top of the comment part to view more.
 
 You can mention people in your comment by "@" symbol into your activity
 composer, then type the person name you want to mention. See `Mentioning
-someone <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.MentioningSomeone>`__
-for more details.
+someone <mentioning-people>`__ for more details.
 
 
 .. |image0| image:: images/platform/comment_icon.png

@@ -20,8 +20,7 @@ instance *English*:
 3. Click Apply to commit your changes.
 
     .. note:: In eXo Platform, the priority order of the display language is as the following:
-    
-    User's language --> Cookies' language --> Browser's language --> Site's language
+    *User's language --> Cookies' language --> Browser's language --> Site's language*
     It means the language set by the user will be at the highest level,
     and the site's language at the lowest level.
     Accordingly, you should pay attention to this order when selecting

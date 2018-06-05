@@ -41,11 +41,11 @@ inactive and the number is decreased by 1.
 
    -  And one of these three buttons ahead each liker name:
 
-      -  Remove connection to delete a user from your connections.
+      -  *Remove connection* to delete a user from your connections.
 
-      -  Cancel Request to cancel a user invitation.
+      -  *Cancel Request* to cancel a user invitation.
 
-      -  Connect to send an invitation to a user or accept his
+      -  *Connect* to send an invitation to a user or accept his
          invitation.
 
    |image3|

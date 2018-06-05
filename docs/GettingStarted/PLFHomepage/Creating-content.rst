@@ -24,12 +24,11 @@ Here, you can do the following actions quickly:
 Creating a task
 ~~~~~~~~~~~~~~~
 
-Simply select Task from the drop-down menu. The menu will be updated
-into the Create a new task form.
+1. Simply select Task from the drop-down menu. The menu will be updated into the Create a new task form.
 
 |image2|
 
-Fill in the Title field, and then hit the button Add.
+2. Fill in the Title field, and then hit the button Add.
 
 After saving, a pop up link appears\ |image3| which points to the
 created task.
@@ -45,7 +44,7 @@ into the Add event form.
 |image4|
 
 2. Give details for your event, including: Title, From and To dates, time.
-For more details, see `Creating a new event <#PLFUserGuide.ManagingYourCalendars.SchedulingEvent.CreatingNewEvent>`.
+For more details, see `Creating a new event <#PLFUserGuide.ManagingYourCalendars.SchedulingEvent.CreatingNewEvent>__`.
 
 3. Select the calendar where your event will be created from the Select Calendar drop-down menu.
 
@@ -97,9 +96,7 @@ Creating a topic
 
 1. Click Topic from the drop-down menu.
 
-    .. note:: If there is no forum available in Intranet and the user has no space
-    forum yet, the following warning is displayed: "Sorry, no forum is
-    available yet to create a topic. Start by creating your own space."
+    .. note:: If there is no forum available in Intranet and the user has no space forum yet, the following warning is displayed: "Sorry, no forum is available yet to create a topic. Start by creating your own space."
 
 2. Select the location where your topic is created from the In Location
 drop-down menu. The "intranet" is selected by default.
@@ -126,7 +123,7 @@ Uploading a file
 ~~~~~~~~~~~~~~~~~~~~~
 
 Simply select Upload a File from the drop-down menu. See `Sharing a
-File <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.SharingLinkAndFile.SharingFile>`__
+File <Sharing-Link-and-File>`__
 for more details.
 
 .. _Creating a Wiki: 
@@ -134,18 +131,18 @@ for more details.
 Creating a Wiki page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Click Wiki Page from the drop-down menu.
+1. Click Wiki Page from the drop-down menu.
 
 |image9|
 
-1. Select the location where your Wiki page is created from the In Location
+2. Select the location where your Wiki page is created from the In Location
 drop-down menu. The "Intranet" space is selected by default.
 
-2. Click Next to be redirected to the Wiki application of your selected
+3. Click Next to be redirected to the Wiki application of your selected
 location. Here, you can `navigate across
 spaces <#PLFUserGuide.BuildWiki.Overview.NavigatingAcrossAspaces>`__.
 
-3. Enter the content of your Wiki page. See `Creating a
+4. Enter the content of your Wiki page. See `Creating a
 page <#PLFUserGuide.WorkingWithWikis.ManagingContent.AddingAndEditingPages.CreatingPage>`__
 for more details.
 

@@ -14,12 +14,14 @@ displayed as follows:
 
     .. note:: The **Terms and Conditions Agreement** screen appears in the
     Commercial editions only. In the Community edition, the `Account
-    Setup <#AccountSetUpForm>`__ form appears for the first time.
+    Setup <AccountSetUpForm>__` form appears for the first time.
 
 This agreement contains all terms and conditions that you need to read
 carefully before deciding to use eXo Platform. By ticking the checkbox at the
 screen bottom, you totally agree with the eXo Platform's terms and
 conditions. Next, click Continue to move to the Account Setup form.
+
+.. _AccountSetUpForm:
 
 |image1|
 
@@ -37,7 +39,7 @@ with the default password (gtn).
 Setting up your account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Enter your information in fields.
+1. Enter your information in fields.
 
 -  It is required to fill all fields, except the Username field of the
    Admin Password form, which is pre-filled with "root" and disabled.
@@ -49,28 +51,23 @@ Enter your information in fields.
 
 -  You can change these entered information after logging in eXo Platform.
    See `Changing your account
-   settings <#PLFUserGuide.GettingStarted.ManagingAccounts.ChangingAccountSettings>`__
-   for more details.
+   settings <Managing-Account>__` for more details.
 
-Click Submit to finish setting up your account.
+2. Click Submit to finish setting up your account.
 
 Once your account has been created successfully, a Greetings! screen
 appears that illustrates how to add more users.
 
 |image2|
 
-Click Start to be automatically logged in with your created account and
-redirected to the `Social Intranet
-homepage <#PLFUserGuide.GettingStarted.SocialIntranetHomepage>`__. Now,
-you can start adding more users to collaborate, creating/joining spaces,
-or creating/following activities.
+3. Click Start to be automatically logged in with your created account and
+redirected to the `Social Intranet homepage <PLFHomepage>__`. Now, you can start adding more users to collaborate, creating/joining spaces, or creating/following activities.
 
-    .. note:: * After your accounts have been submitted successfully, the
-       following memberships will be granted to your primary account:
-       -  \*:/platform/administrators
-       -  \*:/platform/web-contributors
-       -  \*:/platform/users
-       -  \*:/developers
+    .. note:: * After your accounts have been submitted successfully, the following memberships will be granted to your primary account:
+       - \*:/platform/administrators
+       - \*:/platform/web-contributors
+       - \*:/platform/users
+       - \*:/developers
 
 	* If the server stops before your account setup data is submitted,
        the Account Setup screen will appear at your next startup.

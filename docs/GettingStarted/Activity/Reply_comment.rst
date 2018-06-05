@@ -3,7 +3,7 @@
 Replying to comments
 ====================
 
-In addition to `Liking comments <Liking-comments>` feature in eXo Platform, it is possible to reply to a comment.
+In addition to `Liking comments <Liking-comments>__` feature in eXo Platform, it is possible to reply to a comment.
 
 Under each comment, a Reply button appears allowing you to reply to that
 comment:
@@ -28,18 +28,10 @@ replies) is displayed allowing to view the whole replies.
 
 
     .. note:: Some other details about the reply to comment feature:
-
-    -  There is only one level of replies, it is the reply to comment.
-       There is not a reply to a reply.
-
+    -  There is only one level of replies, it is the reply to comment. There is not a reply to a reply.
     -  Deleting a comment with replies induces the replies deletion.
-
-    -  In addition to activity stream comments, the reply to comment
-       feature is available for activities of these applications:
-       Documents preview, forum and tasks.
-
-    -  Same as for comments, it is possible to like replies except in
-       tasks application.
+    -  In addition to activity stream comments, the reply to comment feature is available for activities of these applications: Documents preview, forum and tasks.
+    -  Same as for comments, it is possible to like replies except in tasks application.
 
 Reply to comment for Forum application
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,10 +50,8 @@ posts activities:
    corresponding activity.
 
 
-    .. note:: When you use the quote option |image5| of the CKeditor toolbar in
-    the reply to comment, it will be considered as a simple quote.
-
-    |image6|
+    .. note:: When you use the quote option |image5| of the CKeditor toolbar in the reply to comment, it will be considered as a simple quote.
+				|image6|
 
 Reply to comment notifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

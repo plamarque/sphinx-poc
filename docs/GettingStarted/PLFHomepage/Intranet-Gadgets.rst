@@ -51,13 +51,11 @@ Close or by hovering your cursor over the application header, and click
 
 |image2|
 
-    .. note::You cannot get the Getting Started application back when it is
-    removed.
-	The "Upload a document" action is considered as completed only when
-    a document has been uploaded in your Personal Documents drive.
+    .. note:: - You cannot get the Getting Started application back when it is removed. 
+    - The "Upload a document" action is considered as completed only when a document has been uploaded in your Personal Documents drive.
     
     
-.. _Calendar:
+.. _CalendarApp:
 
 Calendar
 ~~~~~~~~~
@@ -92,7 +90,7 @@ previous/next day by clicking the previous/next arrow respectively.
 
     .. note:: When a task is completed, it will be remarked with a strike-through.
 
-.. _Invitations:
+.. _InvitationsApp:
 
 Invitations
 ~~~~~~~~~~~~
@@ -117,7 +115,7 @@ from the list.
 
     .. note:: The Invitations application is not displayed when there is no invitation.
 
-.. _Suggestions:
+.. _SuggestionsApp:
 
 Suggestions
 ~~~~~~~~~~~~
@@ -145,7 +143,7 @@ from the list.
        displayed.
        
        
-.. _Who's Online?:
+.. _WhoIsOnlineApp:
 
 Who's Online?
 ~~~~~~~~~~~~~~
@@ -175,8 +173,7 @@ corresponding button at the pop-up bottom:
 -  If you are already connected with him, the Remove Connection button
    is to delete connection between you and him.
 
-    .. note:: From the pop-up, you can click his avatar or display name to jump to
-    his activity stream page.
+    .. note:: From the pop-up, you can click his avatar or display name to jump to his activity stream page.
 
 .. |image0| image:: images/gatein/getting_started_gadget.png
 .. |image1| image:: images/common/close_icon.png
