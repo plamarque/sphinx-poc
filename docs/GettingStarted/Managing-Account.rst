@@ -14,7 +14,9 @@ The account settings appears.
 Changing your profile information
 ------------------------------------
 1- Select the **Account Profiles** tab. 
+
 2- Change your **First Name**, **Last Name** and **Email**. Your Username cannot be changed. 
+
 3- Click Save button to submit your changes. 
 
 .. note:: The email address changed must be in the valid format. See details about the Email Address format here.

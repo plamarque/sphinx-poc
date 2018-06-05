@@ -103,7 +103,7 @@ the link.
 
 .. |image0| image:: images/platform/activity_composer.png
 .. |image1| image:: images/platform/formatting_toolbar.png
-.. |image2| image:: images/platform/formatting_toolbar_actions.png.png
+.. |image2| image:: images/platform/formatting_toolbar_actions.png
 .. |image3| image:: images/common/1.png
 .. |image4| image:: images/common/2.png
 .. |image5| image:: images/common/3.png

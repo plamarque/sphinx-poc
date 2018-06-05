@@ -7,10 +7,10 @@ Intranet applications are ones which come with the Social Intranet
 homepage, including:
 
  * :ref:`Getting Started`
- * :ref:`Calendar`
- * :ref:`Invitations`
- * :ref:`Suggestions`
- * :ref:`Who's Online?`
+ * :ref:`CalendarApp`
+ * :ref:`InvitationsApp`
+ * :ref:`SuggestionsApp`
+ * :ref:`WhoIsOnlineApp`
 
 .. _Getting Started:
 
@@ -52,7 +52,7 @@ Close or by hovering your cursor over the application header, and click
 |image2|
 
     .. note:: - You cannot get the Getting Started application back when it is removed. 
-    - The "Upload a document" action is considered as completed only when a document has been uploaded in your Personal Documents drive.
+			  - The "Upload a document" action is considered as completed only when a document has been uploaded in your Personal Documents drive.
     
     
 .. _CalendarApp:
@@ -138,9 +138,7 @@ When the suggestion is accepted or refused, it will permanently removed
 from the list.
 
     .. note:: -  You can click a person's name suggested in the list to see his profile.
-
-    -  If there is no suggestion, the Suggestions application is not
-       displayed.
+			  -  If there is no suggestion, the Suggestions application is not displayed.
        
        
 .. _WhoIsOnlineApp:

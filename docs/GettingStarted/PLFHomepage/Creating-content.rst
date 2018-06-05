@@ -44,13 +44,13 @@ into the Add event form.
 |image4|
 
 2. Give details for your event, including: Title, From and To dates, time.
-For more details, see `Creating a new event <#PLFUserGuide.ManagingYourCalendars.SchedulingEvent.CreatingNewEvent>__`.
+For more details, see `Creating a new event <#PLFUserGuide.ManagingYourCalendars.SchedulingEvent.CreatingNewEvent>`__.
 
 3. Select the calendar where your event will be created from the Select Calendar drop-down menu.
 
 4. Click Save to add your event.
 
-A pop up |image5|
+A pop up |image5| appears indicating in which calendar the event was added.
 
     .. note:: Click Cancel at any time to dismiss the Add event form.
     
@@ -123,7 +123,7 @@ Uploading a file
 ~~~~~~~~~~~~~~~~~~~~~
 
 Simply select Upload a File from the drop-down menu. See `Sharing a
-File <Sharing-Link-and-File>`__
+File <#Sharing-Link-and-File>`__
 for more details.
 
 .. _Creating a Wiki: 

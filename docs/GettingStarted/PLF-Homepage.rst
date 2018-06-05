@@ -116,19 +116,10 @@ Navigations
    icons. Mousing over an icon displays a tooltip with the application's
    name. Clicking on an icon redirects you to the concerned application.
 
-       .. note:: - The order of applications and pages in the COMPANY list may
-          change in case some applications are not deployed, or some
-          additional applications/pages are implemented.
-       - The MY SPACES list shows the latest spaces browsed by the
-          user. If there are more than 10 spaces in the list, the Show
-          [X] More Spaces link appears at the list bottom. Click this
-          link to view more spaces.
-       - The Show [X] More Spaces link is not displayed when the left
-          navigation menu is collapsed. It is only available if the menu
-          is expansed.
-       - When the left navigation menu is collapsed, spaces search is
-          not possible as the search field is not available. To search
-          spaces, you should expand the left navigation menu.
+       .. note:: - The order of applications and pages in the COMPANY list may change in case some applications are not deployed, or some additional applications/pages are implemented.
+				 - The MY SPACES list shows the latest spaces browsed by the user. If there are more than 10 spaces in the list, the Show [X] More Spaces link appears at the list bottom. Click this link to view more spaces.
+				 - The Show [X] More Spaces link is not displayed when the left navigation menu is collapsed. It is only available if the menu is expansed.
+				 - When the left navigation menu is collapsed, spaces search is not possible as the search field is not available. To search spaces, you should expand the left navigation menu.
 
 **Activity Composer** |image12| **& Activity Stream** |image13|
 
@@ -144,15 +135,15 @@ Navigations
 Quickly perform key actions through the following applications:
 
 -  **Getting Started**: See a list of suggested actions you can start.
-   See `Getting Started application <Getting Started>` for more details.
+   See `Getting Started application <#Getting Started>`__ for more details.
 
--  **Calendar**: Get an overview of calendar events. See `Calendar application <CalendarApp>` for more details.
+-  **Calendar**: Get an overview of calendar events. See `Calendar application <#CalendarApp>`__ for more details.
 
--  **Invitation**: See a list of spaces and users who have sent connection requests to you. See `Invitations application <InvitationsApp>`for more details.
+-  **Invitation**: See a list of spaces and users who have sent connection requests to you. See `Invitations application <#InvitationsApp>`__ for more details.
 
--  **Suggestions**: See who you may want to connect with and spaces which you can ask to join. See `Suggestions application <SuggestionsApp>` for more details.
+-  **Suggestions**: See who you may want to connect with and spaces which you can ask to join. See `Suggestions application <#SuggestionsApp>`__ for more details.
 
--  **Who's Online?**: See who are online or send your connection request to them. See `Who's Online? application <WhoIsOnlineApp>` for more details.
+-  **Who's Online?**: See who are online or send your connection request to them. See `Who's Online? application <#WhoIsOnlineApp>`__ for more details.
 
 .. |image0| image:: images/platform/social_intranet_homepage.png
 .. |image1| image:: images/common/1.png
