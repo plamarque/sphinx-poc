@@ -6,7 +6,7 @@ Signing in/Signing out Social Intranet
 
 **Signing in Social Intranet**
 
-    .. note:: To sign in Social Intranet, you must have an account. Your account is created by the Administrators and you can `change your profile <#Profile-info>`__ and `password <#Change-password>`__ later.
+    .. note:: To sign in Social Intranet, you must have an account. Your account is created by the Administrators and you can :ref:`change your profile <Profile-info>` and :ref:`password <Change-password>` later.
 				See how to add a new user in the `Adding a user <#PLFUserGuide.AdministeringeXoPlatform.ManagingYourOrganization.AddingUser>`__ section.
 
 You can sign in Social Intranet by doing as follows:
