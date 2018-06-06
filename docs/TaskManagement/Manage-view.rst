@@ -3,7 +3,7 @@
 Managing views
 ==============
 
-PRODUCT supports two views which are:
+eXo Platform supports two views which are:
 
 * :ref:`List view <listView>`
 * :ref:`Board view <Board>`
@@ -12,7 +12,7 @@ PRODUCT supports two views which are:
 .. _listView
 
 List view
----------
+~~~~~~~~~~
 
 By default, when you access any item on the left pane, the corresponding
 tasks in the central pane will be displayed in a simple list like this:
@@ -28,7 +28,8 @@ In which:
 
 In this view, you can do the followings:
 
-**Marking a task as completed:**
+Marking a task as completed:
+-----------------------------
 
 Hover cursor over the task that you want to mark it as completed and
 click the tick icon that appears:
@@ -39,7 +40,8 @@ The task will disappear from the List view unless
 `Filter <#PLFUserGuide.WorkingWithTasks.ManageTask.Filtering>`__ is set
 to show completed tasks.
 
-**Sorting/Grouping tasks**
+Sorting/Grouping tasks
+-----------------------
 
 At the top right corner of the central pane, there are two options under
 the top filter that help you to sort and group tasks in categories.
@@ -75,16 +77,14 @@ the tasks by:
 
 -  *None*: ungroups tasks.
 
-    **Note**
-
-    Depending on the view you select from the left pane, such as Task
-    filters, Projects or Labels views, some of the options above may be
-    disabled.
+.. note:: Depending on the view you select from the left pane, such as Task
+			filters, Projects or Labels views, some of the options above may be disabled.
 
 
 .. _Board:
+
 Board view
-----------
+~~~~~~~~~~~~~~
 
 This view is designed only for projects, therefore you need to go to a
 specific project to see this view. In this view, you can manage tasks as
@@ -102,21 +102,21 @@ In which:
 
 -  The number of tasks in a column is displayed next to the status name.
 
-**Creating new tasks:**
+Creating new tasks:
+----------------------
 
-In addition to creating new tasks by `this
-way <#PLFUserGuide.WorkingWithTasks.ManageTask.CreateTask>`__, you can
-quickly do this via the Board view as follows:
+In addition to creating new tasks by :ref:`this way <CreateTask>`, you can quickly do this via the Board view as follows:
 
-Hover cursor over the last task of a column (or grouping), an editable
+1. Hover cursor over the last task of a column (or grouping), an editable
 field will appear:
 
 |image4|
 
-Type the task title in this field, then press Enter key. Your new task
+2. Type the task title in this field, then press Enter key. Your new task
 will be created immediately in the corresponding column.
 
-**Sorting/Grouping tasks:**
+Sorting/Grouping tasks:
+------------------------
 
 |image5|
 
@@ -124,7 +124,8 @@ You can sort these tasks by the *Due Date, Priority* and *Rank* options
 as well as group them by the *Assignee, Label* and *None* options as in
 `this view <#PLFUserGuide.WorkingWithTasks.ManageView.GroupSort>`__.
 
-**Moving tasks**
+Moving tasks
+-------------
 
 You can drag/drop tasks back and forth between assignees, labels and
 statuses.
@@ -141,7 +142,8 @@ statuses.
 
    |image8|
 
-**Managing project workflow**
+Managing project workflow
+--------------------------
 
 By default, your project will have a workflow with four statuses
 including *To Do - In Progress - Waiting On - Done* and you can change
@@ -159,16 +161,13 @@ it on your own.
 
    |image10|
 
-       **Note**
 
-       -  All tasks assigned to the deleted status are affected to the
-          previous status (the column on the left in the Board view).
-
-       -  If the status is the first of the list (the first column in
+.. note:: -  All tasks assigned to the deleted status are affected to the
+			previous status (the column on the left in the Board view).
+		  -  If the status is the first of the list (the first column in
           the Board view), the tasks will be assigned to the next status
           (the next column on the right in the Board view).
-
-       -  The last status cannot be deleted.
+		  -  The last status cannot be deleted.
 
 .. |image0| image:: images/taskmanagement/list_view.png
 .. |image1| image:: images/taskmanagement/mark_completed.png

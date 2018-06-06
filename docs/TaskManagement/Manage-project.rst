@@ -15,10 +15,11 @@ This part introduces you how to:
 
 
 .. _CreateProject:
-Creating a project/sub-project
-------------------------------
 
-Click the plus sign icon on the Projects section, a pop-up menu will
+Creating a project/sub-project
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Click the plus sign icon on the Projects section, a pop-up menu will
 appear as below:
 
 |image0|
@@ -28,19 +29,19 @@ section, then click the right arrow that appears:
 
 |image1|
 
-Select Add Project, a pop-up form will appear for you to enter your
+2. Select Add Project, a pop-up form will appear for you to enter your
 project information.
 
-Change the parent project if needed, by clicking the parent project
+3. Change the parent project if needed, by clicking the parent project
 field:
 
 |image2|
 
-Select a project from the drop-down list:
+4. Select a project from the drop-down list:
 
 |image3|
 
-Fill in the name and description of the project, for instance:
+5. Fill in the name and description of the project, for instance:
 
 |image4|
 
@@ -48,46 +49,41 @@ If you wish this project and its tasks to be displayed and synchronized
 in the `Calendar <#PLFUserGuide.ManagingYourCalendars.Interface>`__
 application, check the box that says "*Enable Calendar Integration*\ ".
 
-    **Note**
+.. note:: -  The length of project name should be less than 100 characters.
+		  -  Sub-projects DO NOT inherit the task calendar from their parent.
+			Instead, they come with their own calendar if the Calendar integration is enabled.
 
-    -  The length of project name should be less than 100 characters.
-
-    -  Sub-projects DO NOT inherit the task calendar from their parent.
-       Instead, they come with their own calendar if the Calendar
-       integration is enabled.
-
-Click Save to finish creating your project.
+6. Click Save to finish creating your project.
 
 
 .. _EditProject:
-Editing a project
------------------
 
-Hover cursor over the project that you want to edit, then click the
+Editing a project
+~~~~~~~~~~~~~~~~~~~
+
+1. Hover cursor over the project that you want to edit, then click the
 right arrow. A dropdown menu will appear as follows:
 
 |image5|
 
-Click Edit to view its details.
+2. Click Edit to view its details.
 
 |image6|
 
-Change any information by clicking it, except the manager of the project
+3. Change any information by clicking it, except the manager of the project
 that can not be modified.
 
-    **Note**
+.. note:: For a space project, by default the manager of the project and its space is the same.
 
-    For a space project, by default the manager of the project and its
-    space is the same.
-
-Click Save to save your changes.
+4. Click Save button to save your changes.
 
 
 .. _ShareProject:
+
 Sharing a project
 -----------------
 
-Select Share from the dropdown menu:
+1. Select Share from the dropdown menu:
 
 |image7|
 
@@ -104,27 +100,21 @@ and *Participant* permissions.
 -  *Manager* permission: in addition to the *Participant* permission,
    allows to edit, delete and share workflow of the project.
 
-Click |image9| corresponding to each permission to add more users.
+2. Click |image9| corresponding to each permission to add more users.
 
-    **Note**
+ .. note:: -  Space members automatically get *Participant* permission to space projects.
+		   -  Space managers automatically get *Manager* permission to space projects.
+		   -  In case a user has share permission on a sub-project but does not
+			have permission on the parent, the parent is still visible in the
+			project list on the left pane but it is impossible to see in details.
 
-    -  Space members automatically get *Participant* permission to space
-       projects.
-
-    -  Space managers automatically get *Manager* permission to space
-       projects.
-
-    -  In case a user has share permission on a sub-project but does not
-       have permission on the parent, the parent is still visible in the
-       project list on the left pane but it is impossible to see in
-       details.
-
-Click Close to close the pop-up.
+3. Click Close button to close the pop-up.
 
 
 .. _ChangeProjectColor:
+
 Changing project color
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To easily distinguish between your projects, you can color them by a
 vertical bar on the left. For instance:
@@ -140,7 +130,7 @@ To do this, just simply select the desired color from the dropdown menu:
 Cloning a project
 -----------------
 
-Select Clone from the dropdown menu:
+1. Select Clone from the dropdown menu:
 
 |image12|
 
@@ -148,23 +138,22 @@ A confirmation pop-up will be displayed as follows:
 
 |image13|
 
-Tick the checkbox that says "*also clone uncompleted tasks.*\ " if you
-want to clone all uncompleted tasks of the project as well.
+2. Tick the checkbox that says "*also clone uncompleted tasks.*\ " if you want to clone all uncompleted tasks of the project as well.
 
-Click Clone to finish cloning the project. The cloned project will have
-the same name with the original one and be prefixed by "*Copy of*\ ".
+3. Click Clone to finish cloning the project. The cloned project will have the same name with the original one and be prefixed by "*Copy of*\ ".
 
-    **Note**
-
-    A cloned project inherits the workflow, permission, description,
-    color, due date and parent project of the original one.
+  .. note::  A cloned project inherits the workflow, permission, description, color, due date and parent project of the original one.
 
 
 .. _ShowHideProject:
-Showing/Hiding a project
-------------------------
 
-**Hiding a project**
+Showing/Hiding a project
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _hide-tasks-project:
+
+Hiding a project
+------------------
 
 To hide a project, simply select Hide from the dropdown menu:
 
@@ -172,12 +161,13 @@ To hide a project, simply select Hide from the dropdown menu:
 
 This project and its sub-projects will disappear from the left menu.
 
-    **Note**
 
-    Hiding projects is just a personal display setting, therefore it is
-    not applied for other users.
+    .. note:: Hiding projects is just a personal display setting, therefore it is not applied for other users.
 
-**Showing hidden projects**
+.. _Show-tasks-hidden-project:
+
+Showing hidden projects
+-------------------------
 
 To show hidden projects, click the plus sign icon on the Projects pane,
 then choose Show Hidden Projects:
@@ -193,16 +183,15 @@ Show from the dropdown menu:
 
 |image17|
 
-    **Note**
-
-    To show a hidden sub-project, you should show its parent first.
+    .. note:: To show a hidden sub-project, you should show its parent first.
 
 
-.. _DeleteProject
+.. _DeleteProject:
+
 Deleting a project
-------------------
+~~~~~~~~~~~~~~~~~~~~
 
-Click Delete from the dropdown menu:
+1. Click Delete button from the dropdown menu:
 
 |image18|
 
@@ -210,11 +199,11 @@ A confirmation pop-up will appear as follows:
 
 |image19|
 
-Tick the checkbox that says "*also delete all sub-projects.*\ " if you
+2. Tick the checkbox that says "*also delete all sub-projects.*\ " if you
 want to delete all sub-projects or untick it to move all sub-projects to
 the grandparent project.
 
-Click Delete to finish deleting this project or Cancel to skip this.
+3. Click Delete button to finish deleting this project or Cancel to skip this.
 
 .. |image0| image:: images/taskmanagement/create_project.png
 .. |image1| image:: images/taskmanagement/add_sub_project.png

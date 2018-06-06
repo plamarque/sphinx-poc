@@ -3,7 +3,7 @@
 Task management overview
 ================================
 
-To use your BRAND\_TASK\_MANAGEMENT application effectively, there are
+To use your Tasks management application effectively, there are
 some terms that you should be aware of:
 
 -  **Projects**: Containers of tasks.
@@ -16,12 +16,11 @@ some terms that you should be aware of:
    *To Do, In Progress, Waiting On* and *Done*. Alternatively, you can
    change the project workflow later in the Board view.
 
-       **Note**
+       
 
-       Changing the default workflow for new projects is done only by
-       the administrator, see `this
-       section <#PLFAdminGuide.Configuration.TaskManagement>`__ for more
-       details.
+.. note:: Changing the default workflow for new projects is done only by
+			the administrator, see `this
+			section <#PLFAdminGuide.Configuration.TaskManagement>`__ for more details.
 
 -  **Sub-project**: A project can have any number of sub-projects and a
    sub-project can also have an unlimited number of smaller
@@ -30,19 +29,24 @@ some terms that you should be aware of:
    them later.
 
 -  **Space project**: For each new space, a project with the same name
-   will be automatically created when the BRAND\_TASK\_MANAGEMENT
+   will be automatically created when the Tasks management
    application is added to the space.
 
-The BRAND\_TASK\_MANAGEMENT overview is divided into three main areas,
+The Tasks management overview is divided into three main areas,
 including left, central and right panes.
 
 |image0|
 
-**The left pane**
+.. _Left-pane:
+
+The left pane
+~~~~~~~~~~~~~~~~~~
 
 |image1|
 
 This pane includes three sections:
+
+.. _Tasks-filters:
 
 -  **Tasks**: manages tasks individually by left filters. These filters
    are:
@@ -70,24 +74,30 @@ This pane includes three sections:
 -  **Labels**: manages tasks by labels. You can set any label on a task
    to classify it for you to manage your tasks more easily.
 
-**The central pane**
+.. _Central-pane:
+
+The central pane
+~~~~~~~~~~~~~~~~~~~~~~~
 
 This pane is used to display tasks filtered via the left pane and `top
 Filter <#PLFUserGuide.WorkingWithTasks.ManageTask.Filtering>`__. In case
 you are in a project, a *Board* view is provided so that you can manage
 the project's tasks more easily.
 
-**The right pane**
+.. _Right-pane:
+
+The right pane
+~~~~~~~~~~~~~~~~
 
 This pane displays details of the task that is selected from the central
 pane where you can modify any information of the task.
 
-    .. note:: Inside spaces, the BRAND\_TASK\_MANAGEMENT overview is similar as
-    above, but the project list is filtered to display only projects
-    that are accessible for the members of the spaces. Besides, there
-    will be no *Incoming* filter on the left menu and clicking on a
-    label will display only the tasks with the selected labels in the
-    spaces' projects.
+    .. note:: Inside spaces, the Tasks management overview is similar as
+			above, but the project list is filtered to display only projects
+			that are accessible for the members of the spaces. Besides, there
+			will be no *Incoming* filter on the left menu and clicking on a
+			label will display only the tasks with the selected labels in the
+			spaces' projects.
 
 .. |image0| image:: images/taskmanagement/overview.png
 .. |image1| image:: images/taskmanagement/left_pane.png

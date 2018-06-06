@@ -13,7 +13,7 @@ Settings page.
 |image0|
 
 
-:note::The **My Tasks** settings are available only if the `Task
+:note:: The **My Tasks** settings are available only if the `Task
 		Management <#PLFUserGuide.WorkingWithTasks>`__ add-on is installed by the administrator.
 
 2. Select notification options as desired. In particular:

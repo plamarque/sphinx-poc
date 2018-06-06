@@ -350,82 +350,30 @@ your tasks as completed.
    task pane in the Task Management application.
 
 .. |image0| image:: images/social/newuser_notification.png
-
-
 .. |image1| image:: images/social/newuser_notification_intra.png
-
-
 .. |image2| image:: images/social/connection_request_notification.png
-
-
 .. |image3| image:: images/social/connection_request_notification_intra.png
-
-
 .. |image4| image:: images/social/space_invitation_notification.png
-
-
 .. |image5| image:: images/social/space_invitation_notification_intra.png
-
-
 .. |image6| image:: images/social/space_join_request_notification.png
-
-
 .. |image7| image:: images/social/space_join_request_notification_intra.png
-
-
 .. |image8| image:: images/social/mention_notification.png
-
-
 .. |image9| image:: images/social/mention_notification_intra.png
-
-
 .. |image10| image:: images/social/comment_notification.png
-
-
 .. |image11| image:: images/social/comment_notification_intra.png
-
-
 .. |image12| image:: images/social/like_notification.png
-
-
 .. |image13| image:: images/social/like_notification_intra.png
-
-
 .. |image14| image:: images/social/post_notification.png
-
-
 .. |image15| image:: images/social/post_notification_intra.png
-
-
 .. |image16| image:: images/social/post_space_notification.png
-
-
 .. |image17| image:: images/social/post_space_notification_intra.png
-
-
 .. |image18| image:: images/social/all_notifications_view.png
-
-
 .. |image19| image:: images/social/email_notif_assigned_task.png
-
-
 .. |image20| image:: images/social/onsite_notif_assigned_task.png
-
-
 .. |image21| image:: images/social/email_notif_coworker.png
-
-
 .. |image22| image:: images/social/onsite_notif_coworker.png
-
-
 .. |image23| image:: images/social/email_notif_task_due_date.png
-
-
 .. |image24| image:: images/social/onsite_notif_task_due_date.png
-
-
 .. |image25| image:: images/social/email_notif_completed_task.png
-
-
 .. |image26| image:: images/social/onsite_notif_completed_task.png
 

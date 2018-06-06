@@ -17,11 +17,12 @@ This part introduces you how to:
 * :ref:`Delete a label <DeleteLabel>`
 
 
-.. _CreateLabel
-Creating a label/sub-label
---------------------------
+.. _CreateLabel:
 
-Click the plus sign icon on the Labels section, then select Add Label:
+Creating a label/sub-label
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Click the plus sign icon on the Labels section, then select Add Label:
 
 |image0|
 
@@ -30,24 +31,24 @@ under the Labels section, then select Add Label:
 
 |image1|
 
-    **Note**
+   
 
-    In the second way, the created label will be a sub-label under the
-    corresponding label.
+   .. note::  In the second way, the created label will be a sub-label under the corresponding label.
 
-Fill the label name in the text box that appears, for instance:
+2 Fill the label name in the text box that appears, for instance:
 
 |image2|
 
-Press Enter key or just click out the box, you will see the newly
+3. Press Enter key or just click out the box, you will see the newly
 created label.
 
 
 .. _EditLabel:
-Editing a label
----------------
 
-Click the arrow corresponding to the label that you want to edit, then
+Editing a label
+~~~~~~~~~~~~~~~~~~
+
+1. Click the arrow corresponding to the label that you want to edit, then
 select Edit from the dropdown menu:
 
 |image3|
@@ -56,17 +57,19 @@ A pop-up form will appear as follows:
 
 |image4|
 
-Change the parent and/or name of the label. Note that the label name
+2. Change the parent and/or name of the label. Note that the label name
 should be less than 100 characters.
 
-Click Save to save your changes or Cancel to skip this.
+3. Click Save button to save your changes or Cancel to skip this.
 
 
 .. _ShowHideLabel:
-Showing/Hiding a label
-----------------------
 
-**Hiding a label**
+Showing/Hiding a label
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hiding a label
+---------------
 
 To hide a label, simply select Hide from the drop-down menu:
 
@@ -74,7 +77,8 @@ To hide a label, simply select Hide from the drop-down menu:
 
 This label and its sub-labels will disappear from the left menu.
 
-**Showing hidden labels**
+Showing hidden labels
+----------------------
 
 To show hidden labels, click the plus sign icon in the Labels section,
 then choose Show Hidden Labels:
@@ -90,14 +94,13 @@ from the dropdown menu:
 
 |image8|
 
-    **Note**
-
-    To show a hidden sub-label, you should show its parent first.
+    .. note:: To show a hidden sub-label, you should show its parent first.
 
 
 .. _ChangeLabelColor:
+
 Changing a label color
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 To easily distinguish between your labels, you can color them by a
 vertical bar on the left. For instance:
@@ -112,9 +115,9 @@ menu:
 .. _DeleteLabel:
 
 Deleting a label
-----------------
+~~~~~~~~~~~~~~~~~
 
-Click Delete from the drop-down menu:
+1. Click Delete button from the drop-down menu:
 
 |image11|
 
@@ -122,8 +125,7 @@ A confirmation pop-up will appear as follows:
 
 |image12|
 
-Click Delete to finish deleting this label and its sub-labels or Cancel
-to skip this.
+2. Click Delete button to finish deleting this label and its sub-labels or Cancel to skip this.
 
 .. |image0| image:: images/taskmanagement/add_label.png
 .. |image1| image:: images/taskmanagement/add_sub_label.png

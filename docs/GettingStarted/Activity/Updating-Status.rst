@@ -78,11 +78,7 @@ Your new activity will appear in All Activities and My Activities.
     All Activities filter.
 
 .. |image0| image:: images/platform/activity_composer.png
-:align:center
-
-.. |image1| image:: images/social/activity_composer_toolbar.png
-:align:center
-
+.. |image1| image:: images/platform/formatting_toolbar.png
 .. |image2| image:: images/common/1.png
 .. |image3| image:: images/common/2.png
 .. |image4| image:: images/social/add_link.png

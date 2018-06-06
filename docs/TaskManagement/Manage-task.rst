@@ -15,35 +15,36 @@ This part introduces you how to:
 
 
 .. _CreateTask:
-Creating a task
----------------
 
-Creating a task in PRODUCT is designed as an effortless operation, so
+Creating a task
+~~~~~~~~~~~~~~~~~~~
+
+Creating a task in eXo Platform is designed as an effortless operation, so
 you just need to follow one of the following ways.
 
-**Via BRAND\_TASK\_MANAGEMENT overview**
+Via Tasks management overview
+--------------------------------------
 
-Click any items (except *Overdue*) under the **Tasks**, **Projects** or
-**Labels** sections.
+1. Click any items (except *Overdue*) under the **Tasks**, **Projects** or **Labels** sections.
 
-Enter the task title into the single line text box under the New Task
-button:
+2. Enter the task title into the single line text box under the New Task button:
 
 |image0|
 
-Hit **Enter** key to create this task.
+3. Hit **Enter** key to create this task.
 
     .. note:: -  If you choose to create the task in a filter, it will be put into
-       that filter and automatically assigned to the currently logged-in
-       user. Note that for the *Upcoming* filter, the due date will be
-       the next seven days, while for the *Today* and *Tomorrow*
-       filters, the due date will be today and tomorrow respectively.
+				that filter and automatically assigned to the currently logged-in
+				user. Note that for the *Upcoming* filter, the due date will be
+				the next seven days, while for the *Today* and *Tomorrow*
+				filters, the due date will be today and tomorrow respectively.
 
-    -  If you choose to create the task in a project or label, it will
-       belong to that project or labelled to that label. Besides, by
-       default it will not be assigned to anyone.
+				-  If you choose to create the task in a project or label, it will
+				belong to that project or labelled to that label. Besides, by
+				default it will not be assigned to anyone.
 
-**Via Activity stream**
+Via Activity stream
+----------------------
 
 You can even create a task outside the BRAND\_TASK\_MANAGEMENT
 application by using the following syntaxes on the Activity stream:
@@ -68,6 +69,7 @@ See this example:
 |image1|
 
 Or via comment:
+-------------------
 
 |image2|
 
@@ -75,19 +77,18 @@ You will see that there are two new tasks created as below:
 
 |image3|
 
-    .. note:: - Anyone that has access permission to a task can do anything on
-       the task.
-
-    -  By default, tasks inherit permissions from the project they are
-       in. Therefore, all members and managers of the project are able
-       to access these tasks. In case they are not assigned to any
-       project, only the creator, assignee and coworkers are granted the
-       access permission.
+    .. note:: - Anyone that has access permission to a task can do anything on the task.
+			  -  By default, tasks inherit permissions from the project they are
+				in. Therefore, all members and managers of the project are able
+				to access these tasks. In case they are not assigned to any
+				project, only the creator, assignee and coworkers are granted the
+				access permission.
 
 
 .. _EditTask:
+
 Editing a task
---------------
+~~~~~~~~~~~~~~~~~~~~~
 
 After creating a task, the right pane will be opened for you to edit the
 task directly (if you create the new task via the overview interface) or
@@ -151,22 +152,20 @@ In which:
    set to show completed tasks.
 
     .. note:: A formatting toolbar appears once you click in the comment composer.
-    It allows you to change the formatting of your message, attaching
-    images and links and preview how it will look once posted. (like
-    what we have for `the activity stream
-    composer <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.UpdatingStatus>`__)
+				It allows you to change the formatting of your message, attaching
+				images and links and preview how it will look once posted. (like
+				what we have for :ref:`the activity stream composer <posting-status-updates>`)
 
 To edit the task:
 
-Hover cursor over any information and click it that you want to edit.
+1. Hover cursor over any information and click it that you want to edit.
 
-Make changes on the task, then hit **Enter** key or just click out the
-edited field.
+2. Make changes on the task, then hit **Enter** key or just click out the edited field.
 
 .. _ScheduleTask:
 
 Scheduling a task
------------------
+~~~~~~~~~~~~~~~~~~~~
 
 After creating a task or being assigned one, you can schedule it by
 following these steps:
@@ -199,18 +198,16 @@ schedule:
    |image23|
 
     .. note:: -  When the today's date is the task's due date, a blue exclamation
-       mark |image24| precedes the task's name in the list/board view.
-
-    -  When the task's due date has already expired, i.e. today's date
-       is after the due date and the task is not yet finished, it is
-       preceded with a red exclamation mark: |image25|
-
-    |image26|
+				mark |image24| precedes the task's name in the list/board view.
+				-  When the task's due date has already expired, i.e. today's date
+				is after the due date and the task is not yet finished, it is
+				preceded with a red exclamation mark: |image25|
+				|image26|
     
 .. _GetPermalink:
 
 Getting permalink of a task
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Click the link icon at the top right corner of the task pane:
 
@@ -220,27 +217,29 @@ You will get the permalink to share the task.
 
 
 .. _CloneTask:
-Cloning a task
---------------
 
-Click the down arrow at the top right corner of the task pane, a
+Cloning a task
+~~~~~~~~~~~~~~~
+
+1. Click the down arrow at the top right corner of the task pane, a
 drop-down menu will appear as follows:
 
 |image28|
 
-Select Clone to clone the task. The cloned task will have the same name
+2. Select Clone to clone the task. The cloned task will have the same name
 with the original task and be prefixed by "*Copy of*\ ".
 
 
 .. _DeleteTask:
-Deleting a task
----------------
 
-Select Delete from the dropdown menu:
+Deleting a task
+~~~~~~~~~~~~~~~~~~~~
+
+1. Select Delete from the dropdown menu:
 
 |image29|
 
-Click OK in the confirmation message to delete the task.
+2. Click OK in the confirmation message to delete the task.
 
 |image30|
 
@@ -248,21 +247,22 @@ Click OK in the confirmation message to delete the task.
 
 
 .. _Filtering:
+
 Filtering tasks
----------------
+~~~~~~~~~~~~~~~~~~~~
 
 The central pane by default will list all the tasks depending on which
 task filter, project or label is selected. This could be difficult for
-you if there are too many tasks available. The BRAND\_TASK\_MANAGEMENT
+you if there are too many tasks available. The Tasks management
 application offers you a useful tool to narrow these tasks by specific
 information.
 
 |image31|
 
-|image32| Click the filter icon |image33|\ at the top right corner of
+1. |image32| Click the filter icon |image33|\ at the top right corner of
 the central pane.
 
-|image34| The Filter form will be shown on the right pane.
+2. |image34| The Filter form will be shown on the right pane.
 
 In which:
 
@@ -278,14 +278,13 @@ In which:
 -  *Show completed tasks*: filters tasks that are completed. Unchecking
    this box will show uncompleted tasks.
 
-    .. note:: Depending on the view you select from the left pane such as `Task
-    filters <#PLFUserGuide.WorkingWithTasks.Introduction.TaskFilter>`__,
-    Projects or Labels views, some of the options above may be disabled.
+    .. note:: Depending on the view you select from the left pane such as :ref:`Task filters <Tasks-filters>`,
+				Projects or Labels views, some of the options above may be disabled.
 
-Change any information above. The central panel will reflect instantly
+2. Change any information above. The central panel will reflect instantly
 to list only the matched tasks.
 
-A Close icon |image35| on top-right corner of the filter panel closes
+3. A Close icon |image35| on top-right corner of the filter panel closes
 it. But the values are remembered and filter remains active.
 
 The filter icon has two statuses:
