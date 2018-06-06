@@ -64,7 +64,7 @@ file appears:
 
 Select the desired file or files. More details in `Share multiple
 documents in activity
-stream <#PLFUserGuide.ManagingYourDocuments.SharingYourDocuments.MultiUpload>`__\ section.
+stream <#PLFUserGuide.ManagingYourDocuments.SharingYourDocuments.MultiUpload>`__ \ section.
 
 You can add a text message or not and then click on |image14| button to
 share the file(s) in the activity stream.

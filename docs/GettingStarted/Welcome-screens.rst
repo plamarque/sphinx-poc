@@ -47,7 +47,7 @@ Setting up your account
 -  Values entered in both Password and Confirm fields must be the same.
 
 -  You can change these entered information after logging in eXo Platform.
-   See`Changing your account settings <#Managing-Account>`__ for more details.
+   See :ref:`Changing your account settings <Managing-Account>` for more details.
 
 2. Click Submit to finish setting up your account.
 
@@ -57,7 +57,7 @@ appears that illustrates how to add more users.
 |image2|
 
 3. Click Start to be automatically logged in with your created account and
-redirected to the `Social Intranet homepage <#PLFHomepage>`__. Now, you can start adding more users to collaborate, creating/joining spaces, or creating/following activities.
+redirected to the :ref:`Social Intranet homepage <PLFHomepage>`. Now, you can start adding more users to collaborate, creating/joining spaces, or creating/following activities.
 
     .. note:: * After your accounts have been submitted successfully, the following memberships will be granted to your primary account:
        - \*:/platform/administrators
