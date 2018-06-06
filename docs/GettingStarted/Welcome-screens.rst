@@ -69,7 +69,9 @@ redirected to the :ref:`Social Intranet homepage <PLFHomepage>`. Now, you can st
 
 .. |image0| image:: images/platform/Unlock-termsentskin.jpg
 :align:center
+
 .. |image1| image:: images/platform/Unlock-ACCOUNTSETUP.jpg
 :align:center
+
 .. |image2| image:: images/platform/Unlock-greetings_entskin.jpg
 :align:center

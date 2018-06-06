@@ -191,32 +191,47 @@ Experience
 				when you `search for contacts <#PLFUserGuide.SearchingIneXoPlatform.RefiningYourSearch.SearchingForContact>`__.
 
 .. |image0| image:: images/social/edit_profile_button.png
+
 .. |image1| image:: images/social/edit_profile.png
 :align:center
+
 .. |image2| image:: images/common/plus_icon.png
 .. |image3| image:: images/common/remove_icon.png
 .. |image4| image:: images/social/update_image_icon.png
+
 .. |image5| image:: images/social/banner_tooltip.png
 :align:center
+
 .. |image6| image:: images/social/update_image_icon.png
+
 .. |image7| image:: images/social/update_profile_banner.png
 :align:center
+
 .. |image8| image:: images/social/update_image_icon.png
 .. |image9| image:: images/social/delete_banner_icon.png
+
 .. |image10| image:: images/social/new_profile_banner.png
 :align:center
+
 .. |image11| image:: images/social/edit_icon.png
 .. |image12| image:: images/social/more_button.png
+
 .. |image13| image:: images/social/navBar_with_more_user.png
 :align:center
+
 .. |image14| image:: images/social/mobile_profile_banner.png
 :align: center
 :width: 70 px
 :scale: 50 %
+
 .. |image15| image:: images/social/edit_profile_button.png
+
 .. |image16| image:: images/social/upload_avatar.png
 :align:center
+
 .. |image17| image:: images/social/avatar_preview.png
 :align:center
+
 .. |image18| image:: images/social/update_image_icon.png
+
 .. |image19| image:: images/social/update_image_icon.png

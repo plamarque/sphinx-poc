@@ -63,5 +63,6 @@ such as:
 
 .. |image0| image:: images/social/email_actions.png
 :align:center
+
 .. |image1| image:: images/social/space_invitations.png
 :align:center

@@ -73,10 +73,14 @@ following topics:
 
 .. |image0| image:: images/social/notification_board_1.png
 :align:center
+
 .. |image1| image:: images/social/notification_board_2.png
 :align:center
+
 .. |image2| image:: images/social/close_notification.png
+
 .. |image3| image:: images/social/video_post_notification.png
 :align:center
+
 .. |image4| image:: images/social/daily_digest_email.png
 :align:center

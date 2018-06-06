@@ -46,7 +46,9 @@ In the Activity Stream, the mention is displayed as a link to the mentioned user
 
 .. |image0| image:: images/platform/people_suggestion_list.png
 :align:center
+
 .. |image1| image:: images/platform/mention_people.png
 :align:center
+
 .. |image2| image:: images/platform/click_mentioned_user.png
 :align:center

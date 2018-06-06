@@ -169,19 +169,28 @@ corresponding button at the pop-up bottom:
 
 .. |image0| image:: images/gatein/getting_started_gadget.png
 :align:center
+
 .. |image1| image:: images/common/close_icon.png
+
 .. |image2| image:: images/gatein/close_getting_started_gadget.png
 :align:center
+
 .. |image3| image:: images/gatein/calendar_gadget.png
 :align:center
+
 .. |image4| image:: images/common/settings_icon.png
 .. |image5| image:: images/common/close_icon.png
 .. |image6| image:: images/gatein/plus_icon.png
+
 .. |image7| image:: images/gatein/invitations_gadget.png
 :align:center
+
 .. |image8| image:: images/common/close_icon.png
+
 .. |image9| image:: images/gatein/suggestions_gadget.png
 :align:center
+
 .. |image10| image:: images/common/close_icon.png
+
 .. |image11| image:: images/gatein/who_online_gadget.png
 :align:center

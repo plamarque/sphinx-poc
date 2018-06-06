@@ -36,5 +36,6 @@ then select Logout from the drop-down menu.
 
 .. |image0| image:: images/platform/language_setting.png
 :align:center
+
 .. |image1| image:: images/platform/language_setting.png
 :align:center

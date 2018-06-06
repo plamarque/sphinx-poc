@@ -56,10 +56,13 @@ example, *http://bejeweledg.googlecode.com/svn/trunk/bejeweled.xml.
 
 .. |image0| image:: images/gatein/my_dashboard_page.png
 :align:center
+
 .. |image1| image:: images/gatein/dashboard_workspace.png
 :align:center
+
 .. |image2| image:: images/gatein/add_external_gadget.png
 :align:center
+
 .. |image3| image:: images/common/plus_icon1.png
 
 

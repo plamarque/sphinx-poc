@@ -145,20 +145,29 @@ page <#PLFUserGuide.WorkingWithWikis.ManagingContent.AddingAndEditingPages.Creat
 for more details.
 
 .. |image0| image:: images/common/create_navigation.png
+
 .. |image1| image:: images/platform/create_menu.png
 :align:center
+
 .. |image2| image:: images/platform/add-task-quickly.png
 :align:center
+
 .. |image3| image:: images/common/task-quick-link.png
+
 .. |image4| image:: images/platform/create_event.png
 :align:center
+
 .. |image5| image:: images/platform/event-added-quick.png
+
 .. |image6| image:: images/platform/create_poll.png
 :align:center
+
 .. |image7| image:: images/platform/poll_select_forum.png
 :align:center
+
 .. |image8| image:: images/platform/topic_select_forum.png
 :align:center
+
 .. |image9| image:: images/platform/create_wiki_page.png
 :align:center
 

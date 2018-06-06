@@ -22,6 +22,8 @@ Posts gadget.
 
 .. |image0| image:: images/gatein/edit_gadget_preference.png
 :align:center
+
 .. |image1| image:: images/common/edit_icon.png
+
 .. |image2| image:: images/gatein/edit_lastest_forum_posts.png
 :align:center
