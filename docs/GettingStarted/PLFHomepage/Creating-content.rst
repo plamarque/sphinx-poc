@@ -65,8 +65,8 @@ form as below:
 |image6|
 
     .. note:: If there is no forum available in Intranet and the user has no space
-    forum yet, the following warning is displayed: "Sorry, no forum is
-    available yet to create a poll. Start by creating your own space."
+				forum yet, the following warning is displayed: "Sorry, no forum is
+				available yet to create a poll. Start by creating your own space."
 
 2. Select the location where your poll is created from the In Location
 menu. If you have at least one public forum, the "intranet" location is
@@ -122,9 +122,7 @@ for more details.
 Uploading a file
 ~~~~~~~~~~~~~~~~~~~~~
 
-Simply select Upload a File from the drop-down menu. See `Sharing a
-File <#Sharing-Link-and-File>`__
-for more details.
+Simply select Upload a File from the drop-down menu. See :ref:`Sharing a File <Sharing-Link-and-File>` for more details.
 
 .. _Creating a Wiki: 
 

@@ -47,8 +47,7 @@ Setting up your account
 -  Values entered in both Password and Confirm fields must be the same.
 
 -  You can change these entered information after logging in eXo Platform.
-   See `Changing your account
-   settings <#Managing-Account>`__ for more details.
+   See`Changing your account settings <#Managing-Account>`__ for more details.
 
 2. Click Submit to finish setting up your account.
 

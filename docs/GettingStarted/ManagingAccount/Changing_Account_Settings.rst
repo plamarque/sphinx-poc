@@ -1,3 +1,6 @@
+.. _Change-account-settings:
+
+==============================
 Changing your account settings
 ==============================
 
@@ -10,7 +13,8 @@ The account settings appears.
 
 |image1|
 
-**Changing your profile information**
+Changing your profile information
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Select the Account Profiles tab.
 
@@ -19,13 +23,11 @@ changed.
 
 Click Save to submit your changes.
 
-    **Note**
 
-    The email address changed must be in the valid format. See details
-    about the **Email Address** format
-    `here <#CreateNewAccountFormDetails>`__.
+    .. note:: The email address changed must be in the valid format. See details about the **Email Address** format `here <#CreateNewAccountFormDetails>`__.
 
-**Changing your password**
+Changing your password
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Select the Change Password tab.
 
@@ -40,13 +42,9 @@ Re-enter your password in the Confirm New Password field.
 
 Click Save to accept your changes.
 
-    **Note**
-
-    The users who just did their `login via the social
-    networks <#PLFAdminGuide.OAuthIntegration>`__ will not have a
-    password defined. They should be able to reset a password via their
-    Account SettingsChange Password or via the `Forgot
-    Password <#PLFUserGuide.GettingStarted.Forgot_Password>`__ feature
+    
+    .. note:: The users who just did their `login via the social networks <#PLFAdminGuide.OAuthIntegration>`__ will not have a password defined. 
+			  They should be able to reset a password via their Account SettingsChange Password or via the :ref:`Forgot Password <#PLFUserGuide.GettingStarted.Forgot_Password>`__ feature
     or ask the administrator to set it (in the **Manage Community**
     page). Once the password is set, the user can either log in via the
     login/password or via the social networks.

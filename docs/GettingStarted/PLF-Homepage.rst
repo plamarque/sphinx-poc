@@ -57,8 +57,7 @@ Navigations
    -  **Create**: Quickly create content (Wiki pages, topics, polls,
       events/tasks, files) from any places by clicking |image6|. See
       `Creating content
-      quickly <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.CreatingContentQuickly>`__
-      for more details.
+      quickly <Creating-content>`__ for more details.
 
    -  **Administration**: Perform advanced actions, such as managing
       users, content, applications, monitoring your system or organizing

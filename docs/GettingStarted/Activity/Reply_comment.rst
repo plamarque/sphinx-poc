@@ -3,7 +3,7 @@
 Replying to comments
 ====================
 
-In addition to `Liking comments <#Liking-comments>__` feature in eXo Platform, it is possible to reply to a comment.
+In addition to :ref:`Liking comments <Liking-comments>` feature in eXo Platform, it is possible to reply to a comment.
 
 Under each comment, a Reply button appears allowing you to reply to that
 comment:

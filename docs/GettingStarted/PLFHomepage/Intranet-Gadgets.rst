@@ -22,19 +22,15 @@ Intranet homepage applications on the top right. This application helps
 you start exploring the Social Intranet by suggesting you where to go
 and what you should do first via the following links:
 
--  `Add a profile
-   picture <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourProfile.Edit.Avatar>`__
+-  `Add a profile picture <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourProfile.Edit.Avatar>`__
 
--  `Connect to
-   coworkers <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourConnections.SendingConnectionRequests>`__
+-  `Connect to coworkers <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourConnections.SendingConnectionRequests>`__
 
 -  `Join a space <#PLFUserGuide.WorkingWithSpaces.JoiningSpace>`__
 
--  `Post an
-   activity <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.UpdatingStatus>`__
+-  :ref:`Post anactivity <Share-AS>`
 
--  `Upload a
-   document <#PLFUserGuide.ManagingYourDocuments.WorkingWithBasicActions.UploadingFiles>`__
+-  `Upload a document <#PLFUserGuide.ManagingYourDocuments.WorkingWithBasicActions.UploadingFiles>`__
 
 |image0|
 

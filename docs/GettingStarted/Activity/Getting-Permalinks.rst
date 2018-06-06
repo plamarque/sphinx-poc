@@ -5,8 +5,7 @@ Getting permalinks of activities/comments
 
 You can easily get the link of any activity or comment from the activity
 stream to share with others. With this feature, you can bring the
-attention of other users to an activity/comment without the need to
-`mention them <#Mentioning-People>__`.
+attention of other users to an activity/comment without the need to :ref:`mention them <Mentioning-People>`.
 
 Getting permalinks of an activity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

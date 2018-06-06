@@ -10,6 +10,7 @@ The account settings appears.
 
 |image1|
 
+.. _Profile-info:
 
 Changing your profile information
 ------------------------------------
@@ -20,6 +21,8 @@ Changing your profile information
 3- Click Save button to submit your changes. 
 
 .. note:: The email address changed must be in the valid format. See details about the Email Address format here.
+
+.. _Change-password:
 
 Changing your password
 -----------------------

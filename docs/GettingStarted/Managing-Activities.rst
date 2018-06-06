@@ -7,7 +7,7 @@ Using the Activity Stream
    Steps to post status updates through the **Activity Stream**. 
    
  * :ref:`The formatting toolbar in activity messages and comments <Formatting-toolbar>`
-   This sections describes possible actions with the microblog toolbar.  
+   This sections describes possible actions with the microblog toolbar.     
    
  * :ref:`Mentioning someone <Mentioning-People>`
    Steps to refer to someone in your activity composer or comment box. 
@@ -55,10 +55,7 @@ You can filter what you want to see on the homepage:
 -  |image2| **Connections**: shows activities created by your
    connections.
 
--  |image3| **My Activities**: shows your activities (inside and outside
-   a space) and activities where you were
-   `mentioned <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.MentioningSomeone>`__
-   in, that you liked or where you left comments.
+-  |image3| **My Activities**: shows your activities (inside and outside a space) and activities where you were :ref:`mentioned <Mentioning-People>` in, that you liked or where you left comments.
 
 To access your **Activity Stream** page, click your display name on the
 top navigation bar, then select **My Activities**.
