@@ -70,6 +70,10 @@ It behaves the same as in the activity stream:
 
 .. |image0| image:: images/platform/comment_like_icon.png
 .. |image1| image:: images/platform/Who_liked_popover.png
+:align:center
 .. |image2| image:: images/platform/many_likers.png
+:align:center
 .. |image3| image:: images/platform/Who_liked.png
+:align:center
 .. |image4| image:: images/platform/people_who_liked_doc.png
+:align:center

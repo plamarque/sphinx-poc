@@ -42,8 +42,7 @@ Also, the completion percentage is updated on the percentage bar.
 
 When all the actions are performed, the completion percentage will be
 100%. You can remove this application from the homepage by clicking
-Close or by hovering your cursor over the application header, and click
-|image1|.
+Close or by hovering your cursor over the application header, and click |image1|.
 
 |image2|
 
@@ -71,8 +70,7 @@ previous/next day by clicking the previous/next arrow respectively.
    application, hover your cursor over the application, then click
    |image4| at the right bottom of the application.
 
-   -  To remove a calendar from the list of Displayed Calendars, click
-      |image5|.
+   -  To remove a calendar from the list of Displayed Calendars, click |image5|.
 
       This removed calendar will appear in the list of Display
       Additional Calendar.
@@ -170,14 +168,20 @@ corresponding button at the pop-up bottom:
     .. note:: From the pop-up, you can click his avatar or display name to jump to his activity stream page.
 
 .. |image0| image:: images/gatein/getting_started_gadget.png
+:align:center
 .. |image1| image:: images/common/close_icon.png
 .. |image2| image:: images/gatein/close_getting_started_gadget.png
+:align:center
 .. |image3| image:: images/gatein/calendar_gadget.png
+:align:center
 .. |image4| image:: images/common/settings_icon.png
 .. |image5| image:: images/common/close_icon.png
 .. |image6| image:: images/gatein/plus_icon.png
 .. |image7| image:: images/gatein/invitations_gadget.png
+:align:center
 .. |image8| image:: images/common/close_icon.png
 .. |image9| image:: images/gatein/suggestions_gadget.png
+:align:center
 .. |image10| image:: images/common/close_icon.png
 .. |image11| image:: images/gatein/who_online_gadget.png
+:align:center

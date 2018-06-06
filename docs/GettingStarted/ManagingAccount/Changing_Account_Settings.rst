@@ -60,7 +60,7 @@ When the reset password link is clicked:
 **Managing your social networks**
 
 If your administrator does not `integrate OAuth with
-PRODUCT <#PLFAdminGuide.OAuthIntegration>`__, you will see one message
+eXo Platform <#PLFAdminGuide.OAuthIntegration>`__, you will see one message
 "No social network available". If any social network is integrated, you
 will see the following that allows you to link/unlink your account to
 the social networks.
@@ -78,10 +78,14 @@ the social networks.
    administrator to unlink it.*
 
 -  When you click the **Unlink** button, the link between the social
-   network and the PRODUCT account is reset to blank. Hence, this
+   network and the eXo Platform account is reset to blank. Hence, this
    username can be used to link another eXo account.
 
 .. |image0| image:: images/platform/account_settings.png
+:align:center
 .. |image1| image:: images/platform/account_settings_form.png
+:align:center
 .. |image2| image:: images/platform/change_password_form.png
+:align:center
 .. |image3| image:: images/platform/social_networks_form.png
+:align:center

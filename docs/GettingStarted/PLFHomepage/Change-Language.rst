@@ -25,4 +25,6 @@ instance *English*:
 			  Accordingly, you should pay attention to this order when selecting your preferred display language.
 
 .. |image0| image:: images/platform/language_setting.png
+:align:center
 .. |image1| image:: images/platform/language_setting.png
+:align:center

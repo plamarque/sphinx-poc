@@ -43,3 +43,4 @@
     |image0|
 
 .. |image0| image:: images/platform/personal_applications_menu.png
+:align:center

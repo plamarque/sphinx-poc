@@ -21,5 +21,7 @@ manager.
     .. note:: As an eXo Platform user, you can only delete your own activities. If you are manager of a space, you can delete any activities related to this space.
 
 .. |image0| image:: images/platform/change_activity_filter.png
+:align:center
 .. |image1| image:: images/platform/remove_attachment_icon.png
 .. |image2| image:: images/platform/delete_activity.png
+:align:center

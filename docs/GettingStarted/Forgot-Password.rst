@@ -38,7 +38,12 @@ after 1 day by default. The system administrators can `configure the
 expiration time <#PLFAdminGuide.Configuration.ForgotPassword>`__.
 
 .. |image0| image:: images/platform/login_form.png
+:align:center
 .. |image1| image:: images/platform/forgot_password_1.png
+:align:center
 .. |image2| image:: images/platform/forgot_password_2.png
+:align:center
 .. |image3| image:: images/platform/forgot_password_3.png
+:align:center
 .. |image4| image:: images/platform/forgot_password_4.png
+:align:center

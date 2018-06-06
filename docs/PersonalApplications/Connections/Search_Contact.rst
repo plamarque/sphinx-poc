@@ -35,11 +35,11 @@ Select the search criteria:
 
 Hit the Enter key, or click Search to find your desired contacts.
 
-    **Note**
+    
 
-    -  When searching by alphabets, only contacts whose last names start
-       with the search letter are listed in the Contacts Directory page.
+    .. note:: -  When searching by alphabets, only contacts whose last names start with the search letter are listed in the Contacts Directory page.
 
-    -  The search results are also ordered by the last name.
+			  -  The search results are also ordered by the last name.
 
 .. |image0| image:: images/social/search_by_name.png
+:align:center

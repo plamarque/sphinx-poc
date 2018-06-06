@@ -12,14 +12,16 @@ preferences of a gadget.
 The following is an example of changing preferences of the Latest Forum
 Posts gadget.
 
-Click |image1| to open the Edit form of the Latest Forum Posts gadget.
+1. Click |image1| to open the Edit form of the Latest Forum Posts gadget.
 
 |image2|
 
-Enter in all the fields of the form.
+2. Fill in all the fields of the form.
 
-Click Save to accept your changes.
+3. Click Save to accept your changes.
 
 .. |image0| image:: images/gatein/edit_gadget_preference.png
+:align:center
 .. |image1| image:: images/common/edit_icon.png
 .. |image2| image:: images/gatein/edit_lastest_forum_posts.png
+:align:center

@@ -1,4 +1,4 @@
-.. _Email-notification-Open-action.rst:
+.. _Email-notification-Open-action:
 
 Email notification actions
 ==========================
@@ -33,10 +33,7 @@ For space invitations, two other buttons exist:
 An action button is added to email notifications for some activity types
 such as:
 
--  `Status updates with file
-   attachment <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.UpdatingStatus>`__
-   or `file
-   sharing <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.SharingLinkAndFile>`__:
+-  :ref:`Status updates with file attachment <Share-AS>` or :ref:`file sharing <Sharing-Link-and-File>`:
    For this kind of notification, Open button opens the file in
    Documents application.
 
@@ -65,4 +62,6 @@ such as:
    Open actions opens the content in the Sites Explorer.
 
 .. |image0| image:: images/social/email_actions.png
+:align:center
 .. |image1| image:: images/social/space_invitations.png
+:align:center

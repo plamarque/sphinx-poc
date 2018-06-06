@@ -108,12 +108,21 @@ Default values are:
 -  See on site: checked.
 
 .. |image0| image:: images/platform/reply_comment.png
+:align:center
 .. |image1| image:: images/platform/reply_comment_area.png
+:align:center
 .. |image2| image:: images/platform/reply_comment_area_CKeditor.png
+:align:center
 .. |image3| image:: images/platform/more_replies.png
+:align:center
 .. |image4| image:: images/platform/forum_replies.png
+:align:center
 .. |image5| image:: images/platform/quote.png
 .. |image6| image:: images/platform/simple_quote.png
+:align:center
 .. |image7| image:: images/platform/notification.png
+:align:center
 .. |image8| image:: images/platform/email_notif.png
+:align:center
 .. |image9| image:: images/platform/notification_line.png
+:align:center

@@ -43,9 +43,9 @@ Adding more external gadgets from Dashboard
 example, *http://bejeweledg.googlecode.com/svn/trunk/bejeweled.xml.
 
 .. note:: Remote gadgets can be only created using an .xml link or RSS URL.
-However, if you use a link that generates an RSS feed (for example,
-http://feeds.feedburner.com/gatein), a new RSS reader gadget will be
-created automatically even if the URL does not end with *.rss*. 
+			However, if you use a link that generates an RSS feed (for example,
+			http://feeds.feedburner.com/gatein), a new RSS reader gadget will be
+			created automatically even if the URL does not end with *.rss*. 
 
 2- Open the :ref:`Dashboard Workspace <use-dashboard-workspace>` window. 
 
@@ -55,8 +55,11 @@ created automatically even if the URL does not end with *.rss*.
 4- Click |image3| to add the new gadget to the page.
 
 .. |image0| image:: images/gatein/my_dashboard_page.png
+:align:center
 .. |image1| image:: images/gatein/dashboard_workspace.png
+:align:center
 .. |image2| image:: images/gatein/add_external_gadget.png
+:align:center
 .. |image3| image:: images/common/plus_icon1.png
 
 

@@ -28,10 +28,9 @@ menu.
 
 The **My Connections** page appears.
 
-    **Note**
+   
 
-    If there are so many connections, the Show More bar will appear at
-    the page bottom. Click Show More to see more connections.
+    .. note:: If there are so many connections, the Show More bar will appear at the page bottom. Click Show More to see more connections.
 
 This page consists of the following tabs:
 
@@ -54,13 +53,14 @@ This page consists of the following tabs:
 -  Requests Pending: lists users to whom you have sent connection
    requests. You can also click Cancel Request to revoke your request.
 
-    **Note**
+    
 
-    You can also view your connections by clicking People on the left
-    pane to open the People Directory page which lists all users
-    registered in the portal. However, when the number of users in the
-    network is bigger and bigger, you should select the relevant tabs
-    (My Connections, Requests Received, and Requests Pending) to do
-    actions more quickly and conveniently.
+.. note:: You can also view your connections by clicking People on the left
+			pane to open the People Directory page which lists all users
+			registered in the portal. However, when the number of users in the
+			network is bigger and bigger, you should select the relevant tabs
+			(My Connections, Requests Received, and Requests Pending) to do
+			actions more quickly and conveniently.
 
 .. |image0| image:: images/social/select_my_connections.png
+:align:center

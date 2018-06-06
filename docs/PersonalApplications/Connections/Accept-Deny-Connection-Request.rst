@@ -7,29 +7,22 @@ You can perform these actions by doing one of the following ways:
 
 **The first way**
 
-Use the Invitations application on the Social Intranet homepage. See
-`here <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.InvitationsApplication>`__
-for more details.
+Use the Invitations application on the Social Intranet homepage. See :ref:`here <invitationsapp>` for more details.
 
 **The second way**
 
-Select the Requests Received tab in the My Connections page.
+1. Select the Requests Received tab in the My Connections page.
 
 |image0|
 
-Click Confirm/ Ignore under the contact name to accept/deny the request
-respectively.
+2. Click Confirm/ Ignore under the contact name to accept/deny the request respectively.
 
-    **Note**
-
-    You can also accept the request by hovering your cursor over the
-    contact name, then click Confirm.
+    
+    .. note:: You can also accept the request by hovering your cursor over the contact name, then click Confirm.
 
 **The third way**
 
-`Access the profile page of the
-contact <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourConnections.ViewingProfileOfOtherContacts>`__
-who sent you a connection request, then click Accept Request/ **Deny**.
+:ref:`Access the profile page of the contact <View-Profile-Contacts>` who sent you a connection request, then click Accept Request or Deny button.
 
 |image1|
 
@@ -43,11 +36,11 @@ who sent you a connection request, then click Accept Request/ **Deny**.
 
    |image2|
 
--  If you `remove your
-   connection <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourConnections.DisconnectingFromYourContacts>`__
-   with a user, the number of your connections will be updated to the
-   activity.
+-  If you :ref:`remove your connection <Disconnect-Contact>` with a user, the number of your connections will be updated to the activity.
 
 .. |image0| image:: images/social/confirm_request.png
+:align:center
 .. |image1| image:: images/social/deny_connect_request.png
+:align:center
 .. |image2| image:: images/social/connection_activity.png
+:align:center

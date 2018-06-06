@@ -16,12 +16,10 @@ hover your cursor over the contact name and click Connect.
 
 **The second way**
 
-`Access the profile page of the
-contact <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourConnections.ViewingProfileOfOtherContacts>`__
-to whom you want to send a connection request, then click Connect.
+:ref:`Access the profile page of the contact <View-Profile-Contacts>` to whom you want to send a connection request, then click Connect button.
 
-    **Note**
 
-    The Connect button will become **Cancel Request**.
+    .. note:: The Connect button will become **Cancel Request**.
 
 .. |image0| image:: images/social/send_connection_request.png
+:align:center

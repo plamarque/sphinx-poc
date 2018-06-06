@@ -102,8 +102,11 @@ the link.
     .. note:: If the activity composer is empty, the |image21| button still grey and unclickable until adding something (a text message, a link or a file) in the activity composer area.
 
 .. |image0| image:: images/platform/activity_composer.png
+:align:center
 .. |image1| image:: images/platform/formatting_toolbar.png
+:align:center
 .. |image2| image:: images/platform/formatting_toolbar_actions.png
+:align:center
 .. |image3| image:: images/common/1.png
 .. |image4| image:: images/common/2.png
 .. |image5| image:: images/common/3.png
@@ -114,12 +117,18 @@ the link.
 .. |image10| image:: images/common/8.png
 .. |image11| image:: images/platform/post_button.png
 .. |image12| image:: images/platform/post_message.png
+:align:center
 .. |image13| image:: images/platform/post_file.png
+:align:center
 .. |image14| image:: images/platform/post_button.png
 .. |image15| image:: images/platform/posted_files.png
+:align:center
 .. |image16| image:: images/platform/link_area.png
+:align:center
 .. |image17| image:: images/platform/attach_button.png
 .. |image18| image:: images/platform/attached_link.png
+:align:center
 .. |image19| image:: images/platform/post_button.png
 .. |image20| image:: images/platform/attached_link_toAS.png
+:align:center
 .. |image21| image:: images/platform/post_button.png

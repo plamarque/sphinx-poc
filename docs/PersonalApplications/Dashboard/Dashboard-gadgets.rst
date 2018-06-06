@@ -3,10 +3,12 @@
 Built-in gadgets
 ================
 
-This section will introduce you to all built-in gadgets used in PRODUCT
-via the dashboard.
+This section will introduce you to all built-in gadgets used in eXo Platform via the dashboard.
 
-**Login History**
+.. _Login-history:
+
+Login History
+~~~~~~~~~~~~~~
 
 The Login History gadget records users' login history and provides
 statistics.
@@ -26,7 +28,10 @@ In the Login History tab, you can look up the login history of a
 specific user by entering his username in the Search box and press the
 Enter key.
 
-**Template Statistics**
+.. _Templat-statistics:
+
+Template Statistics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Template Statistics gadget lists all information related to the
 execution time of all templates in the portal, therefore administrators
@@ -62,7 +67,11 @@ Each template provides you with the following information:
 
 -  max: The maximum execution time of the template.
 
-**Featured Poll**
+.. _Featured-poll:
+
+
+Featured Poll
+~~~~~~~~~~~~~
 
 |image2|
 
@@ -81,8 +90,11 @@ topic in the Forum.
 
    To discuss about the poll topic in the forum, just click the Discuss
    in Forum and you will be redirected to the forum,
+   
+.. _Bookmarks:   
 
-**Bookmarks**
+Bookmarks
+~~~~~~~~~~~~~
 
 The Bookmarks gadget is a simple link management one which displays your
 bookmarked links in the portal and allows you to quickly access them by
@@ -105,31 +117,36 @@ clicking them. You can add, edit or remove any bookmarks.
 -  To delete a bookmark, hover your cursor over your desired bookmark,
    then click
    corresponding to it.
+   
+.. _Favorite-docs:
 
-**Favorite Documents**
+Favorite Documents
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 |image8|
 
 The Favorite Documents gadget lists all of your documents which are
-`added to
-favorites <#PLFUserGuide.ManagingYourDocuments.OrganizingYourContent.AddingToFavorites>`__,
-so you can quickly access them.
+`added to favorites <#PLFUserGuide.ManagingYourDocuments.OrganizingYourContent.AddingToFavorites>`__, so you can quickly access them.
 
-You can go the Favorites folder in the Personal Documents drive by
-clicking |image9|.
+You can go the Favorites folder in the Personal Documents drive by clicking |image9|.
 
-    **Note**
 
-    The Login History and Template Statistics gadgets are for the
-    administrators to manage and improve the portal better.
+   .. note:: The Login History and Template Statistics gadgets are for the
+				administrators to manage and improve the portal better.
 
 .. |image0| image:: images/gatein/login_history_gadget.png
+:align:center
 .. |image1| image:: images/gatein/template_statistics_gadget.png
+:align:center
 .. |image2| image:: images/gatein/featured_poll_gadget.png
+:align:center
 .. |image3| image:: images/gatein/setting_icon.png
 .. |image4| image:: images/common/plus_icon.png
 .. |image5| image:: images/gatein/bookmarks_gadget.png
+:align:center
 .. |image6| image:: images/common/edit_icon.png
 .. |image7| image:: images/gatein/edit_bookmark_gadget.png
+:align:center
 .. |image8| image:: images/gatein/favorite_documents_gadget.png
+:align:center
 .. |image9| image:: images/common/go_to_folder_icon.png

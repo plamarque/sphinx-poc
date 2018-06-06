@@ -28,3 +28,4 @@ connection status with you and current status.
     .. note:: Regardless of being an administrator, you do not have right to edit profiles of other contacts.
 
 .. |image0| image:: images/social/contact_profile.png
+:align:center

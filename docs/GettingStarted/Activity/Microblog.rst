@@ -164,6 +164,7 @@ area.
     .. note:: After you’ve finished resizing the image and posted it in the activity stream, the image will appear with the exact size you defined. Otherwise it appears in its default size.
 
 .. |image0| image:: images/platform/formatting_toolbar_actions.png
+:align:center
 .. |image1| image:: images/common/1.png
 .. |image2| image:: images/common/2.png
 .. |image3| image:: images/common/3.png
@@ -171,18 +172,30 @@ area.
 .. |image5| image:: images/common/5.png
 .. |image6| image:: images/platform/quote_microblog.png
 .. |image7| image:: images/platform/quoted_message.png
+:align:center
 .. |image8| image:: images/platform/link_insert_button.png
 .. |image9| image:: images/platform/Link_form.png
+:align:center
 .. |image10| image:: images/platform/link_insert_button.png
 .. |image11| image:: images/platform/Link_form_text.png
+:align:center
 .. |image12| image:: images/platform/Link_right_click.png
 .. |image13| image:: images/platform/image_insert_button.png
 .. |image14| image:: images/platform/select_image_form.png
+:align:center
 .. |image15| image:: images/platform/drop_image.png
+:align:center
 .. |image16| image:: images/platform/drop_image_end.png
+:align:center
 .. |image17| image:: images/platform/select_from_drive.png
+:align:center
 .. |image18| image:: images/platform/image_url.png
+:align:center
 .. |image19| image:: images/platform/alignement.png
+:align:center
 .. |image20| image:: images/platform/image_added_in_area.png
+:align:center
 .. |image21| image:: images/platform/resize_image.png
+:align:center
 .. |image22| image:: images/platform/contextual_menu.png
+:align:center

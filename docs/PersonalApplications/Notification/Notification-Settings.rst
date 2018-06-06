@@ -6,19 +6,17 @@ Notifications settings
 To enable this function, you need to change notifications settings as
 below:
 
-Select My Notifications from the drop-down menu of your display name on
+1. Select My Notifications from the drop-down menu of your display name on
 the top navigation bar. You will be redirected to the Notifications
 Settings page.
 
 |image0|
 
-    **Note**
 
-    The **My Tasks** settings are available only if the `Task
-    Management <#PLFUserGuide.WorkingWithTasks>`__ add-on is installed
-    by the administrator.
+:note::The **My Tasks** settings are available only if the `Task
+		Management <#PLFUserGuide.WorkingWithTasks>`__ add-on is installed by the administrator.
 
-Select notification options as desired. In particular:
+2. Select notification options as desired. In particular:
 
 -  Notify me by email: If you choose No option, the functions concerning
    email notification will be hidden.
@@ -44,9 +42,10 @@ Select notification options as desired. In particular:
 -  See on site: Indicates whether you want to receive notifications
    on-site or not.
 
-Click Save to save your new notification settings.
+3. Click Save button to save your new notification settings.
 
-Or, click Reset at the bottom to reset to default values for all your
+Or, click Reset button at the bottom to reset to default values for all your
 notification settings.
 
 .. |image0| image:: images/social/notification_settings.png
+:align:center

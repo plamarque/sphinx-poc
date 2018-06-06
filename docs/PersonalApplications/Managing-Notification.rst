@@ -7,6 +7,8 @@ eXo Platform provides you a complete notification function which helps you to
 avoid missing anything in your organization. As from eXo Platform 4.2, there
 are 2 notification types that you can use.
 
+.. _On-site:
+
 On-site
 ~~~~~~~~
 
@@ -28,12 +30,14 @@ notifications. Besides, the **Mark all as read** function allows you to
 change all messages on this menu into the read status. Finally, to
 remove any notification item, simply click the corresponding |image2|.
 
+.. _Via-emails:
+
 Via emails
 ~~~~~~~~~~~
 
 
 Besides on-site notifications, you are totally able to keep track of
-activities and events via emails. In PRODUCT, it is easy to control your
+activities and events via emails. In eXo Platform, it is easy to control your
 own email notifications from a single location in the user settings.
 When this function is enabled, you will receive emails in 2 ways:
 
@@ -52,10 +56,8 @@ When this function is enabled, you will receive emails in 2 ways:
    |image4|
 
     .. note:: To receive notification and digest emails as well as on-site
-    notifications, your administrator must enable notification plugins
-    first. See `Notification
-    administration <#PLFUserGuide.AdministeringeXoPlatform.NotificationAdministration>`__
-    for details.
+				notifications, your administrator must enable notification plugins
+				first. See `Notification administration <#PLFUserGuide.AdministeringeXoPlatform.NotificationAdministration>`__ for details.
 
 This section shows you how to manage your notifications via the
 following topics:
@@ -70,7 +72,11 @@ following topics:
    Describes different actions in the email notifications.
 
 .. |image0| image:: images/social/notification_board_1.png
+:align:center
 .. |image1| image:: images/social/notification_board_2.png
+:align:center
 .. |image2| image:: images/social/close_notification.png
 .. |image3| image:: images/social/video_post_notification.png
+:align:center
 .. |image4| image:: images/social/daily_digest_email.png
+:align:center

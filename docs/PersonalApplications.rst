@@ -26,9 +26,8 @@ Details of managing your dashboard, a list of gadgets used in eXo Platform via d
 Details of which notification types you will receive.
 
 To do the above actions, simply click your display name at the top navigation bar, then select either from the drop-down menu:
-|image0|
-
 
 |image0|
 
 .. |image0| image:: images/platform/personal_applications_menu.png
+:align:center

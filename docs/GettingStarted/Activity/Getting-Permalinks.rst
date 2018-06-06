@@ -31,5 +31,7 @@ is highlighted.
 
 .. |image0| image:: images/platform/share_link_icon.png
 .. |image1| image:: images/platform/getting_permalink_activity.png
+:align:center
 .. |image2| image:: images/platform/share_link_icon.png
 .. |image3| image:: images/platform/getting_permalink_comment.png
+:align:center

@@ -27,7 +27,9 @@ Changing your profile information
 Changing your password
 -----------------------
 1- Select the **Change Password** tab. 
+
 |image2|
+
 2- Input your current password to identify that you are the owner of this account.
 
 3- Input your new password which must have at least 6 characters.
@@ -48,6 +50,7 @@ Managing your social networks
 
 If your administrator does not integrate OAuth with eXo Platform, you will see one message "No social network available". 
 If any social network is integrated, you will see the following that allows you to link/unlink your account to the social networks.
+
 |image3|
 
 - The text fields are read-only. Each has a value when the eXo account is linked with a social network account; otherwise, it is empty.
@@ -58,7 +61,11 @@ If any social network is integrated, you will see the following that allows you 
 
 
 .. |image0| image:: images/platform/account_settings.png
+:align:center
 .. |image1| image:: images/platform/account_settings_form.png
+:align:center
 .. |image2| image:: images/platform/change_password_form.png
+:align:center
 .. |image3| image:: images/platform/social_networks_form.png
+:align:center
 

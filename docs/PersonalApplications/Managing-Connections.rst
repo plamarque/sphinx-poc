@@ -25,31 +25,23 @@ menu.
 
 The **My Connections** page appears.
 
-    .. note:: If there are so many connections, the Show More bar will appear at
-    the page bottom. Click Show More to see more connections.
+    .. note:: If there are so many connections, the Show More bar will appear at the page bottom. Click Show More to see more connections.
 
 This page consists of the following tabs:
 
--  Everyone: lists users who have registered in the PRODUCT system.
+-  *Everyone*: lists users who have registered in the eXo Platform system.
 
--  My Connections: lists users who have established connections with
-   you. You can remove these connections by clicking Remove Connection.
+-  *My Connections*: lists users who have established connections with you. You can remove these connections by clicking Remove Connection.
 
-       .. note:: The `suspended users <#PLFUserGuide.AdministeringeXoPlatform.ManagingYourOrganization.ManagingUsers.DisablingUser>`
-       will not be listed in the **Everyone** and **My Connections** applications.
+       .. note:: The :ref:`suspended users <DisablingUser>` will not be listed in the **Everyone** and **My Connections** applications.
 
--  Requests Received: lists users who have sent you connection request.
-   You can click Confirm to accept being as his/her contact or Ignore to
-   refuse.
+-  *Requests Received*: lists users who have sent you connection request. You can click Confirm to accept being as his/her contact or Ignore to refuse.
 
--  Requests Pending: lists users to whom you have sent connection
+-  *Requests Pending*: lists users to whom you have sent connection
    requests. You can also click Cancel Request to revoke your request.
 
-    .. note:: You can also view your connections by clicking People on the left
-    pane to open the People Directory page which lists all users
-    registered in the portal. However, when the number of users in the
-    network is bigger and bigger, you should select the relevant tabs
-    (My Connections, Requests Received, and Requests Pending) to do
-    actions more quickly and conveniently.
+    .. note:: You can also view your connections by clicking People on the left pane to open the People Directory page which lists all users registered in the portal. 
+				However, when the number of users in the network is bigger and bigger, you should select the relevant tabs (My Connections, Requests Received, and Requests Pending) to do actions more quickly and conveniently.
 
 .. |image0| image:: images/social/select_my_connections.png
+:align:center

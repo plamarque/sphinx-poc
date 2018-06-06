@@ -9,14 +9,10 @@ following ways:
 
 **The first way**
 
-Select the Requests Pending tab in the My Connections page.
+1. Select the Requests Pending tab in the My Connections page.
 
-Click **Cancel Request** under the contact name, or hover your cursor
-over the contact name and click Cancel Request to revoke the connection
-request.
+2. Click **Cancel Request** under the contact name, or hover your cursor over the contact name and click Cancel Request to revoke the connection request.
 
 **The second way**
 
-`Access the profile page of the
-contact <#PLFUserGuide.ManagingYourPersonalApplications.ManagingYourConnections.ViewingProfileOfOtherContacts>`__
-to whom you sent a connection request, then click **Cancel Request**.
+:ref:`Access the profile page of the contact <View-Profile-Contacts>` to whom you sent a connection request, then click **Cancel Request**.
