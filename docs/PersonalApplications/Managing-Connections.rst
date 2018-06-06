@@ -44,4 +44,4 @@ This page consists of the following tabs:
 				However, when the number of users in the network is bigger and bigger, you should select the relevant tabs (My Connections, Requests Received, and Requests Pending) to do actions more quickly and conveniently.
 
 .. |image0| image:: images/social/select_my_connections.png
-:align:center
+

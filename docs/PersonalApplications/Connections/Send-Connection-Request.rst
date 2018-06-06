@@ -22,4 +22,4 @@ hover your cursor over the contact name and click Connect.
     .. note:: The Connect button will become **Cancel Request**.
 
 .. |image0| image:: images/social/send_connection_request.png
-:align:center
+

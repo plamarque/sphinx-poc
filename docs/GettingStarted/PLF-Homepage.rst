@@ -145,8 +145,6 @@ Quickly perform key actions through the following applications:
 -  **Who's Online?**: See who are online or send your connection request to them. See :ref:`Who's Online? application <WhoIsOnlineApp>` for more details.
 
 .. |image0| image:: images/platform/social_intranet_homepage.png
-:align:center
-
 .. |image1| image:: images/common/1.png
 .. |image2| image:: images/common/help_navigation.png
 .. |image3| image:: images/common/help_navigation.png
@@ -156,10 +154,7 @@ Quickly perform key actions through the following applications:
 .. |image7| image:: images/common/administration_navigation.png
 .. |image8| image:: images/common/edit_navigation.png
 .. |image9| image:: images/common/2.png
-
 .. |image10| image:: images/platform/hamburger_menu.gif
-:align:center
-
 .. |image11| image:: images/common/hamburger_icon.png
 .. |image12| image:: images/common/3.png
 .. |image13| image:: images/common/4.png

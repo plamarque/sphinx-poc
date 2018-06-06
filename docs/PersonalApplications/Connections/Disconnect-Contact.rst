@@ -20,4 +20,3 @@ established connection.
 :ref:`Access the profile page of the contact <View-Profile-Contacts>` who is your connection, then hover over the **Connected** button to select **Disconnect**.
 
 .. |image0| image:: images/social/remove_connection.png
-:align:center

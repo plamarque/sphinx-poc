@@ -227,11 +227,8 @@ Experience
 .. |image15| image:: images/social/edit_profile_button.png
 
 .. |image16| image:: images/social/upload_avatar.png
-:align:center
 
 .. |image17| image:: images/social/avatar_preview.png
-:align:center
-
 .. |image18| image:: images/social/update_image_icon.png
 
 .. |image19| image:: images/social/update_image_icon.png

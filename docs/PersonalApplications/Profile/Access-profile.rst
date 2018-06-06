@@ -45,7 +45,5 @@ This layout enables you to view:
 				|image1|
 
 .. |image0| image:: images/social/select_my_profile.png
-:align:center
-
 .. |image1| image:: images/social/profile_changes_activities.png
-:align:center
+

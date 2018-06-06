@@ -30,11 +30,6 @@ This permalink will then take you to the activity in which the comment
 is highlighted.
 
 .. |image0| image:: images/platform/share_link_icon.png
-
 .. |image1| image:: images/platform/getting_permalink_activity.png
-:align:center
-
 .. |image2| image:: images/platform/share_link_icon.png
-
 .. |image3| image:: images/platform/getting_permalink_comment.png
-:align:center

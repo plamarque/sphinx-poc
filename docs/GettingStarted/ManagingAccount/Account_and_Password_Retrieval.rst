@@ -38,7 +38,5 @@ Click Send to submit your entered values.
    log-in.
 
 .. |image0| image:: images/ForgotUserName1.png
-:align:center
 
 .. |image1| image:: images/ForgotEmail1.png
-:align:center

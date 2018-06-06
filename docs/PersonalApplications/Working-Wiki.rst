@@ -16,4 +16,3 @@ Wikis <#PLFUserGuide.WorkingWithWikis>`__ chapter for the full details.
 				for your own wiki, anyone can access, read and edit it via the link.
 
 .. |image0| image:: images/wiki/user_wiki.png
-:align:center

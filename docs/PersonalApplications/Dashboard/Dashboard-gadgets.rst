@@ -135,25 +135,25 @@ You can go the Favorites folder in the Personal Documents drive by clicking |ima
 				administrators to manage and improve the portal better.
 
 .. |image0| image:: images/gatein/login_history_gadget.png
-:align:center
+
 
 .. |image1| image:: images/gatein/template_statistics_gadget.png
-:align:center
+
 
 .. |image2| image:: images/gatein/featured_poll_gadget.png
-:align:center
+
 
 .. |image3| image:: images/gatein/setting_icon.png
 .. |image4| image:: images/common/plus_icon.png
 
 .. |image5| image:: images/gatein/bookmarks_gadget.png
-:align:center
+
 
 .. |image6| image:: images/common/edit_icon.png
 
 .. |image7| image:: images/gatein/edit_bookmark_gadget.png
-:align:center
+
 
 .. |image8| image:: images/gatein/favorite_documents_gadget.png
-:align:center
+
 .. |image9| image:: images/common/go_to_folder_icon.png

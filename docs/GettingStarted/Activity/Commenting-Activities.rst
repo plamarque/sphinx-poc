@@ -31,4 +31,3 @@ someone <mentioning-people>` for more details.
 .. |image0| image:: images/platform/comment_icon.png
 
 .. |image1| image:: images/platform/comment_activity.png
-:align:center

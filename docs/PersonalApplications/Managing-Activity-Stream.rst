@@ -19,4 +19,3 @@ The activities in My Activities are similar to those in :ref:`My Activities <Man
 			can see the Activity Composer that enables them to post on your stream.
 
 .. |image0| image:: images/social/my_activity_stream.png
-:align:center

@@ -39,10 +39,10 @@ Use the Invitations application on the Social Intranet homepage. See :ref:`here 
 -  If you :ref:`remove your connection <Disconnect-Contact>` with a user, the number of your connections will be updated to the activity.
 
 .. |image0| image:: images/social/confirm_request.png
-:align:center
+
 
 .. |image1| image:: images/social/deny_connect_request.png
-:align:center
+
 
 .. |image2| image:: images/social/connection_activity.png
-:align:center
+

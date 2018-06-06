@@ -42,4 +42,3 @@ Hit the Enter key, or click Search to find your desired contacts.
 			  -  The search results are also ordered by the last name.
 
 .. |image0| image:: images/social/search_by_name.png
-:align:center

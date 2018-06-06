@@ -61,14 +61,14 @@ If any social network is integrated, you will see the following that allows you 
 
 
 .. |image0| image:: images/platform/account_settings.png
-:align:center
+
 
 .. |image1| image:: images/platform/account_settings_form.png
-:align:center
+
 
 .. |image2| image:: images/platform/change_password_form.png
-:align:center
+
 
 .. |image3| image:: images/platform/social_networks_form.png
-:align:center
+
 

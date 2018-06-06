@@ -68,10 +68,10 @@ redirected to the :ref:`Social Intranet homepage <PLFHomepage>`. Now, you can st
 	* If the server stops before your account setup data is submitted, the Account Setup screen will appear at your next startup.
 
 .. |image0| image:: images/platform/Unlock-termsentskin.jpg
-:align:center
+
 
 .. |image1| image:: images/platform/Unlock-ACCOUNTSETUP.jpg
-:align:center
+
 
 .. |image2| image:: images/platform/Unlock-greetings_entskin.jpg
-:align:center
+

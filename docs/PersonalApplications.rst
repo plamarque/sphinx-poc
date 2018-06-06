@@ -30,4 +30,4 @@ To do the above actions, simply click your display name at the top navigation ba
 |image0|
 
 .. |image0| image:: images/platform/personal_applications_menu.png
-:align:center
+

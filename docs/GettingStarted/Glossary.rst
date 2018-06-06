@@ -188,4 +188,4 @@ symlinks point. In **Documents**, a symlink has a small chain symbol
 next to its icon.
 
 .. |image0| image:: images/platform/top_navigation_bar.png
-:align:center
+

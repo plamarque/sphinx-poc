@@ -48,4 +48,3 @@ Or, click Reset button at the bottom to reset to default values for all your
 notification settings.
 
 .. |image0| image:: images/social/notification_settings.png
-:align:center

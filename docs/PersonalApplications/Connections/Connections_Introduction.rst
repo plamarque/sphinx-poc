@@ -63,4 +63,3 @@ This page consists of the following tabs:
 			actions more quickly and conveniently.
 
 .. |image0| image:: images/social/select_my_connections.png
-:align:center
