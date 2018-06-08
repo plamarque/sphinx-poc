@@ -1,7 +1,10 @@
+.. _Recording:
+
+======================
 Recording a discussion
 ======================
 
-Click |image0| on the top header of the chat window to start recording.
+1. Click |image0| on the top header of the chat window to start recording.
 
 |image1|
 
@@ -10,7 +13,7 @@ information message will be shown on the chat zone.
 
 |image4|
 
-Click |image5| to stop the meeting and save notes at any time with 2
+2. Click |image5| to stop the meeting and save notes at any time with 2
 options:
 
 |image6|

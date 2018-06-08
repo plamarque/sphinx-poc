@@ -1,3 +1,6 @@
+.. _OrganizingContacts:
+
+========================
 Organizing your contacts
 ========================
 
@@ -5,7 +8,10 @@ When your contacts list becomes so long, it will be difficult to control
 all. Here are some tips commonly used to keep your contacts list
 well-organized and easy to find.
 
-**Hiding/Showing contacts list**
+.. _Hide-show-chat-contacts:
+
+Hiding/Showing contacts list
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Currently, your discussions can be arranged into 4 categories in the
 left pane: Favorites, People, Teams and Spaces. To find what you want
@@ -17,7 +23,10 @@ unnecessary lists by clicking |image1|.
 Also, in **People** pane, you can click |image3| to show/hide offline
 users.
 
-**Adding to favorites**
+.. _Add-toFavorites:
+
+Adding to favorites
+~~~~~~~~~~~~~~~~~~~~~~
 
 To find quickly a contact you often chat with, hover over one and click
 |image4| to save as a favorite. The contact will be moved to the
@@ -26,7 +35,10 @@ To find quickly a contact you often chat with, hover over one and click
 To remove one contact from your favorites, hover over the contact in the
 **Favorites** list and select |image5|.
 
-**Using search bar**
+.. _Use-search-bar:
+
+Using search bar
+~~~~~~~~~~~~~~~~
 
 -  If you want to find one contact, type some letters following @ in the
    search bar. The contacts will be filtered accordingly.

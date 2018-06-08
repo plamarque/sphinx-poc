@@ -1,12 +1,12 @@
+.. _ResponsiveDesign:
+
+========================
 Using eXo Chat on Mobile
 ========================
 
-BRAND\_CHAT is now available for all mobile applications and is
-responsive for smartphones. Here are some screen shots of different
-BRAND\_CHAT screens.
+eXo Chat is now available for all mobile applications and is responsive for smartphones. Here are some screen shots of different eXo Chat screens.
 
-To open BRAND\_CHAT in a mobile device, you just need to click on the
-chat icon in the top navigation of PRODUCT:
+To open eXo Chat in a mobile device, you just need to click on the chat icon in the top navigation of eXo Platform:
 
 |image0|
 
@@ -21,10 +21,8 @@ the feasible actions on that chat room:
 
 |image4|
 
-    **Note**
 
-    A back button |image5| allows you to return to the list of chat
-    rooms from a one to one or group chat room.
+.. note:: A back button |image5| allows you to return to the list of chat rooms from a one to one or group chat room.
 
 To view the list of participants in a defined chat room, after making
 the last action, select Show participants:
@@ -41,8 +39,7 @@ clicking on |image9| or back to intranet homepage by clicking on:
 
 Clicking on |image11| allows you to choose the notification channel for
 a defined chat room (either one to one chat room or group chat room).
-More details in `Chat notifications
-section <#PLFUserGuide.Chat.desktopNotifications>`__.
+More details in :ref:`Chat notifications section <desktopNotifications>`.
 
 |image12|
 

@@ -1,37 +1,45 @@
+.. _CreatingEditingGroupChat:
+
+
+=============================
 Creating/Editing a group chat
 =============================
 
 By creating a group chat, you can share work, knowledge and plans with
-your colleagues more efficiently. In BRAND\_CHAT, the "group chat"
+your colleagues more efficiently. In eXo Chat, the "group chat"
 denotes discussion among space/team members. Your spaces (that you are
 owner or member) are auto-listed into the Spaces pane.
 
 |image0|
 
-**Creating a new chat room**
+.. _Create-new-chat-room:
 
-From the top navigation bar, click |image1| Open Chat to open the chat
+Creating a new chat room
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. From the top navigation bar, click |image1| --> Open Chat to open the chat
 window.
 
-In the left pane, select Rooms tab and then select |image2| to create a
+2. In the left pane, select Rooms tab and then select |image2| to create a
 new chat room.
 
 |image3|
 
-Enter the first letters from usernames you want to invite to the room. A
+3. Enter the first letters from usernames you want to invite to the room. A
 suggestion list appears to facilitate the selection.
 
-This suggestion list proposes your connections at first level followed
-by other usernames sorted in alphabetical order.
+	This suggestion list proposes your connections at first level followed by other usernames sorted in alphabetical order.
 
-You can also remove a chosen username by clicking on |image4|.
+	You can also remove a chosen username by clicking on |image4|.
 
-Click Save to finish.
+4. Click Save to finish.
 
-The room is created and a message is displayed indicating the members
-added.
+5. The room is created and a message is displayed indicating the members added.
 
-**Editing a chat room**
+.. _Edit-chat-room:
+
+Editing a chat room
+~~~~~~~~~~~~~~~~~~~~~
 
 For the chat room that you have created in the **Rooms** pane, you have
 right to change its name and add/remove members as follows:
@@ -50,18 +58,18 @@ An edit chat room form appears in which you can make these actions:
 
 -  Rrename the chat room.
 
--  Add more members (Same way as on `creating a new chat
-   room <#CreatingNewChatRoom>`__).
+-  Add more members (Same way as on :ref: `creating a new chat room <Create-new-chat-room>`).
 
 -  Remove members by clicking the corresponding |image11|.
 
-    **Note**
+ .. note::The list that appears after clicking on |image12| contains the list
+			of actions that you can make on the chat room. Only the chat room
+			creator is able to edit the room.
+			
+.. _Chat-room-user-list:			
 
-    The list that appears after clicking on |image12| contains the list
-    of actions that you can make on the chat room. Only the chat room
-    creator is able to edit the room.
-
-**Chat room user list**
+Chat room user list
+~~~~~~~~~~~~~~~~~~~~
 
 For chat rooms, a collapsible panel contains the list of the chat room
 members.

@@ -1,3 +1,6 @@
+.. _CollaborativeActions:
+
+=====================
 Collaborative actions
 =====================
 
@@ -6,94 +9,107 @@ During a conversation, some collaborative actions are available on
 
 |image1|
 
-**Adding an event**
+.. _Add-event-chat:
 
-Select Add Event from the list of collaborative actions.
+Adding an event
+~~~~~~~~~~~~~~~~
+
+1. Select Add Event from the list of collaborative actions.
 
 |image2|
 
-Fill in the form fields, including the event title, dates and time,
+2. Fill in the form fields, including the event title, dates and time,
 location.
 
-If you choose wrong dates, for example, when the end date To precedes
+3. If you choose wrong dates, for example, when the end date To precedes
 the start date From, an error message is displayed indicating that the
 dates are erroneous.
 
 If you do not fill in all the needed fields, an error message appears
 indicating to fill in the whole form.
 
-Click Post. The newly created event will be displayed on the discussion
-area.
+4. Click Post button. The newly created event will be displayed on the discussion area.
 
 |image3|
 
-    **Note**
 
-    The event will be created in the personal calendar of every member
-    of the room.
+.. note::The event will be created in the personal calendar of every member of the room.
 
-**Assigning a task**
+.. _Assign-task-chat:
 
-    **Note**
+Assigning a task
+~~~~~~~~~~~~~~~~~~~
 
-    This action is available only when the Tasks add-on is available.
 
-Select Assign Task from the list of collaborative actions.
+.. note:: This action is available only when the Tasks add-on is available.
+
+1. Select Assign Task from the list of collaborative actions.
 
 |image4|
 
-Fill in the form fields including the task title, assignee, and due
+2. Fill in the form fields including the task title, assignee, and due
 date.
 
-Click Post. The newly created task will be displayed in the discussion
-area
+3. Click Post button. The newly created task will be displayed in the discussion area
 
 |image5|
 
-**Sharing a link**
+.. _Share-link-chat:
 
-Select Share Link from the list of collaborative actions.
+Sharing a link
+~~~~~~~~~~~~~~
+
+1. Select Share Link from the list of collaborative actions.
 
 |image6|
 
-Enter a valid URL, then click Share. The shared link is displayed in
+2. Enter a valid URL, then click Share. The shared link is displayed in
 discussion area with prefixed\ |image7| icon.
 
 |image8|
 
-**Uploading a file**
+.. _Upload-file-chat:
 
-Select Upload File from the list of collaborative actions.
+Uploading a file
+~~~~~~~~~~~~~~~~~~~~~
+
+1. Select Upload File from the list of collaborative actions.
 
 |image9|
 
-Drag and drop the file into the **DROP YOUR FILE HERE** area, or click
+2. Drag and drop the file into the **DROP YOUR FILE HERE** area, or click
 Select Manually to select a file from your computer.
 
-The uploaded file is displayed on the discussion area prefixed with
+3. The uploaded file is displayed on the discussion area prefixed with
 |image10| icon.
 
 |image11|
 
-**Asking a question**
+.. _Ask-question-chat:
 
-Select Ask a Question from the list of collaborative actions.
+Asking a question
+~~~~~~~~~~~~~~~~~~~~~~
+
+1. Select Ask a Question from the list of collaborative actions.
 
 |image12|
 
-Enter your question into the field, then click Ask to submit your
+2. Enter your question into the field, then click Ask to submit your
 question. The question is displayed on the discussion area with
 |image13|.
 
 |image14|
 
-**Raising hand**
+.. _Raise-hand-chat:
 
-Select Raise Hand from the list of collaborative actions.
+Raising hand
+~~~~~~~~~~~~~~
+
+1. Select Raise Hand from the list of collaborative actions.
 
 |image15|
 
-Enter your idea in the text field, then click Raise your hand. Your idea
+2. Enter your idea in the text field, then click Raise your hand. Your idea
 is displayed on the discussion area prefixed with |image16| icon.
 
 |image17|

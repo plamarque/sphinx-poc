@@ -1,3 +1,6 @@
+.. _miniChat:
+
+================
 Mini chat window
 ================
 
@@ -26,28 +29,18 @@ When you click on the message, the mini chat window appears:
 
 -  |image8| The message content.
 
-    **Note**
 
-    -  The mini chat window could also be opened by:
 
-       -  Clicking on chat button |image9| on the user profile.
-
-       -  Clicking on chat button on user and spaces popovers:
-
-          |image10|
-
-          .
-
-    -  The mini chat window behaves on mobile devices the same as for
-       web:
-
-       |image11|
-
-    -  When your mini chat window is collapsed and you receive an
-       instant message, the number of unread messages appears in both
-       the chat icon and the mini chat window:
-
-       |image12|
+ .. note::* The mini chat window could also be opened by:
+			- Clicking on chat button |image9| on the user profile.
+			- Clicking on chat button on user and spaces popovers:
+              |image10|
+              
+		  * The mini chat window behaves on mobile devices the same as for web:
+			|image11|
+			
+		  * When your mini chat window is collapsed and you receive an instant message, the number of unread messages appears in both the chat icon and the mini chat window:
+			|image12|
 
 .. |image0| image:: images/chat/icon_number.png
 .. |image1| image:: images/chat/message.png

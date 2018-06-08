@@ -9,7 +9,7 @@ eXo Platform supports two views which are:
 * :ref:`Board view <Board>`
 
 
-.. _listView
+.. _listView:
 
 List view
 ~~~~~~~~~~
@@ -37,8 +37,9 @@ click the tick icon that appears:
 |image1|
 
 The task will disappear from the List view unless
-`Filter <#PLFUserGuide.WorkingWithTasks.ManageTask.Filtering>`__ is set
-to show completed tasks.
+:ref:`Filter <Filtering>` is set to show completed tasks.
+
+.. _sort-tasks-list-view:
 
 Sorting/Grouping tasks
 -----------------------
@@ -122,7 +123,7 @@ Sorting/Grouping tasks:
 
 You can sort these tasks by the *Due Date, Priority* and *Rank* options
 as well as group them by the *Assignee, Label* and *None* options as in
-`this view <#PLFUserGuide.WorkingWithTasks.ManageView.GroupSort>`__.
+:ref:`this view <sort-tasks-list-view>`.
 
 Moving tasks
 -------------

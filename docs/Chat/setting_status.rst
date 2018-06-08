@@ -1,3 +1,7 @@
+.. _SettingStatus:
+
+
+===================
 Setting your status
 ===================
 

@@ -1,3 +1,6 @@
+.. _desktopNotifications:
+
+=====================
 Desktop notifications
 =====================
 
@@ -66,10 +69,8 @@ disable these channels through the Preferences screen.
 -  If you enable notifications for *Do Not Disturb* status, this means
    that whatever your chat status is, you will receive notifications.
 
-    **Tip**
 
-    You don't need to save the settings, they are immediately saved and
-    applied.
+    .. tip:: You don't need to save the settings, they are immediately saved and applied.
 
 In addition to the preferences that could be set for global chat
 notifications, it is also possible to parameter notifications for each

@@ -1,27 +1,36 @@
+.. _SendingIM:
+
+
+==========================
 Sending an instant message
 ==========================
 
-**Sending an instant message**
+.. _Send-IM:
 
-Find the contact you want to send message from your lists. The chat
+Sending an instant message
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Find the contact you want to send message from your lists. The chat
 conversation is opened in the right pane.
 
 |image0|
 
-Type your message into the input box, then hit the **Enter** key.
+2. Type your message into the input box, then hit the **Enter** key.
 
 Also, you can make your messages more lively by:
 
-**Adding emotions**
+Adding emotions
+------------------
 
 |image1|
 
 The selected emotions will be displayed as animated ones on the chat
 zone.
 
-**Using beautifiers**
+Using beautifiers
+------------------
 
-BRAND\_CHAT currently supports the following beautifiers:
+eXo Chat currently supports the following beautifiers:
 
 -  google:[WORD] - shows a link to Google directly.
 

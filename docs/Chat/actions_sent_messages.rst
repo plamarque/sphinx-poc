@@ -1,3 +1,7 @@
+.. _ActionsOnSentMessage:
+
+
+=========================
 Actions on a sent message
 =========================
 
@@ -8,13 +12,18 @@ Hover cursor over one chat text to show actions you can perform.
 Note that **Edit** and **Delete** actions are only shown for your own
 chat texts. For ones of another, you only can Save notes and Quote.
 
-**Saving notes**
+.. _Save-notes:
+
+Saving notes
+~~~~~~~~~~~~~
 
 Click **Save notes** to save your discussion as a note. There are 2
-options: **Send meeting notes** and **Save as wiki** that is similar to
-`Recording <#recording_two_options>`__.
+options: **Send meeting notes** and **Save as wiki** that is similar to :ref:`Recording <Recording>`.
 
-**Editing**
+.. _Editing:
+
+Editing
+~~~~~~~~
 
 Click **Edit** and make changes in the **Edit** form.
 
@@ -23,7 +32,10 @@ Click **Edit** and make changes in the **Edit** form.
 After clicking Save, your new content will be updated on the chat zone
 with a pen icon (|image2|) on the right.
 
-**Deleting**
+.. _Deleting:
+
+Deleting
+~~~~~~~~~
 
 Click **Delete** to remove your sent message from the thread. An
 information message is displayed in place of the deleted message with a
@@ -31,7 +43,10 @@ pen icon on the right.
 
 |image3|
 
-**Quoting**
+.. _Quoting:
+
+Quoting
+~~~~~~~~
 
 Click **Quote** to append one message in the input box.
 

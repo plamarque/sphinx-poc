@@ -1,3 +1,7 @@
+.. _ReceivingIM:
+
+
+============================
 Receiving an instant message
 ============================
 
