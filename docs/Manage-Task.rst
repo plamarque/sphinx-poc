@@ -1,7 +1,8 @@
 .. _Manage-Task:
 
+####################
 Working With Tasks
-==================
+####################
 
 
     In this chapter, you will be introduced to the
@@ -13,7 +14,16 @@ Working With Tasks
     In this chapter:
 
 :ref:`Task Management overview <Intoduction>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :ref:`Managing Tasks <ManageTask>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :ref:`Managing Projects <ManageProject>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :ref:`Managing Labels <ManageLabel>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :ref:`Managing Views <ManageView>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
