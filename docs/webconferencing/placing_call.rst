@@ -1,19 +1,18 @@
+.. _MakingVideoCalls:
+
 Placing a call
 ==============
 
-Starting from the PLF\_VERSION version of PRODUCT it is possible to make
+Starting from the 5.0 version of eXo Platform it is possible to make
 one-to-one video calls through the Web Conferencing add-on.
 
-    **Warning**
 
-    The video call functionality operates with the standard
-    `WebRTC <https://webrtc.org/>`__ and requires modern web browsers.
-
-    Web Conferencing is not supported for the browser IE11. Check the
-    full list of supported web browsers in `this
-    file <https://www.exoplatform.com/terms-conditions/supported-environments.pdf>`__.
-
-    One-to-one video calls are not available for mobile devices.
+.. warning:: * The video call functionality operates with the standard
+				`WebRTC <https://webrtc.org/>`__ and requires modern web browsers.
+			 * Web Conferencing is not supported for the browser IE11. Check the
+				full list of supported web browsers in `this
+				file <https://www.exoplatform.com/terms-conditions/supported-environments.pdf>`__.
+			 * One-to-one video calls are not available for mobile devices.
 
 To use the Web Conferencing functionality and make video call with
 another user, you just need to click on the Call button |image0|.
@@ -43,30 +42,28 @@ is in progress. The ringtone stops when the callee answers the call.
 
 |image5|
 
-    **Note**
 
-    If you are using the feature for the first time, when you press the
-    Call button, the call screen appears and contains a popup asking if
-    you want to allow the browser to access your microphone and camera:
+ .. note:: 1. If you are using the feature for the first time, when you press the
+			Call button, the call screen appears and contains a popup asking if
+			you want to allow the browser to access your microphone and camera:
+			**In Firefox:**
 
-    **In Firefox:**
+			|image6|
 
-    |image6|
+			**In Chrome:**
 
-    **In Chrome:**
+			|image7|
 
-    |image7|
+		   2. To process to the call, you need to click on the Allow button.
 
-    To process to the call, you need to click on the Allow button.
+		   3. If you press on Block or Don't Allow, the call is interrupted:
 
-    If you press on Block or Don't Allow, the call is interrupted:
+			|image8|
 
-    |image8|
-
-    Video sharing and microphone settings remember your previous status.
-    For example, if you have muted your microphone in a previous
-    session, the call starts with sound muted. If you have unshared your
-    camera, the call starts without streaming your video stream.
+		   4. Video sharing and microphone settings remember your previous status.
+			For example, if you have muted your microphone in a previous
+			session, the call starts with sound muted. If you have unshared your
+			camera, the call starts without streaming your video stream.
 
 When starting the call i.e. after pressing the Call button, at first it
 shows your camera stream, and when communication is established with
@@ -92,7 +89,10 @@ that the call has been stopped.
 
 |image13|
 
-**Multiple connectors**
+.. _Multiple-connectors:
+
+Multiple connectors
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If many connectors are installed and enabled for Web Conferencing, the
 Call button will be a pulldown which allows to select which provider

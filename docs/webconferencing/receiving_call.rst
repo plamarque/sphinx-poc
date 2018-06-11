@@ -1,3 +1,5 @@
+.. _RecieveVideoCalll:
+
 Receiving a call
 ================
 
@@ -26,14 +28,11 @@ own camera stream is miniaturised in the bottom-right corner.
 When you click on the Decline button, you refuse the call and it
 dismisses the incoming popover.
 
-    **Note**
 
-    Clicking on the Close button |image1| of the notification window
-    allows you to also decline the call.
 
-    The same stands for `Placing a
-    call <#PLFUserGuide.WebConf.MakingVideoCalls>`__, the camera and
-    microphone settings remember previous status.
+   .. note:: 1. Clicking on the Close button |image1| of the notification window allows you to also decline the call.
+
+			 2. The same stands for :ref:`Placing a call <MakingVideoCalls>`, the camera and microphone settings remember previous status.
 
 .. |image0| image:: images/webconf/recieve_videocall.png
 .. |image1| image:: images/webconf/close_button_.png

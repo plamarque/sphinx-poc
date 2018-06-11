@@ -1,3 +1,5 @@
+.. _Administrate-webconf:
+
 Administrating Web Conferencing
 ===============================
 
@@ -7,19 +9,18 @@ settings.
 
 |image0|
 
-    **Note**
 
-    In the previous illustration, multiple providers are available,
-    which is not the case in the standard Web Conferencing add-on that
-    comes built-in with PRODUCT. In standard distributions, only WebRTC
-    connector is available. Other providers will be available on
-    different add-ons, but they are not supported.
+.. note:: In the previous illustration, multiple providers are available,
+			which is not the case in the standard Web Conferencing add-on that
+			comes built-in with eXo Platform. In standard distributions, only WebRTC
+			connector is available. Other providers will be available on
+			different add-ons, but they are not supported.
 
 To access the administration page:
 
 -  You should be part of the group **platform/administrators**.
 
--  Click |image1| Web Conferencing on the top navigation bar.
+-  Click |image1| --> Web Conferencing on the top navigation bar.
 
 |image2|
 
@@ -47,11 +48,9 @@ In production environments, it is highly recommended to use a dedicated
 ICE server which is not the default one,as it produces warnings in the
 platform logs.
 
-    **Note**
-
-    Configuring an ICE server for WebRTC is optional as it falls back to
-    "peer-to-peer" connectivity, but this will not work well accross
-    networks.
+ .. note:: Configuring an ICE server for WebRTC is optional as it falls back to
+			"peer-to-peer" connectivity, but this will not work well accross
+			networks.
 
     WebRTC allows you to specify multiple STUN/TURN servers which can be
     optionally secured with credentials. The ICE protocol will use this
@@ -60,9 +59,9 @@ platform logs.
 Here are some examples of STUN/TURN servers which can be used to
 configure your WebRTC:
 
--  `XIRSYS <https://xirsys.com/>`__
+* `XIRSYS <https://xirsys.com/>`__
 
--  `Coturn <https://github.com/coturn/coturn/wiki/Downloads>`__
+* `Coturn <https://github.com/coturn/coturn/wiki/Downloads>`__
 
 .. |image0| image:: images/webconf/admin_interface.png
 .. |image1| image:: images/webconf/admin_menu.png
