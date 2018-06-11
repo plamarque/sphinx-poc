@@ -12,8 +12,8 @@ Working With Tasks
 
     In this chapter:
 
-* :ref:`Task Management overview <Intoduction>`
-* :ref:`Managing Tasks <ManageTask>`
-* :ref:`Managing Projects <ManageProject>`
-* :ref:`Managing Labels <ManageLabel>`
-* :ref:`Managing Views <ManageView>`
+:ref:`Task Management overview <Intoduction>`
+:ref:`Managing Tasks <ManageTask>`
+:ref:`Managing Projects <ManageProject>`
+:ref:`Managing Labels <ManageLabel>`
+:ref:`Managing Views <ManageView>`

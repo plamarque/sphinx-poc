@@ -5,10 +5,6 @@
 Sending an instant message
 ==========================
 
-.. _Send-IM:
-
-Sending an instant message
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Find the contact you want to send message from your lists. The chat
 conversation is opened in the right pane.

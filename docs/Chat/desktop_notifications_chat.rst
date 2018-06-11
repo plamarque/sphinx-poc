@@ -4,7 +4,7 @@
 Desktop notifications
 =====================
 
-Users don't stay all the time on the chat page, that's why PRODUCT has
+Users don't stay all the time on the chat page, that's why eXo Platform has
 added desktop notifications to alert users on a new message received in
 the chat, even when the browser window is minimized or hidden by another
 one.
@@ -47,7 +47,10 @@ contains:
 When you receive the notification, clicking on it redirects you to the
 corresponding conversation in the Chat application.
 
-**Global Notification Settings**
+.. _Global-notification-settings:
+
+Global Notification Settings
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Desktop notifications complement other ways to draw your attention to
 new messages like the on-site counter and the bips. You can enable or

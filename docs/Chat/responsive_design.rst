@@ -33,7 +33,7 @@ Clicking on |image7| opens a screen:
 
 |image8|
 
-which allows you either to change BRAND\_CHAT notification settings by
+which allows you either to change eXo Chat notification settings by
 clicking on |image9| or back to intranet homepage by clicking on:
 |image10|
 
@@ -43,7 +43,7 @@ More details in :ref:`Chat notifications section <desktopNotifications>`.
 
 |image12|
 
-You can also update your status via the BRAND\_CHAT mobile application,
+You can also update your status via the eXo Chat mobile application,
 you just need to click on the current status and the list of statuses
 appears, select the desired status and the it is updated.
 

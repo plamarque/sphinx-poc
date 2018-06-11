@@ -33,26 +33,26 @@ Discussing in Chat
 
     In this chapter:
 
-* :ref:`Setting your status <SettingStatus>`
+:ref:`Setting your status <SettingStatus>`
 
-* :ref:`Mini chat window <miniChat>`
+:ref:`Mini chat window <miniChat>`
 
-* :ref:`Creating/Editing a group chat <CreatingEditingGroupChat>`
+:ref:`Creating/Editing a group chat <CreatingEditingGroupChat>`
 
-* :ref:`Sending an instant message <SendingIM>`
+:ref:`Sending an instant message <SendingIM>`
 
-* :ref:`Receiving an instant message <ReceivingIM>`
+:ref:`Receiving an instant message <ReceivingIM>`
 
-* :ref:`Actions on a sent message <ActionsOnSentMessage>`
+:ref:`Actions on a sent message <ActionsOnSentMessage>`
 
-* :ref:`Recording a discussion <Recording>`
+:ref:`Recording a discussion <Recording>`
 
-* :ref:`Collabrative actions <CollaborativeActions>`
+:ref:`Collabrative actions <CollaborativeActions>`
 
-* :ref:`Desktop notifications <desktopNotifications>`
+:ref:`Desktop notifications <desktopNotifications>`
 
-* :ref:`Organizing your Contacts <OrganizingContacts>`
+:ref:`Organizing your Contacts <OrganizingContacts>`
 
-* :ref:`Chat messages history <chatHistory>`
+:ref:`Chat messages history <chatHistory>`
 
-* :ref:`Using eXo Chat on Mobile <ResponsiveDesign>`
+:ref:`Using eXo Chat on Mobile <ResponsiveDesign>`
