@@ -27,4 +27,5 @@ Optionally, you can change your search scope by selecting another location from 
 
 .. |image0| image:: images/search/wiki_search_space_scope.png
 .. |image1| image:: images/search/search_bar_suggestion.png
-.. |image1| image:: images/search/wiki_advanced_search_result.png
+.. |image2| image:: images/search/wiki_advanced_search_result.png
+

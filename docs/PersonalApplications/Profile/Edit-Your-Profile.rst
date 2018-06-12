@@ -125,6 +125,8 @@ Contact Information
 |                      | format, for example, http://exoplatform.com/.       |
 +----------------------+-----------------------------------------------------+
 
+.. _Change-your-avatar:
+
 **To change your avatar:**
 
 *The first way:*

@@ -238,7 +238,7 @@ A list of possible properties appears.
 will populate the **Property** field.
 
 4. Define the property value to search for by entering a value into the
-**Contain Exactly** field, or click | Find exactly |.
+**Contain Exactly** field, or click |plus|.
 
 The **Filter Form** with all pre-existing values for your selected
 property will appear.
@@ -304,7 +304,7 @@ The selected document type will populate the **Document Type** field.
 
 1. Tick the checkbox beside the **Category** field.
 
-2. Enter the category you want to search, or click |Add category| for a list of categories.
+2. Enter the category you want to search, or click |plus| for a list of categories.
 
 3. Click |image29| that corresponds to your desired category.
 
@@ -317,6 +317,8 @@ Searching by creating a new query
 
 You need knowledge of the structure of query statements to configure a
 search using the parameters on the **New Query** tab.
+
+|image45|
 
 1. Enter a unique name for this query in the **Name** field.
 
@@ -411,4 +413,5 @@ appear in the right pane.
 .. |image42| image:: images/common/5.png
 .. |image43| image:: images/common/6.png
 .. |image44| image:: images/common/7.png
+.. |image45| image:: images/search/new_search_query_tab.png
 

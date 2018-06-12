@@ -40,11 +40,11 @@ Here, you can see all users who are active in PRODUCT.
 -  The search results are also arranged to the alphabetical order of
    last names.
 
- .. tip::	-  You can combine more than one search type (by name, by position
-			and by skills) at the same time to enhance your search results.
+ .. tip::	-  You can combine more than one search type (by name, by position and by skills) at the same time to enhance your search results.
+ 
 			-  You can select a tab from the **People Directory** page to narrow the search scope.
-			-  The search engine is tolerant to typos, meaning it can find results even if you searched with wrong accent or missed a letter
-			in the name you're looking for.
+			
+			-  The search engine is tolerant to typos, meaning it can find results even if you searched with wrong accent or missed a letter in the name you're looking for.
 
 .. |image0| image:: images/search/contacts_directory.png
 .. |image1| image:: images/common/1.png
