@@ -10,7 +10,7 @@ can perform the search types:
 
 -  :ref:`Quick search <QuickSearch>`
 
--  :ref:`Advanced search <AdvancedSearch>`
+-  :ref:`Advanced search <Advanced-search>`
 
 -  :ref:`Saved queries <SearchingWithSavedQueries>`
    
@@ -169,26 +169,26 @@ A further constraint options window will appear.
 | Item       | Description                                                   |
 +============+===============================================================+
 |            | Adds more than one constraint with either of two operators    |
-|            | (**And** and **Or**).                                         |
+| |image38|  | (**And** and **Or**).                                         |
 +------------+---------------------------------------------------------------+
 |            | Adds a constraint to search by a property with specific       |
-|            | values.                                                       |
+| |image39|  | values.                                                       |
 +------------+---------------------------------------------------------------+
 |            | Adds a constraint to search by a property that contains one   |
-|            | of the word in the keyword.                                   |
+|  |image40| | of the word in the keyword.                                   |
 +------------+---------------------------------------------------------------+
 |            | Adds a constraint to search by a property that does not       |
-|            | contain the keyword.                                          |
+| |image41|  | contain the keyword.                                          |
 +------------+---------------------------------------------------------------+
 |            | Adds a constraint to search by a duration of date (created,   |
-|            | modified).                                                    |
+| |image42|  | modified).                                                    |
 +------------+---------------------------------------------------------------+
 |            | Adds a constraint to search by a document type, including     |
-|            | File, Article, Podcast, Sample node, File Plan, Kofax.        |
+| |image43|  | File, Article, Podcast, Sample node, File Plan, Kofax.        |
 +------------+---------------------------------------------------------------+
-|            | Adds a constraint to search by categories.                    |
+| |image44|  | Adds a constraint to search by categories.                    |
 +------------+---------------------------------------------------------------+
-|            | Adds a value/property.                                        |
+| |plus|     | Adds a value/property.                                        |
 +------------+---------------------------------------------------------------+
 
 4. Select the constraint operator (**And/Or**).
@@ -245,7 +245,7 @@ property will appear.
 
 -  If the value you require is in the list, select it and click **Select**.
 
--  If the value you require is not in the list, enter it in the **Filter** field and click | corresponding |. The value will populate
+-  If the value you require is not in the list, enter it in the **Filter** field and click |corresponding|. The value will populate
    the **Contain Exactly** field of the constraints form.
 
 |image23|
@@ -283,7 +283,7 @@ A small calendar will appear.
 The selected dates will populate the **From** and **To** fields in the
 **Add constraint** form.
 
-.._AddingConstraintByDocumentType:
+.. _AddingConstraintByDocumentType:
 
 **Adding a constraint by document type**
 
@@ -345,6 +345,8 @@ use.
 
 -  Click |image33| to delete a query (provided you have the access
    rights to that query).
+   
+.. _SearchingWithSavedQueries:
 
 Searching with saved queries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -386,13 +388,13 @@ appear in the right pane.
 .. |image19| image:: images/common/plus_icon.png
 .. |image20| image:: images/search/select_property_form.png
 .. |image21| image:: images/common/plus_icon.png
-.. | corresponding | image:: images/common/plus_icon.png
+.. |corresponding| image:: images/common/plus_icon.png
 .. |image23| image:: images/search/contain_exactly_populated.png
-.. | Add Property | image:: images/common/plus_icon.png
+.. |Add Property| image:: images/common/plus_icon.png
 .. |image25| image:: images/search/date_search_condition.png
 .. |image26| image:: images/common/plus_icon.png
 .. |image27| image:: images/search/document_type_list.png
-.. | "Add category" | image:: images/common/plus_icon.png
+.. |plus| image:: images/common/plus_icon.png
 .. |image29| image:: images/common/select_icon.png
 .. |image30| image:: images/search/saved_search_query_tab.png
 .. |image31| image:: images/search/execute_icon.png
@@ -402,3 +404,11 @@ appear in the right pane.
 .. |image35| image:: images/search/saved_search_panel.png
 .. |image36| image:: images/common/view_icon.png
 .. |image37| image:: images/search/goto_folder_icon.png
+.. |image38| image:: images/common/1.png
+.. |image39| image:: images/common/2.png
+.. |image40| image:: images/common/3.png
+.. |image41| image:: images/common/4.png
+.. |image42| image:: images/common/5.png
+.. |image43| image:: images/common/6.png
+.. |image44| image:: images/common/7.png
+

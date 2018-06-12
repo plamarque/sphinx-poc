@@ -22,11 +22,17 @@ For example:
 -  The **Search** function on the main bar to search for items related
    to categories, forums, topics and posts.
 
+|image10|
+
 -  The **Search** function inside one specific forum to find topics and
    posts in the forum only.
+   
+|image11|
 
 -  The **Search** function inside one specific topic to find posts
    related to the topic only.
+
+|image12|
 
 Quick search
 -------------
@@ -38,7 +44,7 @@ Quick search
 Depending on your selected object, the results which contain the
 matching keyword will be displayed in the Search Result form.
 
-.. _Advanced-search-forum
+.. _Advanced-search-forum:
 
 Advanced search
 ~~~~~~~~~~~~~~~~
@@ -74,6 +80,8 @@ Finding in categories
 
 Select Category from the Search in drop-down menu.
 
+|image13|
+
 **In which:**
 
 +--------------------+--------------------------------------------------------+
@@ -104,6 +112,8 @@ Finding in forums
 
 Select Forum from the Search in drop-down menu.
 
+|image14|
+
 **In which:**
 
 +----------------+-----------------------------------------------------------+
@@ -132,6 +142,8 @@ Finding in topics
 ---------------------
 
 Select Topic from the Search in drop-down menu.
+
+|image15|
 
 **In which:**
 
@@ -168,6 +180,8 @@ Finding in posts
 
 Select Post from the Search in drop-down menu.
 
+|image16|
+
 **In which:**
 
 +--------------------+--------------------------------------------------------+
@@ -199,3 +213,10 @@ Select Post from the Search in drop-down menu.
 .. |image7| image:: images/common/select_user_icon.png
 .. |image8| image:: images/common/select_user_icon.png
 .. |image9| image:: images/common/select_user_icon.png
+.. |image10| image:: images/search/forum_search_bar.png
+.. |image11| image:: images/search/search_this_forum.png
+.. |image12| image:: images/search/search_this_topic.png
+.. |image13| image:: images/search/search_category_advanced_search_form.png
+.. |image14| image:: images/search/search_in_forum_form.png
+.. |image15| image:: images/search/search_in_topic_form.png
+.. |image16| image:: images/search/search_in_post_form.png

@@ -72,14 +72,8 @@ criteria will be listed in the results form.
 			edit/delete an event by clicking |image3|/ |image4| at the bottom.
 
 
- .. note:: * If you are searching for a recurring event using Quick search,
-			notice that the search returns those that occur in 2 years in the
-			future. This limit is to prevent an infinite result, so it does not
-			impact non-recurrences.
-
-			* In Advanced search, if you leave the To Date field blank, the 2-year
-			limit is also applied. So you can search for occurrences later than
-			2 years by filling in that field.
+ .. note:: * If you are searching for a recurring event using Quick search, notice that the search returns those that occur in 2 years in the future. This limit is to prevent an infinite result, so it does notimpact non-recurrences.
+			* In Advanced search, if you leave the To Date field blank, the 2-year limit is also applied. So you can search for occurrences later than 2 years by filling in that field.
 
 .. |image0| image:: images/search/calendar_search_box.png
 .. |image1| image:: images/search/calendar_search_result.png
