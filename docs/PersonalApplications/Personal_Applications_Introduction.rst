@@ -1,4 +1,4 @@
-    PRODUCT features a list of personal applications which you can
+    eXo Platform features a list of personal applications which you can
     access quickly. In this chapter, you will have opportunity to learn
     about them via the following topics:
 

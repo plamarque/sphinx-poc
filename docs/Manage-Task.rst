@@ -16,14 +16,14 @@ Working With Tasks
 :ref:`Task Management overview <Intoduction>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Managing Tasks <ManageTask>`
+:ref:`Managing Tasks <Manage-task>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Managing Projects <ManageProject>`
+:ref:`Managing Projects <Manage-project>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Managing Labels <ManageLabel>`
+:ref:`Managing Labels <Manage-label>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Managing Views <ManageView>`
+:ref:`Managing Views <Manage-view>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

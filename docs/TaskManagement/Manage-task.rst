@@ -1,4 +1,4 @@
-.. _ManageTask:
+.. _Manage-task:
 
 Managing tasks
 ==============

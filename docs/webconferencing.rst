@@ -18,12 +18,12 @@ Making Video Calls
 
     In this chapter, we discuss how to:
 
-:ref:`Place a call <MakingVideoCalls>`
+:ref:`Place a call <placing-call>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Receive a video call <RecieveVideoCall>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Receive a video call <receiving-call>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Administrate Web Conferencing <Administrate-webconf>`
+:ref:`Administrate Web Conferencing <administrating-webconf>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

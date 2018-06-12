@@ -1,4 +1,4 @@
-.. _ManageProject:
+.. _Manage-project:
 
 Managing projects
 =================

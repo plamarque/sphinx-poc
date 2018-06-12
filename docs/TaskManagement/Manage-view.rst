@@ -1,17 +1,17 @@
-.. _ManageView:
+.. _Manage-view:
 
 Managing views
 ==============
 
 eXo Platform supports two views which are:
 
-* :ref:`List view <listView>`
-* :ref:`Board view <Board>`
+* :ref:`List view <list-View>`
+* :ref:`Board view <Board-View>`
 
 
-.. _listView:
+.. _list-View:
 
-List view
+list View
 ~~~~~~~~~~
 
 By default, when you access any item on the left pane, the corresponding
@@ -82,7 +82,7 @@ the tasks by:
 			filters, Projects or Labels views, some of the options above may be disabled.
 
 
-.. _Board:
+.. _Board-View:
 
 Board view
 ~~~~~~~~~~~~~~

@@ -1,4 +1,4 @@
-.. _ManageLabel:
+.. _Manage-label:
 
 Managing labels
 ===============
