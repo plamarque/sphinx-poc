@@ -28,7 +28,7 @@ and what you should do first via the following links:
 
 -  `Join a space <#PLFUserGuide.WorkingWithSpaces.JoiningSpace>`__
 
--  :ref:`Post anactivity <Share-AS>`
+-  :ref:`Post an activity <Share-AS>`
 
 -  `Upload a document <#PLFUserGuide.ManagingYourDocuments.WorkingWithBasicActions.UploadingFiles>`__
 
