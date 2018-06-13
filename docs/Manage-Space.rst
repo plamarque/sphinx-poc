@@ -45,3 +45,7 @@ Working With Spaces
 :ref:`Accepting/Ignoring invitations <Accept-Ignore-Space-Invitation>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
        Steps to accept or ignore a request/invitation.
+
+:ref:`Sharing in Space <Sharing-On-Space>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       How to share content in a space.

@@ -7,7 +7,7 @@ Managing space settings
 If you are the creator or have the **Manage** permission on a space, you
 can manage its initial settings in Space Settings, including:
 
--  :ref: `Space information/visibility <ChangingInfoVisibility>`
+-  :ref:`Space information/visibility <ChangingInfoVisibility>`
 
 -  :ref:`Space members <ManagingMembers>`
 
@@ -148,13 +148,15 @@ see your invitations in the `Invitations
 application <#PLFUserGuide.GettingStarted.SocialIntranetHomepage.IntranetApplications.InvitationsApplication>`__
 at the right panel of their homepage.
 
-**Revoking your invitations**
+Revoking your invitations
+---------------------------
 
 If the invited users have not accepted your requests yet, you can revoke
 your invitations by clicking |image13| corresponding to the users' name.
 The users will be removed from the Invited list.
 
-**Validating/Declining request**
+Validating/Declining request
+-----------------------------
 
 As a manager or creator of a space, you can validate other users'
 requests for joining your space.
@@ -165,7 +167,8 @@ requests for joining your space.
 -  To decline a user's request for joining your space, click |image15|
    in the Action column.
 
-**Promoting/Demoting a member**
+Promoting/Demoting a member
+----------------------------
 
 -  To promote a member to the manager position, click |image16| in the
    Manager column. The user will be automatically promoted as a manager
@@ -173,14 +176,13 @@ requests for joining your space.
 
 -  To demote a member, click |image17|.
 
-    **Note**
+.. note:: Be careful not to remove the rights for yourself; otherwise, you
+			will not be able to change your space's settings anymore. Besides,
+			there should be at least one manager in a space, so the last manager
+			of the space is not permitted to be demoted.
 
-    Be careful not to remove the rights for yourself; otherwise, you
-    will not be able to change your space's settings anymore. Besides,
-    there should be at least one manager in a space, so the last manager
-    of the space is not permitted to be demoted.
-
-**Removing a member**
+Removing a member
+------------------
 
 Click |image18| corresponding to the member you want to delete in the
 **Members** list. In case this member is the only manager of the space,
@@ -191,11 +193,7 @@ there will be a warning like this:
 That is, you should promote another member to the manager position
 before you can delete that member.
 
-    **Note**
-
-    You cannot invite, promote, demote or remove users who are
-    `suspended by an
-    administrator <#PLFUserGuide.AdministeringeXoPlatform.ManagingYourOrganization.ManagingUsers.DisablingUser>`__.
+ .. note::You cannot invite, promote, demote or remove users who are `suspended by an administrator <#PLFUserGuide.AdministeringeXoPlatform.ManagingYourOrganization.ManagingUsers.DisablingUser>`__.
     
 .. _ManagingSpaceApplication:    
 
@@ -207,33 +205,32 @@ you to manage space applications.
 
 Here, you can:
 
-**Adding a new space application**
+Adding a new space application
+-------------------------------
 
-Click Add Application to open the Space Application Installer form.
+1. Click Add Application to open the Space Application Installer form.
 
 |image20|
 
-Click a category on the left panel to show its applications on the right
+2. Click a category on the left panel to show its applications on the right
 panel, then select the application you want to add by clicking Add
 corresponding to it.
 
 If there is no available application, ask your system administrator to
 gain the access right.
 
-**Deleting an application**
+Deleting an application
+--------------------------
 
 To remove an application, click |image21| corresponding to the
 application name.
 
-    **Note**
-
-    You cannot delete the Space Settings application because it is
-    configured as a mandatory space application.
+ .. note::You cannot delete the Space Settings application because it is configured as a mandatory space application.
 
 .. _Manage-space-navbar:
 
 Managing space navigation bar
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each space is featured with some "pages" on the space navigation bar.
 These pages may contain applications or any content. By clicking on each
@@ -250,7 +247,8 @@ for more details.
 
 |image23|
 
-**Creating a space page**
+Creating a space page
+-----------------------
 
 To create a page that is accessible on the space navigation bar, simply
 add a navigation node that links to your desired page in the Page
@@ -276,7 +274,8 @@ Also, you can create a space page using:
    accessible, create a node that links to this page (in the Page
    Selector tab).
 
-**Editing a space page**
+Editing a space page
+---------------------
 
 To edit this space page, simply right-click the navigation node
 containing the page and select Edit Node's Page from the context menu.
@@ -285,7 +284,8 @@ See `Editing a
 page <#PLFUserGuide.AdministeringeXoPlatform.ManagingPages.EditingPage>`__
 for more details.
 
-**Removing a space page**
+Removing a space page
+----------------------
 
 If you right-click the node containing the page and select Delete Node
 from the context menu, only the navigation node linking to the page will

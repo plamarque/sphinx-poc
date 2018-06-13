@@ -1,21 +1,21 @@
+.. _Sharing-On-Space:
+
+================
 Sharing in Space
 ================
 
 To share an update, a document or a link in a space, you must be a
 member first. Then follow these steps:
 
-`Access to the space <#PLFUserGuide.WorkingWithSpaces.AccessingSpace>`__
-in which you want to publish a post.
+1. :ref:`Access to the space <Access-Space>` in which you want to publish a post.
 
-Point to the space's activity stream.
+2. Point to the space's activity stream.
 
-Compose your text message or upload documents or attach a link in the
-activity composer. It is same as `Sharing in activity
-stream <#PLFUserGuide.GettingStarted.ActivitiesInActivityStream.SharingActivity>`__.
+3. Compose your text message or upload documents or attach a link in the activity composer. It is same as :ref:`Sharing in activity stream <Share-AS>`.
 
 |image0|
 
-Finally click on Post to share the status.
+4. Finally click on Post to share the status.
 
 |image1|
 
@@ -39,7 +39,7 @@ activities by clicking on the delete (1) icon in the corner. All
 notifications related to that deleted activity in the space are also
 deleted.
 
-.. |image0| image:: images/space/Space_status.png
-.. |image1| image:: images/space/status_shared_space.png
-.. |image2| image:: images/space/space_popover.png
-.. |image3| image:: images/space/space_popover_member.png
+.. |image0| image:: images/social/Space_status.png
+.. |image1| image:: images/social/status_shared_space.png
+.. |image2| image:: images/social/space_popover.png
+.. |image3| image:: images/social/space_popover_member.png

@@ -20,6 +20,8 @@ follows:
 
 |image9|
 
+.. _About-space-visibility:
+
 -  **Visibility**: By default, the Visibility value is set to be Visible.
 
 	-  Visible: The space is always visible in the public spaces list.
