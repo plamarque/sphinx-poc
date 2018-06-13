@@ -9,7 +9,7 @@ Introduction
     when implementing eXo Platform.
 
     This guide assumes that you are using the defaults (for example,
-    user interface and functions) provided in eXo Platform. To make easy for
+    user interface and functions) provided in $PRODUCT To make easy for
     readers when approaching eXo Platform, this guide is organized into the
     following chapters:
     
